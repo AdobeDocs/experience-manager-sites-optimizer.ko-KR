@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시되는 사용 안내서에 대한 설명입니다.
-source-git-commit: 5d57d42623343ef5b968a4dc4368cc9ea4932d9d
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 39%
 
 ---
@@ -19,7 +19,6 @@ ht-degree: 39%
    + [참여](/help/opportunity-types/engagement.md)
    + [사이트 상태](/help/opportunity-types/site-health.md)
    + [보안 태세](/help/opportunity-types/security-posture.md)
-   + [양식 최적화](/help/opportunity-types/form-optimization.md)
 + 설명서{#documentation}
    + [개요](/help/documentation/overview.md)
    + [기본 사항](/help/documentation/basics.md)
@@ -35,8 +34,6 @@ ht-degree: 39%
       + [잘못되었거나 누락된 메타데이터](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [누락되거나 잘못된 구조화된 데이터](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [대체 텍스트 누락](/help/documentation/opportunities/missing-alt-text.md)
-      + [낮은 전환](/help/documentation/opportunities/low-conversions.md)
-      + [낮은 보기](/help/documentation/opportunities/low-views.md)
       + [사이트맵 문제](/help/documentation/opportunities/sitemap-issues.md)
       + [웹 사이트 권한](/help/documentation/opportunities/website-permissions.md)
       + [웹 사이트 취약성](/help/documentation/opportunities/website-vulnerabilities.md)
