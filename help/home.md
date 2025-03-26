@@ -1,21 +1,21 @@
 ---
 title: AEM Sites Optimizer
 description: AEM Sites Optimizer 랜딩 페이지입니다.
-source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
+source-git-commit: ddb9cd950a3c793722ac6de49c449d70c491b495
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 2%
+source-wordcount: '131'
+ht-degree: 100%
 
 ---
 
 
 # AEM Sites Optimizer
 
-![Experience Manager Sites 최적화 도구](./assets/sites-optimizer/hero.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager(AEM) Sites Optimizer은 AEM에 구축된 웹 사이트의 성능을 분석 및 개선하는 클라우드 기반 서비스입니다. 페이지 로드, 구성 요소 사용 및 콘텐츠 전달을 향상시킬 수 있는 영역을 식별하여 웹 사이트의 성능을 높이고 유지 관리 및 업데이트 비용을 줄이는 데 도움이 됩니다. Sites Optimizer을 사용하면 유연하고 안정적인 온라인 경험을 확보할 수 있으며, 이는 참여 및 전환을 유지하는 데 중요합니다.
+Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 구축된 웹 사이트의 성능을 분석하고 개선하는 클라우드 기반 서비스입니다. 페이지 로드, 구성 요소 사용, 콘텐츠 게재를 개선할 수 있는 영역을 식별하여 웹 사이트 성과를 개선하고 유지 관리 및 업데이트 비용을 줄이는 데 도움이 됩니다. Sites Optimizer를 사용하면 참여와 전환을 유지하는 데 중요한 요소인 원활하고 안정적인 온라인 경험을 보장할 수 있습니다.
 
-## Sites Optimizer 시작
+## Sites Optimizer 시작하기
 
 <!-- CARDS 
 
@@ -33,8 +33,8 @@ Adobe Experience Manager(AEM) Sites Optimizer은 AEM에 구축된 웹 사이트�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./opportunity-types/overview.md" title="영업 기회 유형" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="opportunity-types/assets/overview/hero.png" alt="영업 기회 유형"
+                    <a href="./opportunity-types/overview.md" title="기회 유형" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunity-types/assets/overview/hero.png" alt="기회 유형"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,9 +42,9 @@ Adobe Experience Manager(AEM) Sites Optimizer은 AEM에 구축된 웹 사이트�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" title="영업 기회 유형">영업 기회 유형</a>
+                        <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" title="기회 유형">기회 유형</a>
                     </p>
-                    <p class="is-size-6">사용 가능한 Site Optimizer 기회 및 이를 사용하여 사이트의 성능을 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">사용 가능한 Site Optimizer 기회와 이를 사용하여 사이트 성과를 개선하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -67,7 +67,7 @@ Adobe Experience Manager(AEM) Sites Optimizer은 AEM에 구축된 웹 사이트�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./documentation/overview.md" target="_blank" rel="referrer" title="설명서">설명서</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizer 설명서를 살펴보고 모든 기능에 대해 알아보십시오.</p>
+                    <p class="is-size-6">Sites Optimizer 설명서를 탐색하여 모든 기능에 대해 알아봅니다.</p>
                 </div>
                 <a href="./documentation/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
