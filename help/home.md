@@ -1,10 +1,10 @@
 ---
 title: AEM Sites Optimizer
-description: AEM Sites Optimizer 랜딩 페이지입니다.
-source-git-commit: ddb9cd950a3c793722ac6de49c449d70c491b495
+description: Sites Optimizer을 통해 웹 사이트의 성능을 향상시켜 속도를 높이고, 비용을 절감하며, 안정성을 향상시켜 참여도를 향상시킵니다.
+source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '140'
+ht-degree: 87%
 
 ---
 
