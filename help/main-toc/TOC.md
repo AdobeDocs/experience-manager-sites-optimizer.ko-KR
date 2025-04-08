@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: 80d40840aecf1bc2506ccbb5f1cb9a32e74d5fd5
+source-git-commit: 85a97362b5078dd33e84fab5671f153c423b3420
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 92%
+source-wordcount: '81'
+ht-degree: 100%
 
 ---
 
@@ -38,4 +38,3 @@ ht-degree: 92%
       + [웹 사이트 권한](/help/documentation/opportunities/website-permissions.md)
       + [웹 사이트 취약점](/help/documentation/opportunities/website-vulnerabilities.md)
    + [설정](/help/documentation/settings.md)
-+ [Loc TOC 업데이트를 트리거할 숨겨진 파일](hidden-delete-me.md)
