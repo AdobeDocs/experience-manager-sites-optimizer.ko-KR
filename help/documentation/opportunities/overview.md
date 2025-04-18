@@ -2,7 +2,7 @@
 title: Sites Optimizer 기회 설명서
 description: 사용 가능한 모든 Site Optimizer 기회와 이를 사용하여 사이트 성과를 개선하는 방법에 대해 알아봅니다.
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
 ht-degree: 100%
 

@@ -3,9 +3,9 @@ title: 접근성 문제 기회 설명서
 description: 접근성 문제 기회와 이를 사용하여 웹 사이트 보안을 강화하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
 source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
 
 **접근성 문제 기회**&#x200B;는 웹 사이트의 접근성 문제를 식별하며 다음을 포함합니다.
 
-* **문제** - 특정 접근성 문제가 발견되었습니다.
+* **문제** – 발견된 특정 접근성 문제입니다.
 * **지침** – 이 문제가 위반한 [WCAG 지침 ID](https://www.w3.org/TR/WCAG21/)입니다.
 * **사용자 영향** – 장애가 있는 사용자에게 미치는 영향에 대한 평가입니다.
 * **실패하는 요소** - 문제의 영향을 받는 웹 페이지의 HTML 요소입니다.

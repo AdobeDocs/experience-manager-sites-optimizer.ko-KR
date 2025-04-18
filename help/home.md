@@ -1,10 +1,10 @@
 ---
 title: AEM Sites Optimizer
-description: Sites Optimizer을 통해 웹 사이트의 성능을 향상시켜 속도를 높이고, 비용을 절감하며, 안정성을 향상시켜 참여도를 향상시킵니다.
+description: Sites Optimizer로 웹 사이트의 성능을 높여 보십시오. 속도를 개선하고, 비용을 절감하고, 안정성을 높여 더 나은 참여를 이끌어 내십시오.
 source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 

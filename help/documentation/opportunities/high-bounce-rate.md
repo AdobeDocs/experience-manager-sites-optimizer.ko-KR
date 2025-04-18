@@ -3,9 +3,9 @@ title: 높은 바운스 비율 기회 설명서
 description: 낮은 조회수 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여를 개선하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

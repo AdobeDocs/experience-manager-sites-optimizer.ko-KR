@@ -3,9 +3,9 @@ title: 누락된 대체 텍스트 설명서
 description: 누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '461'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

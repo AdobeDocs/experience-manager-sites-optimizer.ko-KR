@@ -3,9 +3,9 @@ title: 누락되거나 잘못된 구조화된 데이터 설명서
 description: 누락되거나 잘못된 구조화된 데이터 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '361'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
