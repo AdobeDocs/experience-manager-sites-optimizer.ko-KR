@@ -2,15 +2,15 @@
 title: 끊어진 내부 링크 기회 설명서
 description: 끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '448'
-ht-degree: 100%
+source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
+workflow-type: tm+mt
+source-wordcount: '447'
+ht-degree: 99%
 
 ---
 
 
-# 잘못되었거나 누락된 메타데이터 기회
+# 중단된 내부 링크 기회
 
 ![끊어진 내부 링크 기회](./assets/broken-internal-links/hero.png){align="center"}
 
