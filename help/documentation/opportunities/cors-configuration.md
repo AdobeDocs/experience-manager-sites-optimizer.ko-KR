@@ -2,10 +2,10 @@
 title: CORS 구성 기회 설명서
 description: CORS 구성 기회에 대해 알아보고 사이트 보안 취약점을 식별하여 해결하는 방법을 알아봅니다.
 badgeSecurityPosture: label="보안 태세" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="보안 태세"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 87%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![CORS 구성 기회](./assets/cors-configuration/hero.png){align="center"}
 
-웹 애플리케이션을 무단 데이터 액세스로부터 보호하려면 CORS(원본 간 리소스 공유)를 올바르게 구성하는 것이 필수적입니다. `Access-Control-Allow-Origin` 헤더가 `*`로 설정되어 있는 경우 모든 도메인에서 응답을 요청하고 수신할 수 있으며, 잠재적으로 공격자에게 민감한 정보가 노출될 수 있습니다. 이는 신뢰할 수 있는 도메인의 허용 목록을 제어하여 보안을 강화하거나 필요하지 않은 곳에서 CORS를 비활성화할 기회를 제공합니다. CORS를 안전하게 설정하면 권한이 있는 사용자가 원활하게 액세스할 수 있도록 하는 동시에 비공개 콘텐츠를 보호하는 데 도움이 됩니다.
+웹 애플리케이션을 무단 데이터 액세스로부터 보호하려면 CORS(원본 간 리소스 공유)를 올바르게 구성하는 것이 필수적입니다. `Access-Control-Allow-Origin` 헤더가 `*`로 설정되어 있는 경우 모든 도메인에서 응답을 요청하고 수신할 수 있으며, 잠재적으로 공격자에게 민감한 정보가 노출될 수 있습니다. 허용 목록에 추가하다 이 기능은 신뢰할 수 있는 도메인의 제어된 도메인을 구현하거나 필요하지 않은 CORS를 비활성화하여 보안을 강화할 수 있는 기회를 제공합니다. CORS를 안전하게 설정하면 권한이 있는 사용자가 원활하게 액세스할 수 있도록 하는 동시에 비공개 콘텐츠를 보호하는 데 도움이 됩니다.
 
 ## 자동 식별
 

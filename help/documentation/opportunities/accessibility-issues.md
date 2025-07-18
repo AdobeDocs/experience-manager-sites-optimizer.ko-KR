@@ -2,10 +2,10 @@
 title: 접근성 문제 기회 설명서
 description: 접근성 문제 기회와 이를 사용하여 웹 사이트 보안을 강화하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: ht
-source-wordcount: '253'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 73%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![접근성 문제 기회](./assets/accessibility-issues/hero.png){align="center"}
 
-접근성 문제 기회는 웹 사이트가 장애를 가진 사용자의 필요에 얼마나 잘 부합하는지와 [웹 콘텐츠 접근성 지침(WCAG)](https://www.w3.org/TR/WCAG21/)을 따르는지 여부를 식별합니다. 사이트가 WCAG를 얼마나 잘 준수하는지 평가하면 시각, 청각, 인지 및 거동 장애가 있는 개인이 콘텐츠를 탐색하고, 콘텐츠와 상호 작용하고, 콘텐츠의 이점을 누릴 수 있도록 포괄적인 온라인 경험을 만드는 데 도움이 됩니다. 이것은 윤리적인 이유로 중요할 뿐만 아니라 법적 요구 사항 준수를 촉진하고, SEO를 개선하며, 대상자 도달 범위를 늘려 사용자 경험과 비즈니스 성과를 향상하는 데에도 중요합니다.
+접근성 문제 기회는 웹 사이트가 장애를 가진 사용자의 필요에 얼마나 잘 부합하는지와 [웹 콘텐츠 접근성 지침(WCAG)](https://www.w3.org/TR/WCAG21/)을 따르는지 여부를 식별합니다. 사이트가 WCAG를 얼마나 잘 준수하는지 평가함으로써 포괄적인 온라인 경험을 만드는 데 도움이 됩니다. 또한 시각, 청각, 인지 및 운동 장애가 있는 개인도 콘텐츠를 탐색하고 상호 작용하며 이점을 누릴 수 있습니다. 이 기능은 윤리적인 이유로 필수적일 뿐만 아니라 법적 요구 사항의 준수를 촉진하고 SEO를 개선하며 고객 만족도를 높여 사용자 경험과 비즈니스 성과를 모두 향상시킬 수 있습니다.
 
 ## 자동 식별
 

@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 기회 설명서
 description: 사용 가능한 모든 Site Optimizer 기회와 이를 사용하여 사이트 성과를 개선하는 방법에 대해 알아봅니다.
-source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
-workflow-type: ht
-source-wordcount: '758'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '756'
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ Sites Optimizer는 Adobe AI 기반의 지속적으로 확장되는 기회들로 
 
 ## 기회 상태
 
-상단의 탭을 사용하여 상태별로 기회를 구성하고 필터링할 수 있습니다.
+맨 위에 있는 탭을 사용하여 상태별로 기회를 구성하고 필터링합니다.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Sites Optimizer는 Adobe AI 기반의 지속적으로 확장되는 기회들로 
 
 ## 기회
 
-[기회 상태](#opportunity-status)를 선택하면 기회 목록을 볼 수 있습니다. 기회 목록은 다음을 기준으로 추가로 필터링할 수 있습니다.
+[기회 상태](#opportunity-status)를 선택하면 기회 목록을 볼 수 있습니다. 다음과 같은 방법으로 기회 목록을 필터링할 수 있습니다.
 
 * **검색** - **키워드, 태그 또는 URL**&#x200B;별로 기회를 검색합니다.
 * **기회 유형** - **유형** 드롭다운을 사용하여 [기회 유형](/help/opportunity-types/overview.md)별로 기회를 필터링합니다.
@@ -56,9 +56,10 @@ Sites Optimizer는 Adobe AI 기반의 지속적으로 확장되는 기회들로 
 각 기회에는 문제에 대한 간략한 설명, 사이트에 미칠 수 있는 잠재적 영향 및 전체 세부 정보에 대한 링크가 제공됩니다. 또한 기회가 최적화되었는지 또는 아직 보류 중인지 여부를 나타내는 상태도 확인할 수 있습니다.
 
 * **기회 제목** – 문제에 대한 간략한 설명과 사이트 성과에 미칠 수 있는 잠재적 영향입니다.
-* **마지막 업데이트** – Sites Optimizer에서 기회를 새 데이터로 최종 업데이트한 날짜입니다.
+* **마지막으로 업데이트됨** - Sites Optimizer이 이 날짜의 새 데이터로 기회를 마지막으로 업데이트했습니다.
+
 * **문제 수** - 사이트에서 식별된 문제의 인스턴스 수입니다.
-* **기회 유형** – 이 기회가 포함된 [기회의 유형](/help/opportunity-types/overview.md)입니다(예: 트래픽 확보, 참여, 사이트 상태).
+* **영업 기회 유형** - 이 영업 기회가 속해 있는 [영업 기회 유형](/help/opportunity-types/overview.md)(트래픽 획득, 참여 또는 사이트 상태 등).
 
 각 기회에 대한 요약 정보는 유형에 따라 다르며 수익 영향, 트래픽, 사용자 참여 또는 보안 위협에 대한 세부 정보가 포함될 수 있습니다.
 

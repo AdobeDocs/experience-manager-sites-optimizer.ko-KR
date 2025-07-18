@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer를 사용한 양식 최적화
 description: Sites Optimizer를 활용한 양식 최적화에 대해 알아봅니다.
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 86%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![양식 최적화 기회](./assets/form-optimization/hero.png){align="center"}
 
-AEM Sites Optimizer의 양식 최적화는 사용자 상호 작용을 개선하고 전환을 극대화하는 데 필수적입니다. 개선이 필요한 영역(예: 낮은 양식 조회수 및 낮은 양식 바운스 비율)을 식별하면 팀에서 양식 디자인, 배치 및 콘텐츠를 개선하여 참여를 높일 수 있습니다. 최적화된 양식은 원활한 사용자 경험을 보장하며, 방문자가 더 쉽게 액션을 완료하고 비즈니스 성과를 달성할 수 있도록 돕습니다. AEM Sites Optimizer의 인사이트를 활용하면 마케터는 지속적으로 개선이 필요한 영역을 식별할 수 있으며, 궁극적으로 효과를 높이고 전반적인 사이트 성과를 개선할 수 있습니다.
+AEM Sites Optimizer의 양식 최적화는 사용자 상호 작용을 개선하고 전환을 극대화하는 데 필수적입니다. 개선이 필요한 영역(예: 낮은 양식 조회수 및 낮은 양식 바운스 비율)을 식별하면 팀에서 양식 디자인, 배치 및 콘텐츠를 개선하여 참여를 높일 수 있습니다. 최적화된 양식은 원활한 사용자 경험을 보장하며, 방문자가 더 쉽게 액션을 완료하고 비즈니스 성과를 달성할 수 있도록 돕습니다. AEM Sites Optimizer의 인사이트를 사용하여 마케터는 개선 영역을 지속적으로 식별할 수 있으므로 궁극적으로 효율성을 높이고 전체 사이트 성과를 높일 수 있습니다.
 
 ## 기회
 

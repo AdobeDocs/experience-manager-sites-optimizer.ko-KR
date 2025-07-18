@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 설명서
 description: Experience Manager Sites Optimizer 설명서.
-source-git-commit: a0b7fcae81bee2bce5ed1d3186026f4577708512
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 87%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-Sites Optimizer 설명서를 시작합니다. 여기에서는 Sites Optimizer를 사용하여 AEM 사이트를 최적화하는 방법에 대한 정보를 확인할 수 있습니다.
+Sites Optimizer 설명서를 시작합니다. 여기에서 Sites Optimizer을 사용하여 AEM 사이트를 최적화하는 방법에 대한 정보를 찾을 수 있습니다.
 
 ## Site Optimizer 기본 사항
 

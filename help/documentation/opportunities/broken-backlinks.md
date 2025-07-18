@@ -2,10 +2,10 @@
 title: 끊어진 백링크 기회 설명서
 description: 끊어진 백링크 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '542'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '547'
+ht-degree: 71%
 
 ---
 
@@ -44,19 +44,19 @@ ht-degree: 100%
 
 ![끊어진 백링크의 자동 제안에 대한 AI 이론적 근거](./assets/broken-backlinks/auto-suggest-ai-rationale.png){align="center"}
 
-**정보** 아이콘을 선택하면 제안된 URL에 대한 AI 이론적 근거를 확인할 수 있습니다. 이론적 근거는 AI가 제안된 URL이 끊어진 링크에 가장 적합하다고 판단한 이유를 설명합니다. 이를 통해 AI의 의사 결정 과정을 이해하고 제안을 수락할지 거부할지에 대한 정보에 입각한 결정을 내리는 데 도움이 될 수 있습니다.
+**정보** 아이콘을 선택하면 제안된 URL에 대한 AI 이론적 근거를 확인할 수 있습니다. 이론적 근거는 AI가 제안된 URL이 끊어진 링크에 가장 적합하다고 판단한 이유를 설명합니다. AI의 의사 결정 과정을 이해하고 제안을 받아들일지 거부할지 정보에 입각한 결정을 내리는 데 도움이 될 수 있다.
 
 >[!TAB 대상 URL 편집]
 
 ![끊어진 백링크의 제안된 URL 편집](./assets/broken-backlinks/edit-target-url.png){align="center"}
 
-AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 선택하여 제안된 URL을 편집할 수 있습니다. 이렇게 하면 끊어진 링크에 가장 적합하다고 생각되는 URL을 수동으로 입력할 수 있습니다. Sites Optimizer는 사이트에서 끊어진 링크에 적합할 것으로 판단되는 다른 URL도 나열합니다.
+AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 선택하여 제안된 URL을 편집할 수 있습니다. 편집하면 끊어진 링크에 가장 적합한 URL을 수동으로 입력할 수 있습니다. Sites Optimizer은 끊어진 링크에 적합하다고 판단되는 사이트의 다른 URL도 모두 나열합니다.
 
 >[!TAB 항목 무시]
 
 ![끊어진 백링크 무시](./assets/broken-backlinks/ignore.png){align="center"}
 
-끊어진 대상 URL이 포함된 항목을 무시하도록 선택할 수 있습니다. **무시 아이콘**&#x200B;을 선택하면 기회 목록에서 끊어진 백링크가 제거됩니다. 무시된 끊어진 백링크는 기회 페이지 상단의 **무시됨** 탭에서 다시 활성화할 수 있습니다.
+끊어진 대상 URL이 포함된 항목을 무시하도록 선택할 수 있습니다. ![삭제 아이콘 또는 무시 아이콘](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg)을 선택하면 영업 기회 목록에서 끊어진 백링크가 제거됩니다. 무시된 끊어진 백링크는 기회 페이지 상단의 **무시됨** 탭에서 다시 활성화할 수 있습니다.
 
 >[!ENDTABS]
 
@@ -66,7 +66,7 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 
 ![끊어진 백링크 자동 최적화](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate에는 끊어진 백링크에 대해 자동 최적화를 배포하는 기능이 추가됩니다. **자동 최적화** 버튼을 선택하면 AEM 사이트의 리디렉션 규칙이 **끊어진 대상 URL**&#x200B;을 **제안된 URL**&#x200B;에 매핑하도록 자동 업데이트됩니다. 이렇게 하면 **참조 페이지**&#x200B;의 끊어진 링크를 따르는 웹 사이트 방문자와 검색 봇이 사이트의 올바른 페이지로 리디력션되어 SEO 및 사용자 경험이 향상됩니다.
+Sites Optimizer Ultimate에는 끊어진 백링크에 대해 자동 최적화를 배포하는 기능이 추가됩니다. **자동 최적화** 버튼을 선택하면 AEM 사이트의 리디렉션 규칙이 **끊어진 대상 URL**&#x200B;을 **제안된 URL**&#x200B;에 매핑하도록 자동 업데이트됩니다. 이 기능을 사용하면 **참조 페이지**&#x200B;에서 끊어진 링크를 따르는 웹 사이트 방문자와 검색 봇이 사이트의 올바른 페이지로 리디렉션되어 SEO 및 사용자 경험이 향상됩니다.
 
 >[!BEGINTABS]
 
@@ -74,7 +74,7 @@ Sites Optimizer Ultimate에는 끊어진 백링크에 대해 자동 최적화를
 
 ![끊어진 백링크 최적화 배포](./assets/broken-backlinks/deploy-optimization.png){align="center"}
 
-**배포 최적화**&#x200B;를 선택하면 AEM 사이트의 리디렉션 규칙이 **끊어진 대상 URL**&#x200B;을 **제안된 URL**&#x200B;에 매핑하도록 업데이트됩니다. 이렇게 하면 **참조 페이지**&#x200B;의 끊어진 링크를 따르는 웹 사이트 방문자와 검색 봇이 사이트의 올바른 페이지로 리디력션되어 SEO 및 사용자 경험이 향상됩니다.
+**최적화 배포**&#x200B;를 선택하면 **끊어진 대상 URL**&#x200B;을(를) **제안된 URL**&#x200B;에 매핑하도록 AEM 사이트의 리디렉션 규칙이 업데이트됩니다. 이 기능을 사용하면 **참조 페이지**&#x200B;에서 끊어진 링크를 따르는 웹 사이트 방문자와 검색 봇이 사이트의 올바른 페이지로 리디렉션되어 SEO 및 사용자 경험이 향상됩니다.
 
 >[!TAB 승인 요청]
 

@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer로 사이트 상태 최적화
 description: Sites Optimizer로 사이트의 상태를 개선하는 방법을 알아봅니다.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: ht
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 100%
+ht-degree: 72%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![사이트 상태 기회](./assets/site-health/hero.png){align="center"}
 
-AEM Sites Optimizer에서 사이트 상태를 유지하는 것은 빠르고 안정적이며 성능이 뛰어난 디지털 경험을 제공하는 데 필수적입니다. 핵심 웹 바이탈과 같은 개선 기회를 식별함으로써 팀은 페이지 속도, 상호 작용, 시각적 안정성을 최적화하여 사용자 경험을 향상하고 검색 엔진 순위를 높일 수 있습니다. 유지 관리가 잘 된 사이트는 보다 원활한 탐색, 더 나은 참여, 향상된 전반적인 성과를 보장합니다. AEM Sites Optimizer의 인사이트를 활용하면 지속적인 모니터링과 개선이 가능하여, 시간이 지나도 사이트를 효과적이고 효율적으로 유지할 수 있습니다.
+AEM Sites Optimizer에서 사이트 상태를 유지하는 것은 빠르고 안정적이며 성능이 뛰어난 디지털 경험을 제공하는 데 필수적입니다. 핵심 웹 바이탈과 같은 개선 기회를 식별함으로써 팀은 페이지 속도, 상호 작용, 시각적 안정성을 최적화하여 사용자 경험을 향상하고 검색 엔진 순위를 높일 수 있습니다. 유지 관리가 잘 된 사이트는 보다 원활한 탐색, 더 나은 참여, 향상된 전반적인 성과를 보장합니다. AEM Sites Optimizer의 통찰력을 사용하면 지속적인 모니터링 및 세분화를 통해 시간이 지나도 사이트를 효율적이고 효과적으로 유지할 수 있습니다.
 
 ## 기회
 
@@ -41,7 +41,7 @@ AEM Sites Optimizer에서 사이트 상태를 유지하는 것은 빠르고 안�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="핵심 웹 바이탈">핵심 웹 바이탈</a>
                     </p>
-                    <p class="is-size-6">핵심 웹 바이탈 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">핵심 Web Vitals 영업 기회와 이를 사용하여 트래픽 획득을 개선하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
