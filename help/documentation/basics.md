@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer 기본 사항
 description: Sites Optimizer의 기본 사항과 탐색 방법을 알아봅니다.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '511'
 ht-degree: 85%
 
 ---
@@ -62,7 +62,7 @@ Sites Optimizer 대시보드는 사이트 성과와 개선 기회에 대한 높�
 * **기회 제목** – 문제에 대한 간략한 설명과 사이트 성과에 미칠 수 있는 잠재적 영향입니다.
 * **마지막으로 업데이트됨** - Sites Optimizer이 이 날짜의 새 데이터로 기회를 마지막으로 업데이트했습니다.
 * **문제 수** - 사이트에서 식별된 문제의 인스턴스 수입니다.
-* **영업 기회 유형** - 이 영업 기회가 속해 있는 [영업 기회 유형](../opportunity-types/overview.md)(트래픽 획득, 참여 또는 사이트 상태 등).
+* **영업 기회 유형** - 이 영업 기회가 속해 있는 [영업 기회 유형](../opportunity-types/overview.md)(트래픽 획득, 참여, 전환 또는 사이트 상태 등).
 
 각 기회에 대한 요약 정보는 유형에 따라 다르며 수익 영향, 트래픽, 사용자 참여 또는 보안 위협에 대한 세부 정보가 포함될 수 있습니다.
 

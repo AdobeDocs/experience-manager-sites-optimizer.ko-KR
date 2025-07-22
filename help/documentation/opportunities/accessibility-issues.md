@@ -2,10 +2,10 @@
 title: 접근성 문제 기회 설명서
 description: 접근성 문제 기회와 이를 사용하여 웹 사이트 보안을 강화하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 73%
+source-wordcount: '263'
+ht-degree: 71%
 
 ---
 
@@ -53,3 +53,7 @@ Sites Optimizer Ultimate에는 발견된 취약점에 대해 자동 최적화를
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+## 추가 정보
+
+[Forms 접근성 문제 기회](/help/documentation/opportunities/forms-accessibility-issues.md)

@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer로 참여 최적화
 description: Sites Optimizer를 사용하여 참여를 개선하는 방법을 알아봅니다.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 92%
+ht-degree: 84%
 
 ---
 
@@ -98,7 +98,7 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="높은 바운스 비율">높은 바운스 비율</a>
                     </p>
-                    <p class="is-size-6">낮은 조회수 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">낮은 보기의 기회와 이를 사용하여 웹 사이트에서 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
