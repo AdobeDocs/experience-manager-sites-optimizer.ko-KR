@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer를 사용한 양식 최적화
 description: Sites Optimizer를 활용한 양식 최적화에 대해 알아봅니다.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 86%

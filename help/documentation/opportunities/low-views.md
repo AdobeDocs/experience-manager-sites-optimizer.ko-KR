@@ -2,8 +2,8 @@
 title: 낮은 조회수 기회 설명서
 description: 낮은 조회수 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여를 개선하는 방법을 알아봅니다.
 badgeFormOptimization: label="양식 최적화" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="양식 최적화"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
 

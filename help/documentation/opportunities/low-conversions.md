@@ -2,7 +2,7 @@
 title: 낮은 전환율 기회 설명서
 description: 낮은 전환율 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여를 개선하는 방법을 알아봅니다.
 badgeFormOptimization: label="양식 최적화" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="양식 최적화"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
