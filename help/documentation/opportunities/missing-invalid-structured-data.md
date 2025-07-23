@@ -3,9 +3,9 @@ title: 누락되거나 잘못된 구조화된 데이터 설명서
 description: 누락되거나 잘못된 구조화된 데이터 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '360'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 누락되거나 잘못된 구조화된 데이터 기회는 페이지에서 감지된 모든 문제를 나열하며, 여기에는 다음과 같은 카테고리가 포함됩니다.
 
-* **문제가 있는 페이지** - 잘못되었거나 누락된 구조적 데이터가 포함된 페이지입니다.
+* **문제가 있는 페이지** – 잘못되었거나 누락된 구조화된 데이터가 포함된 페이지입니다.
 * **문제 및 AI가 제안한 수정 사항** – 페이지에 영향을 미치는 구조화된 데이터 문제의 유형을 나타냅니다.
 * **제안** - 적합한 구조화된 데이터 업데이트에 대한 AI 생성 제안입니다. 자세한 내용은 아래 섹션을 참조하십시오.
 

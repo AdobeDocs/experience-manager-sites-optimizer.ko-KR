@@ -2,9 +2,9 @@
 title: Sites Optimizer로 보안 태세 최적화
 description: Sites Optimizer로 사이트의 보안을 개선하는 방법을 알아봅니다.
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 89%
 
 ![보안 태세 기회](./assets/security-posture/hero.png){align="center"}
 
-AEM Sites Optimizer에서 강력한 보안 태세를 유지하는 것은 디지털 경험과 사용자 데이터를 보호하는 데 중요합니다. CORS 구성, 크로스 사이트 스크립팅, 웹 사이트 권한 및 웹 사이트 취약점 등과 같은 개선 기회를 식별함으로써 팀은 잠재적인 보안 위험을 사전에 해결하고 모범 사례를 준수할 수 있습니다. 보안 조치를 강화하면 민감한 정보를 보호할 수 있을 뿐만 아니라 사용자 신뢰와 사이트 안정성도 향상됩니다. AEM Sites Optimizer의 통찰력을 사용하면 조직은 보안 상태를 지속적으로 모니터링하고 개선하여 위험을 줄이고 안전한 디지털 환경을 유지할 수 있습니다.
+AEM Sites Optimizer에서 강력한 보안 태세를 유지하는 것은 디지털 경험과 사용자 데이터를 보호하는 데 중요합니다. CORS 구성, 크로스 사이트 스크립팅, 웹 사이트 권한 및 웹 사이트 취약점 등과 같은 개선 기회를 식별함으로써 팀은 잠재적인 보안 위험을 사전에 해결하고 모범 사례를 준수할 수 있습니다. 보안 조치를 강화하면 민감한 정보를 보호할 수 있을 뿐만 아니라 사용자 신뢰와 사이트 안정성도 향상됩니다. AEM Sites Optimizer의 인사이트를 활용하면 조직에서 보안 태세를 지속적으로 모니터링하고 개선하여 위험을 줄이고 안전한 디지털 환경을 유지할 수 있습니다.
 
 ## 기회
 

@@ -2,9 +2,9 @@
 title: Sites Optimizer 설정
 description: Sites Optimizer 설정을 구성하고 다른 도구와 통합하는 방법을 알아봅니다.
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 87%
 
 ![Sites Optimizer 설정](./assets/settings/hero.png){align="center"}
 
-사이트 최적화 도구 설정은 Sites Optimizer 환경을 구성하기 위한 중앙 허브입니다.
+Site Optimizer 설정들은 Sites Optimizer 경험을 구성하는 중앙 허브입니다.
 
 ## Google Search Console
 

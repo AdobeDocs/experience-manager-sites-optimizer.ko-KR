@@ -1,19 +1,19 @@
 ---
 title: AEM Sites Optimizer
-description: Sites Optimizer을 통해 웹 사이트의 성능을 향상시켜 속도를 높이고 비용을 절감하며 안정성을 향상시켜 참여도를 향상시킵니다.
+description: Sites Optimizer로 웹 사이트의 성능을 높여 보십시오. 속도를 개선하고, 비용을 절감하고, 안정성을 높여 더 나은 참여를 이끌어 내십시오.
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455092/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 구축된 웹 사이트의 성능을 분석하고 개선하는 클라우드 기반 서비스입니다. 페이지 로드, 구성 요소 사용 및 콘텐츠 전달 개선 영역을 식별합니다. 이 기능은 웹 사이트의 성능을 향상시키는 동시에 유지 관리 및 업데이트 비용을 줄이는 데 도움이 됩니다. Sites Optimizer를 사용하면 참여와 전환을 유지하는 데 중요한 요소인 원활하고 안정적인 온라인 경험을 보장할 수 있습니다.
+Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트의 성능을 분석하고 개선하는 클라우드 기반 서비스입니다. 이는 페이지 로딩, 구성 요소 사용, 콘텐츠 게재 측면에서 개선해야 할 영역을 파악합니다. 이 기능은 유지관리 및 업데이트 비용을 줄이는 동시에 웹 사이트 성능을 향상하는 데 도움이 됩니다. Sites Optimizer를 사용하면 참여와 전환을 유지하는 데 중요한 요소인 원활하고 안정적인 온라인 경험을 보장할 수 있습니다.
 
 ## Sites Optimizer 시작하기
 

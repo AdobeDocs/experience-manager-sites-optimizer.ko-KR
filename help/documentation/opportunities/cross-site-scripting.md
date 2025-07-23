@@ -3,9 +3,9 @@ title: 크로스 사이트 스크립팅 기회 설명서
 description: 크로스 사이트 스크립팅 기회에 대해 알아보고 사이트 보안 취약점을 식별하여 해결하는 방법을 알아봅니다.
 badgeSecurityPosture: label="보안 태세" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="보안 태세"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 78%
 
 ![크로스 사이트 기회](./assets/cross-site-scripting/hero.png){align="center"}
 
-크로스 사이트 스크립팅 기회는 사이트 코드의 취약점을 식별합니다. 그런 다음 공격자가 악의적인 스크립트를 다른 사용자가 보는 웹 페이지에 삽입하기 위해 악용할 수 있는 문제를 수정합니다. 이러한 스크립트는 세션 쿠키와 같은 민감한 정보를 훔치거나 사용자의 암호를 변경하는 등 사용자를 대신하여 액션을 수행할 수 있습니다.
+크로스 사이트 스크립팅 기회는 사이트 코드의 취약점을 식별합니다. 그러면 공격자가 다른 사용자가 보는 웹 페이지에 악성 스크립트를 삽입하는 데 악용할 수 있는 문제를 해결합니다. 이러한 스크립트는 세션 쿠키와 같은 민감한 정보를 훔치거나 사용자의 암호를 변경하는 등 사용자를 대신하여 액션을 수행할 수 있습니다.
 
 ## 자동 식별
 
