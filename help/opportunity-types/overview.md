@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 기회 유형
 description: Sites Optimizer의 주요 기회 유형에 대해 알아보고 이를 통해 사이트 성과를 개선하는 방법을 알아봅니다.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 75%
@@ -38,7 +38,7 @@ AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하�
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
 * ./form-optimization.md
-   { title = Forms Optimizer }
+   { title = Forms Optimization }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -150,7 +150,7 @@ AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms 최적화">Forms 최적화</a>
                     </p>
-                    <p class="is-size-6">Forms Optimizer를 사용하여 양식 전환을 개선하는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Forms 최적화를 사용하여 양식 전환을 개선하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -173,7 +173,7 @@ AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms 접근성">Forms 접근성</a>
                     </p>
-                    <p class="is-size-6">Forms Optimizer를 사용하여 양식 액세스 가능성을 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Forms 최적화를 통해 양식 액세스 가능성을 향상시키는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

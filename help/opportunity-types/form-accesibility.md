@@ -1,9 +1,9 @@
 ---
-title: Forms Optimizer 및 Sites Optimizer
-description: Sites Optimizer을 사용하는 Forms Optimizer에 대해 알아봅니다.
+title: Sites Optimizer을 사용한 Forms 최적화
+description: Sites Optimizer을 사용한 Forms 최적화에 대해 알아봅니다.
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Forms 액세스 가능성 기회
 
-<span class="preview"> Forms Optimizer 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID에서 aem-forms-ea@adobe.com에 작성하여 조기 액세스 프로그램에 참여하고 기능에 대한 액세스를 요청할 수 있습니다. </span>
+<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID에서 aem-forms-ea@adobe.com에 작성하여 조기 액세스 프로그램에 참여하고 기능에 대한 액세스를 요청할 수 있습니다. </span>
 
 ![Forms 액세스 기회](./assets/form-accesibility/hero.png){align="center"}
 

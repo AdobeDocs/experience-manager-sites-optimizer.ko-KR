@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 기회 설명서
 description: 사용 가능한 모든 Site Optimizer 기회와 이를 사용하여 사이트 성과를 개선하는 방법에 대해 알아봅니다.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 82%
@@ -310,7 +310,7 @@ Sites Optimizer에서 사용 가능한 모든 기회를 탐색합니다.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-conversions.md" title="Forms 낮은 전환 수" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms 낮은 전환 수"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms 낮은 전환 수"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -333,7 +333,7 @@ Sites Optimizer에서 사용 가능한 모든 기회를 탐색합니다.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-views.md" title="Forms 낮음 보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="낮은 조회수"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="낮은 조회수"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -356,7 +356,7 @@ Sites Optimizer에서 사용 가능한 모든 기회를 탐색합니다.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-navigation.md" title="Forms 낮은 탐색" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms 낮은 탐색"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms 낮은 탐색"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ Sites Optimizer에서 사용 가능한 모든 기회를 탐색합니다.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./forms-accessibility-issues.md" title="Forms 접근성 문제" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms 접근성 문제"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Forms 접근성 문제"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
