@@ -6,20 +6,20 @@ hidefromtoc: true
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 11%
+ht-degree: 78%
 
 ---
 
 
 # Forms 최적화 기회
 
-<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID에서 aem-forms-ea@adobe.com에 작성하여 조기 액세스 프로그램에 참여하고 기능에 대한 액세스를 요청할 수 있습니다. </span>
+<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![Forms 최적화 기회](./assets/form-optimization/hero.png){align="center"}
 
-Forms 최적화 기회를 통해 조직은 사용자 상호 작용을 체계적으로 개선하고 양식 전환을 늘릴 수 있습니다. 팀은 낮은 보기 수, 낮은 전환 수 및 낮은 탐색 속도와 같은 문제를 감지함으로써 양식 디자인, 배치 및 컨텐츠에 대한 데이터 기반의 조정을 수행할 수 있습니다. 이러한 최적화를 통해 사용자 경험을 간소화할 수 있으므로 방문자가 양식을 쉽게 작성하고 원하는 결과를 얻을 수 있습니다. Forms 최적화를 통한 통찰력을 활용하여 성능 격차를 지속적으로 식별하고 해결함으로써 보다 효과적인 양식과 개선된 비즈니스 결과를 얻을 수 있습니다.
+Forms 최적화 기회를 통해 조직은 체계적으로 사용자 상호작용을 개선하고 전환율을 높일 수 있습니다. 낮은 조회수, 낮은 전환율, 낮은 탐색률 등의 문제를 감지함으로써 팀은 데이터 기반으로 양식 디자인, 배치 및 콘텐츠를 조정할 수 있습니다. 이러한 최적화는 사용자 경험을 간소화하고 방문자가 더 쉽게 양식을 작성하고 원하는 결과를 얻을 수 있도록 도와줍니다. Forms 최적화를 통한 통찰력을 활용하여 성능 격차를 지속적으로 식별하고 해결함으로써 보다 효과적인 양식과 개선된 비즈니스 결과를 얻을 수 있습니다.
 
 ## 기회
 
@@ -50,7 +50,7 @@ Forms 최적화 기회를 통해 조직은 사용자 상호 작용을 체계적�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="낮은 조회수">낮은 조회수</a>
                     </p>
-                    <p class="is-size-6">낮은 보기의 기회와 이를 사용하여 웹 사이트에서 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">낮은 조회수 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식의 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -73,7 +73,7 @@ Forms 최적화 기회를 통해 조직은 사용자 상호 작용을 체계적�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="낮은 전환율">낮은 전환율</a>
                     </p>
-                    <p class="is-size-6">낮은 전환 기회와 이를 사용하여 웹 사이트에서 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">낮은 전환율 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -94,9 +94,9 @@ Forms 최적화 기회를 통해 조직은 사용자 상호 작용을 체계적�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="접근성 문제">탐색 부족</a>
+                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="접근성 문제">낮은 탐색</a>
                     </p>
-                    <p class="is-size-6">탐색 기회가 적은 것과 이를 사용하여 웹 사이트에서 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">낮은 탐색 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

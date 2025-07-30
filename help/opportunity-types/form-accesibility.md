@@ -6,19 +6,19 @@ hidefromtoc: true
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 2%
+ht-degree: 85%
 
 ---
 
 
-# Forms 액세스 가능성 기회
+# Forms 접근성 기회
 
-<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID에서 aem-forms-ea@adobe.com에 작성하여 조기 액세스 프로그램에 참여하고 기능에 대한 액세스를 요청할 수 있습니다. </span>
+<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
 
-![Forms 액세스 기회](./assets/form-accesibility/hero.png){align="center"}
+![Forms 접근성 기회](./assets/form-accesibility/hero.png){align="center"}
 
 
-Forms 접근성 기회는 사용자 상호 작용을 향상시키고 전환을 늘리는 데 중요합니다. WCAG(Web Content Accessibility Guidelines)를 준수하도록 양식을 평가하는 것은 시각, 청각, 인지 및 운동 장애가 있는 사용자에게 포괄적인 경험을 제공하는 데 도움이 됩니다. 이는 윤리적 및 법적 요구 사항을 충족시킬 뿐만 아니라 양식 완료율을 향상시키고 대상자를 넓혀 결과적으로 사용자 경험이 향상되고 비즈니스 결과가 강화됩니다.
+Forms 접근성 기회는 사용자 상호작용을 강화하고 전환율을 높이는 데 중요합니다. 웹 콘텐츠 접근성 가이드라인(WCAG)을 준수하는지 양식을 평가하면 시각, 청각, 인지 및 운동 장애가 있는 사용자에게 포괄적인 경험을 보장하는 데 도움이 됩니다. 이를 통해 윤리적, 법적 요구 사항을 충족할 뿐만 아니라 양식 작성률을 높이고 대상자 범위를 확대하여 더 나은 사용자 경험과 더 강력한 비즈니스 성과를 얻을 수 있습니다.
 
 ## 기회
 
@@ -49,7 +49,7 @@ Forms 접근성 기회는 사용자 상호 작용을 향상시키고 전환을 �
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms 접근성 문제">Forms 접근성 문제</a>
                     </p>
-                    <p class="is-size-6">양식 액세스 가능성 문제와 이를 사용하여 웹 사이트에서의 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">웹 사이트에서 양식 참여도를 개선하기 위해 양식 접근성 문제와 이를 활용하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

@@ -4,7 +4,7 @@ description: Sites Optimizer의 주요 기회 유형에 대해 알아보고 이�
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 75%
+ht-degree: 92%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 75%
 ![기회 유형](./assets/overview/hero.png){align="center"}
 
 
-AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하는 데 도움이 되는 귀중한 인사이트와 권장 사항을 제공합니다. 이러한 인사이트는 다음과 같은 주요 기회 영역으로 그룹화됩니다.
+AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하는 데 도움이 되는 귀중한 인사이트와 권장 사항을 제공합니다. 이들 인사이트는 다음과 같은 주요 기회 영역으로 그룹화됩니다.
 
 * 참여
 * 트래픽 확보
@@ -58,7 +58,7 @@ AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./engagement.md" target="_blank" rel="referrer" title="참여">참여</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizer를 사용하여 참여를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">Sites Optimizer를 사용하여 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -185,4 +185,4 @@ AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하�
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview"> Forms 최적화 및 Forms 접근성 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID에서 aem-forms-ea@adobe.com에 작성하여 조기 액세스 프로그램에 참여하고 기능에 대한 액세스를 요청할 수 있습니다. </span>
+<span class="preview"> 얼리 액세스 프로그램을 통해 Forms 최적화 및 Forms 접근성 기능을 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
