@@ -3,9 +3,9 @@ user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 83%
       + [잘못되었거나 누락된 메타데이터](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [누락되거나 잘못된 구조화된 데이터](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [누락된 대체 텍스트](/help/documentation/opportunities/missing-alt-text.md)
-      + [Forms 낮은 전환 수](/help/documentation/opportunities/low-conversions.md)
-      + [Forms 낮음 보기](/help/documentation/opportunities/low-views.md)
+      + [Forms 낮은 전환율](/help/documentation/opportunities/low-conversions.md)
+      + [Forms 낮은 조회수](/help/documentation/opportunities/low-views.md)
       + [Forms 낮은 탐색](/help/documentation/opportunities/low-navigation.md)
       + [Forms 접근성 문제](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [사이트맵 문제](/help/documentation/opportunities/sitemap-issues.md)

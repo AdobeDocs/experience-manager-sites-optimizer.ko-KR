@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer로 참여 최적화
-description: Sites Optimizer를 사용하여 참여를 개선하는 방법을 알아봅니다.
+description: Sites Optimizer를 사용하여 참여도를 개선하는 방법을 알아봅니다.
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '237'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 92%
 
 ![참여 기회](./assets/engagement/hero.png){align="center"}
 
-AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작용하는 방식에 대한 실행 가능한 인사이트를 제공하여 디지털 경험을 향상시키는 데 매우 중요합니다. 접근성 문제, 끊어진 내부 링크, 높은 바운스 비율 및 누락된 대체 텍스트 등 개선이 필요한 영역을 식별함으로써 마케터와 콘텐츠 작성자는 사이트를 최적화하여 성능과 사용자 참여를 개선할 수 있습니다. 이러한 기회를 활용하여 효과적이고, 검색 가능하고, 매력적으로 보이도록 만들 수 있으며, 궁극적으로 더 높은 전환율과 더 원활한 고객 여정을 촉진할 수 있습니다. AEM Sites Optimizer의 권장 사항을 활용하면 팀은 지속적으로 디지털 전략을 개선하고 대규모로 영향력이 큰 경험을 제공할 수 있습니다.
+AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작용하는 방식에 대한 실행 가능한 인사이트를 제공하여 디지털 경험을 향상시키는 데 매우 중요합니다. 접근성 문제, 끊어진 내부 링크, 높은 바운스 비율 및 누락된 대체 텍스트 등 개선이 필요한 영역을 식별함으로써 마케터와 콘텐츠 작성자는 사이트를 최적화하여 성능과 사용자 참여도를 개선할 수 있습니다. 이러한 기회를 활용하여 효과적이고, 검색 가능하고, 매력적으로 보이도록 만들 수 있으며, 궁극적으로 더 높은 전환율과 더 원활한 고객 여정을 촉진할 수 있습니다. AEM Sites Optimizer의 권장 사항을 활용하면 팀은 지속적으로 디지털 전략을 개선하고 대규모로 영향력이 큰 경험을 제공할 수 있습니다.
 
 
 ## 기회
@@ -75,7 +75,7 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" title="끊어진 내부 링크">끊어진 내부 링크</a>
                     </p>
-                    <p class="is-size-6">끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -98,7 +98,7 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="높은 바운스 비율">높은 바운스 비율</a>
                     </p>
-                    <p class="is-size-6">낮은 보기의 기회와 이를 사용하여 웹 사이트에서 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">낮은 조회수 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식의 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -121,7 +121,7 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="누락된 대체 텍스트">누락된 대체 텍스트</a>
                     </p>
-                    <p class="is-size-6">누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
