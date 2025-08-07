@@ -4,17 +4,15 @@ description: 낮은 조회수 기회에 대해 알아보고 이를 사용하여 
 badgeFormOptimization: label="Forms 최적화" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms 최적화"
 hide: true
 hidefromtoc: true
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
 workflow-type: ht
-source-wordcount: '323'
+source-wordcount: '291'
 ht-degree: 100%
 
 ---
 
 
 # Forms 낮은 조회수 기회
-
-<span class="preview"> Forms 최적화 기능은 얼리 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
 
 ![낮은 조회수 기회](./assets/low-views/hero.png){align="center"}
 
