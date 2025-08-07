@@ -4,7 +4,7 @@ description: Sites Optimizer를 활용한 Forms 최적화에 대해 알아봅니
 hide: true
 hidefromtoc: true
 source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ badgeFormOptimization: label="Forms 최적화" type="Caution" url="../../opportu
 hide: true
 hidefromtoc: true
 source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 100%
 
