@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer로 참여 최적화
 description: Sites Optimizer를 사용하여 참여도를 개선하는 방법을 알아봅니다.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: ht
-source-wordcount: '237'
-ht-degree: 100%
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 83%
 
 ---
 
@@ -15,9 +15,7 @@ ht-degree: 100%
 
 AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작용하는 방식에 대한 실행 가능한 인사이트를 제공하여 디지털 경험을 향상시키는 데 매우 중요합니다. 접근성 문제, 끊어진 내부 링크, 높은 바운스 비율 및 누락된 대체 텍스트 등 개선이 필요한 영역을 식별함으로써 마케터와 콘텐츠 작성자는 사이트를 최적화하여 성능과 사용자 참여도를 개선할 수 있습니다. 이러한 기회를 활용하여 효과적이고, 검색 가능하고, 매력적으로 보이도록 만들 수 있으며, 궁극적으로 더 높은 전환율과 더 원활한 고객 여정을 촉진할 수 있습니다. AEM Sites Optimizer의 권장 사항을 활용하면 팀은 지속적으로 디지털 전략을 개선하고 대규모로 영향력이 큰 경험을 제공할 수 있습니다.
 
-
 ## 기회
-
 
 <!-- CARDS
 
@@ -30,6 +28,9 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
 * ../documentation/opportunities//high-bounce-rate.md
   {title=High bounce rate}
   {image=../assets/common/card-arrows.png}
+* ../documentation/opportunities/high-traffic-page-has-low-ctr.md
+  {title=High traffic page has low CTR}
+  {image=../assets/common/card-browser.png}
 * ../documentation/opportunities/missing-alt-text.md  
   {title=Missing alt text}
   {image=../assets/common/card-arrows.png}
@@ -101,6 +102,29 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
                     <p class="is-size-6">낮은 조회수 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식의 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="High traffic page has low CTR">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="높은 트래픽 페이지에 낮은 CTR이 있음" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="높은 트래픽 페이지에 낮은 CTR이 있음"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="높은 트래픽 페이지에 낮은 CTR이 있음">높은 트래픽 페이지에 낮은 CTR이 있습니다</a>
+                    </p>
+                    <p class="is-size-6">높은 트래픽 페이지의 CTR 기회가 낮고 이를 사용하여 웹 사이트에서 참여도를 높이는 방법에 대해 알아봅니다.</p>
+                </div>
+                <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>

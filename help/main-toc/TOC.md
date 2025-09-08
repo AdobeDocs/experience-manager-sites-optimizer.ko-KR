@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: fcdda7414b56f40ec0feaa9cdbfbe896643d0556
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 97%
+source-wordcount: '105'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 97%
    + [보안 태세](/help/opportunity-types/security-posture.md)
    + [Forms 최적화](/help/opportunity-types/form-optimization.md)
    + [Forms 접근성](/help/opportunity-types/form-accesibility.md)
-   + [프리플라이트 기회](/help/opportunity-types/preflight.md)
+   + [Preflight 기회](/help/opportunity-types/preflight.md)
 + 설명서{#documentation}
    + [개요](/help/documentation/overview.md)
    + [기본 사항](/help/documentation/basics.md)
@@ -34,6 +34,7 @@ ht-degree: 97%
       + [CORS 구성](/help/documentation/opportunities/cors-configuration.md)
       + [크로스 사이트 스크립팅](/help/documentation/opportunities/cross-site-scripting.md)
       + [높은 바운스 비율](/help/documentation/opportunities/high-bounce-rate.md)
+      + [높은 트래픽 페이지에 낮은 CTR이 있음](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
       + [잘못되었거나 누락된 메타데이터](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [누락되거나 잘못된 구조화된 데이터](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [누락된 대체 텍스트](/help/documentation/opportunities/missing-alt-text.md)
