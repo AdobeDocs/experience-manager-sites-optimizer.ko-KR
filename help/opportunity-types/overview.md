@@ -2,9 +2,9 @@
 title: Sites Optimizer 기회 유형
 description: Sites Optimizer의 주요 기회 유형에 대해 알아보고 이를 통해 사이트 성과를 개선하는 방법을 알아봅니다.
 source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하�
 * 사이트 상태
 * Preflight
 
-각 카테고리는 사이트를 개선하는 다양한 방법을 강조합니다. 한 가지 카테고리를 통해 방문자 상호작용이 증가할 수 있습니다. 또 다른 방법은 검색 가능성을 높이는 것입니다. 보안 강화 또는 사이트 안정성 유지에 중점을 두는 경우도 있습니다. Preflight는 페이지가 게시되기 전에 분석하고 최적화하는 데 도움이 됩니다.
+각 카테고리는 사이트를 개선하는 다양한 방법을 강조합니다. 한 가지 카테고리를 통해 방문자 상호작용이 증가할 수 있습니다. 또 다른 방법은 검색 가능성을 높이는 것입니다. 보안 강화나 사이트 안정성 유지에 중점을 두는 곳도 있습니다. Preflight는 페이지가 게시되기 전에 분석하고 최적화하는 데 도움이 됩니다.
 
-이들 기회를 활용하면 사용자 경험이 향상되고, 적합한 대상자를 유치할 수 있으며, 사이트의 보안과 신뢰성이 유지됩니다. 참여 및 트래픽 획득을 강화하면 상호 작용과 가시성이 향상되고, 강력한 보안 태세와 사이트 상태가 신뢰와 안정성을 보장하는 데 도움이 됩니다. Preflight 분석은 콘텐츠가 라이브로 전환되기 전에 최적화되도록 합니다. 아래 링크를 탐색하여 카테고리별로 구성된 기회를 확인하고 사이트를 개선할 수 있는 방법을 알아보십시오.
+이들 기회를 활용하면 사용자 경험이 향상되고, 적합한 대상자를 유치할 수 있으며, 사이트의 보안과 신뢰성이 유지됩니다. 참여와 트래픽 확보를 강화하면 상호 작용을 촉진하고 가시성이 높아지며, 강력한 보안 태세와 사이트 상태는 신뢰와 안정성을 보장하는 데 도움이 됩니다. Preflight 분석을 통해 콘텐츠가 라이브로 게시되기 전에 최적화되었는지 확인할 수 있습니다. 아래 링크를 탐색하여 카테고리별로 구성된 기회를 확인하고 사이트를 개선할 수 있는 방법을 알아보십시오.
 
 ## 기회 유형
 
@@ -199,7 +199,7 @@ AEM Sites Optimizer는 웹 사이트 성과, 유용성 및 보안을 개선하�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./preflight.md" target="_blank" rel="referrer" title="Preflight">Preflight</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizer에서 프리플라이트 분석 및 프리플라이트 기회를 설정하는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Sites Optimizer에서 Preflight 분석 및 Preflight 기회를 설정하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
