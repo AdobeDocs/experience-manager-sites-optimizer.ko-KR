@@ -2,9 +2,9 @@
 title: Sites Optimizer로 참여 최적화
 description: Sites Optimizer를 사용하여 참여도를 개선하는 방법을 알아봅니다.
 source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -111,8 +111,8 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="높은 트래픽 페이지에 낮은 CTR이 있음" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="높은 트래픽 페이지에 낮은 CTR이 있음"
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="높은 트래픽 페이지의 CTR이 낮음" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="높은 트래픽 페이지의 CTR이 낮음"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="높은 트래픽 페이지에 낮은 CTR이 있음">높은 트래픽 페이지에 낮은 CTR이 있습니다</a>
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="높은 트래픽 페이지의 CTR이 낮음">높은 트래픽 페이지의 CTR이 낮음</a>
                     </p>
-                    <p class="is-size-6">높은 트래픽 페이지의 CTR 기회가 낮고 이를 사용하여 웹 사이트에서 참여도를 높이는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">높은 트래픽 페이지의 CTR이 낮은 기회와 이를 활용하여 웹 사이트의 참여도를 높이는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
