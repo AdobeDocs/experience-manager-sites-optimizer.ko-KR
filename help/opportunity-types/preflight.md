@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer을 사용하여 프리플라이트 최적화
 description: AEM Sites Optimizer을 사용한 Preflight 기회에 대해 알아봅니다.
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 23%
@@ -161,14 +161,14 @@ AEM Sites Optimizer preflight 기회를 사용하면 웹 페이지가 라이브�
 
 AEM Sites Optimizer Preflight 기회 식별을 게시하기 전에 페이지에서 Preflight 감사를 실행하려면 유니버설 편집기, 문서 기반 미리보기 또는 AEM Cloud Service에서 Preflight 확장을 설정해야 합니다.
 
-## 사용자 액세스 활성화
+### 사용자 액세스 활성화
 
 Preflight 확장을 사용하려면 사용자가 [Adobe Admin Console](https://adminconsole.adobe.com)에서 다음 AEM Sites Optimizer 제품 프로필 중 하나 이상에 할당되었는지 확인하십시오.
 
 * AEM Sites Optimizer - 자동 제안 사용자
 * AEM Sites Optimizer - 사용자 자동 최적화
 
-## Preflight 확장 활성화
+### Preflight 확장 활성화
 
 >[!BEGINTABS]
 
@@ -176,11 +176,11 @@ Preflight 확장을 사용하려면 사용자가 [Adobe Admin Console](https://a
 
 범용 편집기에서 Preflight를 설정하려면 다음 단계를 수행하십시오.
 
-1. 다음 위치에서 **Extension Manager**&#x200B;을(를) 엽니다.
+1. 다음 위치에서 **Extension Manager**을(를) 엽니다.
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer Preflight 확장**&#x200B;을 찾아 활성화하기 위한 요청을 제출합니다.
 1. **Adobe AEM 팀**&#x200B;이(가) 조직의 확장을 검토하고 활성화합니다.
-1. 확장을 사용하도록 설정한 후 **유니버설 편집기**&#x200B;에서 페이지를 여십시오. 예:
+1. 확장을 사용하도록 설정한 후 **유니버설 편집기**에서 페이지를 여십시오. 예:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 확장**&#x200B;이 **쪽 레일**&#x200B;에 표시됩니다.
 1. 측면 레일에서 **Preflight 확장**&#x200B;을(를) 선택하여 현재 페이지의 **Preflight 감사**&#x200B;를 시작합니다.
