@@ -4,16 +4,16 @@ description: Sites Optimizer로 웹 사이트의 성능을 높여 보십시오. 
 source-git-commit: 96fc971f592120b2fc82ee9db5d765c94940f63f
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 61%
+ht-degree: 90%
 
 ---
 
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455092/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트의 성능을 분석하고 개선하는 클라우드 기반 서비스입니다. Sites Optimizer은 페이지 로드, 구성 요소 사용 및 컨텐츠 전달 개선 영역을 식별합니다. 이 기능은 유지관리 및 업데이트 비용을 줄이는 동시에 웹 사이트 성능을 향상하는 데 도움이 됩니다. Sites Optimizer를 사용하면 참여와 전환을 유지하는 데 중요한 요소인 원활하고 안정적인 온라인 경험을 보장할 수 있습니다.
+Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트의 성능을 분석하고 개선하는 클라우드 기반 서비스입니다. Sites Optimizer는 페이지 로딩, 구성 요소 사용, 콘텐츠 게재 측면에서 개선해야 할 영역을 파악합니다. 이 기능은 유지관리 및 업데이트 비용을 줄이는 동시에 웹 사이트 성능을 향상하는 데 도움이 됩니다. Sites Optimizer를 사용하면 참여와 전환을 유지하는 데 중요한 요소인 원활하고 안정적인 온라인 경험을 보장할 수 있습니다.
 
 ## Sites Optimizer 시작하기
 
@@ -81,7 +81,7 @@ Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트�
 ## Sites Optimizer에 대해 자세히 알아보기
 
 <!-- CARDS 
-* https://helpx.adobe.com/kr/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
@@ -123,8 +123,8 @@ Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" title="AEM Sites Optimizer의 기능 탐색" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/home/business-adobe-com.png" alt="AEM Sites Optimizer의 기능 탐색"
+                    <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" title="AEM Sites Optimizer의 기능 살펴보기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="./assets/home/business-adobe-com.png" alt="AEM Sites Optimizer의 기능 살펴보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,9 +132,9 @@ Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" title="AEM Sites Optimizer의 기능 탐색">AEM Sites Optimizer의 기능 살펴보기</a>
+                        <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" title="AEM Sites Optimizer의 기능 살펴보기">AEM Sites Optimizer의 기능 살펴보기</a>
                     </p>
-                    <p class="is-size-6">AEM Site Optimizer가 귀사를 위해 수행할 수 있는 작업에 대해 알아봅니다.</p>
+                    <p class="is-size-6">AEM Site Optimizer가 회사에 어떻게 도움이 되는지 알아봅니다.</p>
                 </div>
                 <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

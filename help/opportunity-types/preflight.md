@@ -1,10 +1,10 @@
 ---
-title: AEM Sites Optimizer을 사용하여 프리플라이트 최적화
-description: AEM Sites Optimizer을 사용한 Preflight 기회에 대해 알아봅니다.
+title: AEM Sites Optimizer를 통한 Preflight 최적화
+description: AEM Sites Optimizer를 통한 Preflight 기회에 대해 알아봅니다.
 source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 23%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 23%
 
 ![Preflight 기회](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer preflight 기회를 사용하면 웹 페이지가 라이브로 전환되기 전에 성능, SEO 및 사용자 경험에 맞게 최적화됩니다. 프리플라이트 검사는 끊어진 링크, 누락된 메타 태그 및 접근성 문제와 같은 잠재적 문제를 식별하여 콘텐츠 작성자 및 마케터가 게시 프로세스 초기에 이러한 문제를 해결할 수 있도록 합니다. 이 사전 예방적 접근 방식은 하위 최적 콘텐츠 게시의 위험을 최소화하고 사이트 품질을 향상시키며 전반적인 디지털 존재감을 향상시킵니다. Preflight 기회를 활용하면 더 원활한 워크플로를 지원하고, 게시 후 수정 사항을 줄이고, 검색 엔진 순위 및 사용자 만족도를 높이는 데 기여할 수 있습니다.
+AEM Sites Optimizer Preflight 기회는 웹 페이지 공개 전에 웹 페이지의 성능, SEO 및 사용자 경험이 최적화되었는지 확인할 수 있도록 도와줍니다. 끊어진 링크, 누락된 메타 태그, 접근성 문제 등 잠재적 문제를 식별함으로써 콘텐츠 작성자와 마케터가 Preflight 검사로 게시 프로세스 초기에 해당 문제를 해결할 수 있습니다. 이러한 사전 예방적 접근 방식은 최적화되지 않은 콘텐츠 게시 위험을 최소화하고, 사이트 품질을 개선하며, 전반적인 디지털 존재감을 강화합니다. Preflight 기회를 활용하면 더 원활한 워크플로를 보장하고, 게시 후 수정 작업이 감소하며, 검색 엔진 순위와 사용자 만족도가 개선됩니다.
 
 ## 기회
 
@@ -159,37 +159,37 @@ AEM Sites Optimizer preflight 기회를 사용하면 웹 페이지가 라이브�
 
 ## 설정
 
-AEM Sites Optimizer Preflight 기회 식별을 게시하기 전에 페이지에서 Preflight 감사를 실행하려면 유니버설 편집기, 문서 기반 미리보기 또는 AEM Cloud Service에서 Preflight 확장을 설정해야 합니다.
+AEM Sites Optimizer Preflight 기회 식별을 위해서는 범용 편집기, 문서 기반 미리 보기 또는 AEM Cloud Service에서 Preflight 확장 기능을 설정해야 합니다. 이를 통해 페이지가 게시되기 전에 Preflight 감사를 실행할 수 있습니다.
 
 ### 사용자 액세스 활성화
 
-Preflight 확장을 사용하려면 사용자가 [Adobe Admin Console](https://adminconsole.adobe.com)에서 다음 AEM Sites Optimizer 제품 프로필 중 하나 이상에 할당되었는지 확인하십시오.
+Preflight 확장 기능을 사용하려면 사용자가 [Adobe Admin Console](https://adminconsole.adobe.com)에서 다음과 같은 AEM Sites Optimizer 제품 프로필 중 하나 이상에 할당되어 있는지 확인하십시오.
 
-* AEM Sites Optimizer - 자동 제안 사용자
+* AEM Sites Optimizer - 사용자 자동 제안
 * AEM Sites Optimizer - 사용자 자동 최적화
 
-### Preflight 확장 활성화
+### Preflight 확장 기능 활성화
 
 >[!BEGINTABS]
 
 >[!TAB 범용 편집기]
 
-범용 편집기에서 Preflight를 설정하려면 다음 단계를 수행하십시오.
+범용 편집기에서 Preflight 기능을 설정하려면 다음과 같은 단계를 따릅니다.
 
-1. 다음 위치에서 **Extension Manager**&#x200B;을(를) 엽니다.
+1. 다음 위치에서 **Extension Manager**를 엽니다.
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
-1. **AEM Sites Optimizer Preflight 확장**&#x200B;을 찾아 활성화하기 위한 요청을 제출합니다.
-1. **Adobe AEM 팀**&#x200B;이(가) 조직의 확장을 검토하고 활성화합니다.
-1. 확장을 사용하도록 설정한 후 **유니버설 편집기**&#x200B;에서 페이지를 여십시오. 예:
+1. **AEM Sites Optimizer Preflight 확장 기능**&#x200B;의 위치를 확인하고 활성화를 위한 요청을 제출합니다.
+1. **Adobe AEM 팀**&#x200B;이 조직에 대한 확장 기능을 검토하고 활성화합니다.
+1. 확장 기능 활성화 후 **범용 편집기**에서 페이지를 하나 엽니다. 예:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. **Preflight 확장**&#x200B;이 **쪽 레일**&#x200B;에 표시됩니다.
-1. 측면 레일에서 **Preflight 확장**&#x200B;을(를) 선택하여 현재 페이지의 **Preflight 감사**&#x200B;를 시작합니다.
+1. **Preflight 확장 기능**&#x200B;이 **사이드 레일**&#x200B;에 나타납니다.
+1. 사이드 레일에서 **Preflight 확장 기능**&#x200B;을 선택하여 현재 페이지의 **Preflight 감사**&#x200B;를 시작합니다.
 
 >[!TAB 문서 기반 작성]
 
-문서 기반 작성을 위한 프리플라이트 를 설정하려면 다음 단계를 따르십시오.
+문서 기반 작성을 위해 Preflight를 설정하려면 다음과 같은 단계를 따릅니다.
 
-1. Edge Delivery Services 프로젝트의 GitHub 리포지토리에서 `/tools/sidekick/config.json`에 다음 구성을 추가하십시오.
+1. Edge Delivery Services 프로젝트의 GitHub 저장소에서 `/tools/sidekick/config.json`에 다음과 같은 구성을 추가합니다.
 
    ```json
    {
@@ -206,7 +206,7 @@ Preflight 확장을 사용하려면 사용자가 [Adobe Admin Console](https://a
    }
    ```
 
-1. 새 파일 `/tools/sidekick/aem-sites-optimizer-preflight.js`을(를) 만들고 다음 콘텐츠를 추가합니다.
+1. 새 파일(`/tools/sidekick/aem-sites-optimizer-preflight.js`)을 만들고 다음과 같은 내용을 추가합니다.
 
    ```javascript
    (function () {
@@ -253,7 +253,7 @@ Preflight 확장을 사용하려면 사용자가 [Adobe Admin Console](https://a
    }());
    ```
 
-1. 미리 보기 URL에 대한 Preflight 스크립트를 가져오려면 `loadLazy()`에서 `/scripts/scripts.js` 함수를 업데이트하십시오.
+1. 다음과 같이 `/scripts/scripts.js`에서 `loadLazy()` 함수를 업데이트하여 미리보기 URL에 대한 Preflight 스크립트를 가져옵니다.
 
    ```javascript
    if (window.location.href.includes('.aem.page')) {
@@ -261,37 +261,37 @@ Preflight 확장을 사용하려면 사용자가 [Adobe Admin Console](https://a
    }
    ```
 
-1. 감사할 페이지의 미리 보기 URL(`*.aem.page`)을 엽니다.
-1. **Sidekick**&#x200B;에서 **Preflight** 단추를 클릭하여 현재 페이지에 대한 감사를 시작합니다.
+1. 감사하려는 페이지의 미리보기 URL(`*.aem.page`)을 엽니다.
+1. **Sidekick**&#x200B;에서 **Peflight** 버튼을 클릭하여 현재 페이지에 대한 감사를 시작합니다.
 
 >[!TAB AEM Sites 페이지 편집기]
 
-AEM Sites 페이지 편집기에서 Preflight를 사용하려면 웹 브라우저에서 북마클릿을 만들 수 있습니다. 다음 단계를 수행합니다.
+AEM Sites 페이지 편집기에서 Preflight를 사용하기 위해 웹 브라우저 내에 북마클릿을 만들 수 있습니다. 다음 단계를 수행하십시오.
 
-1. 웹 브라우저에 **책갈피 표시줄** 표시:
+1. 다음과 같이 웹 브라우저에 **북마크 바**&#x200B;를 표시합니다.
 
-   * **Ctrl+Shift+B**(Windows) 또는 **Cmd+Shift+B**(Mac)을 누릅니다.
+   * **Ctrl+Shift+B**(Windows) 또는 **Cmd+Shift+B**(Mac)를 누릅니다.
 
-아! 브라우저에서 새 책갈피를 만듭니다.
+!. 다음과 같이 브라우저에 새 북마크를 만듭니다.
 
-* 책갈피 표시줄을 마우스 오른쪽 단추로 클릭하고 **새 페이지** 또는 **책갈피 추가**&#x200B;를 선택합니다.
-* **주소(URL)** 필드에 다음 코드를 붙여넣습니다.
+* 북마크 바를 마우스 오른쪽 버튼으로 클릭하고 **새 페이지** 또는 **북마크 추가**&#x200B;를 선택합니다.
+* **주소(URL)** 필드에 다음 코드를 붙여 넣습니다.
 
 ```javascript
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-1. 책갈피 이름을 **Preflight**(또는 원하는 이름)로 지정합니다.
-1. `*.aem.page`AEM Sites 페이지 편집기&#x200B;**에서 감사할 페이지의 미리 보기 URL(**)을 엽니다.
-1. 책갈피 막대에서 **Preflight** 책갈피를 클릭하여 현재 페이지에 대한 감사를 시작합니다.
+1. 북마크의 이름을 **Preflight**(또는 원하는 이름)로 지정합니다.
+1. **AEM Sites 페이지 편집기**&#x200B;에서 감사하려는 페이지의 미리보기 URL(`*.aem.page`)을 엽니다.
+1. 북마크 바에서 **Preflight** 북마크를 클릭해 현재 페이지에 대한 감사를 시작합니다.
 
 >[!ENDTABS]
 
 ## 모범 사례
 
-Preflight 감사를 실행할 때는 다음 지침을 염두에 두십시오.
+Preflight 감사를 실행 시 다음과 같은 지침을 염두에 두십시오.
 
-* 프로덕션에 게시하기 전에 항상 **준비 또는 미리 보기 페이지**&#x200B;에서 감사를 실행하십시오.
-* 끊어진 링크, 누락된 H1 태그 또는 비보안 링크와 같은 **영향력이 큰 문제** 해결을 우선시하십시오.
-* 감사를 실행하기 전에 보호된 스테이징 환경에 대해 **인증이 활성화되었는지**&#x200B;확인하십시오.
-* SEO 성능을 향상시키려면 **메타 태그 권장 사항**&#x200B;을 검토하고 적용하십시오.
+* 프로덕션에 게시하기 전 항상 **스테이징 페이지 또는 미리보기 페이지**&#x200B;에서 감사를 실행하십시오.
+* 끊어진 링크, 누락된 H1 태그, 안전하지 않은 링크 등 **큰 영향력을 갖는 문제** 해결을 우선시하십시오.
+* 감사 실행 전 보호된 스테이징 환경에 대한 **인증이 활성화**&#x200B;되어 있는지 확인하십시오.
+* **메타 태그 권장 사항**&#x200B;을 검토 및 적용하여 SEO 성능을 개선하십시오.
