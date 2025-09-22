@@ -81,7 +81,7 @@ Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트�
 ## Sites Optimizer에 대해 자세히 알아보기
 
 <!-- CARDS 
-* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/kr/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
