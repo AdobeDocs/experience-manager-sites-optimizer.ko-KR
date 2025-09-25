@@ -28,11 +28,11 @@ Preflight 확장 기능을 사용하려면 사용자가 [Adobe Admin Console](ht
 
 범용 편집기에서 Preflight 기능을 설정하려면 다음과 같은 단계를 따릅니다.
 
-1. 다음 위치에서 **Extension Manager**를 엽니다.
+1. 다음 위치에서 **Extension Manager**&#x200B;를 엽니다.
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer Preflight 확장 기능**&#x200B;의 위치를 확인하고 활성화를 위한 요청을 제출합니다.
 1. **Adobe AEM 팀**&#x200B;이 조직에 대한 확장 기능을 검토하고 활성화합니다.
-1. 확장 기능 활성화 후 **범용 편집기**에서 페이지를 하나 엽니다. 예:
+1. 확장 기능 활성화 후 **범용 편집기**&#x200B;에서 페이지를 하나 엽니다. 예:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 확장 기능**&#x200B;이 **사이드 레일**&#x200B;에 나타납니다.
 1. 사이드 레일에서 **Preflight 확장 기능**&#x200B;을 선택하여 현재 페이지의 **Preflight 감사**&#x200B;를 시작합니다.
