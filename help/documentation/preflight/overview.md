@@ -1,49 +1,41 @@
 ---
-title: AEM Sites Optimizer를 통한 Preflight 최적화
-description: AEM Sites Optimizer를 통한 Preflight 기회에 대해 알아봅니다.
+title: Preflight 기회
+description: Sites Optimizer의 Preflight Opportunity에 대한 설명서입니다.
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 61%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
 
 # Preflight 기회
 
-![Preflight 기회](./assets/preflight/hero.png){align="center"}
+![Preflight 기회](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer [Preflight 기회](../documentation/preflight/overview.md)를 통해 웹 페이지가 라이브로 전환되기 전에 성능, SEO 및 사용자 경험에 맞게 최적화되도록 할 수 있습니다. 끊어진 링크, 누락된 메타 태그, 접근성 문제 등 잠재적 문제를 식별함으로써 콘텐츠 작성자와 마케터가 Preflight 검사로 게시 프로세스 초기에 해당 문제를 해결할 수 있습니다. 이러한 사전 예방적 접근 방식은 최적화되지 않은 콘텐츠 게시 위험을 최소화하고, 사이트 품질을 개선하며, 전반적인 디지털 존재감을 강화합니다. Preflight 기회를 활용하면 더 원활한 워크플로를 보장하고, 게시 후 수정 작업이 감소하며, 검색 엔진 순위와 사용자 만족도가 개선됩니다.
+Sites Optimizer Preflight 기회는 웹 페이지를 게시하기 전에 웹 사이트의 콘텐츠 및 구조의 다양한 측면을 분석하는 일련의 평가로 구성됩니다. 이러한 평가를 통해 잠재적 문제를 식별하고 실행 가능한 권장 사항을 제공하여 사이트의 전반적인 품질과 성능을 향상시키는 데 도움이 됩니다.
 
-## 기회
+## Preflight 설정
+
+[Preflight 설정](./setup.md) 안내서의 단계에 따라 웹 사이트에서 Preflight 확장을 구성하십시오.
+
+## Preflight 기회
 
 <!-- CARDS
-
-* ../documentation/preflight/accessibility.md
-  {title=Accessibility}
-  {image=../assets/common/card-puzzle.png}
-* ../documentation/preflight/h1-count.md
-  {title=H1 count}
-  {image=../assets/common/card-link.png}
-* ../documentation/preflight/links.md
-  {title=Links}
-  {image=../assets/common/card-link.png}
-* ../documentation/preflight/meta-data.md
-  {title=Metadata}
-  {image=../assets/common/card-code.png}
-* ../documentation/preflight/readability.md
-  {title=Readability}
-  {image=../assets/common/card-people.png}
-
+* ./accessibility.md
+* ./h1-count.md
+* ./links.md
+* ./meta-data.md
+* ./readability.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Accessibility Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/accessibility.md" title="접근성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-puzzle.png" alt="접근성"
+                    <a href="./accessibility.md" title="Preflight 접근성 기회" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/accessibility/hero.png" alt="Preflight 접근성 기회"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,22 +43,22 @@ AEM Sites Optimizer [Preflight 기회](../documentation/preflight/overview.md)�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" title="접근성">접근성</a>
+                        <a href="./accessibility.md" target="_blank" rel="referrer" title="Preflight 접근성 기회">Preflight 접근성 기회</a>
                     </p>
                     <p class="is-size-6">Sites Optimizer의 Preflight 접근성 기회에 대해 알아봅니다.</p>
                 </div>
-                <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="H1 count">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight H1 Count Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/h1-count.md" title="H1 수" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="H1 수"
+                    <a href="./h1-count.md" title="프리플라이트 H1 카운트 기회" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/h1-count/hero.png" alt="프리플라이트 H1 카운트 기회"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,22 +66,22 @@ AEM Sites Optimizer [Preflight 기회](../documentation/preflight/overview.md)�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" title="H1 수">H1 수</a>
+                        <a href="./h1-count.md" target="_blank" rel="referrer" title="프리플라이트 H1 카운트 기회">Preflight H1 계산 기회</a>
                     </p>
                     <p class="is-size-6">Sites Optimizer의 Preflight 접근성 기회에 대해 알아봅니다.</p>
                 </div>
-                <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Links">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Links Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/links.md" title="링크" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="링크"
+                    <a href="./links.md" title="Preflight 링크 기회" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/links/hero.png" alt="Preflight 링크 기회"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,22 +89,22 @@ AEM Sites Optimizer [Preflight 기회](../documentation/preflight/overview.md)�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" title="링크">링크</a>
+                        <a href="./links.md" target="_blank" rel="referrer" title="Preflight 링크 기회">Preflight 링크 기회</a>
                     </p>
                     <p class="is-size-6">Sites Optimizer의 Preflight 링크 기회에 대해 알아봅니다.</p>
                 </div>
-                <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Metadata">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Metadata Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/meta-data.md" title="메타데이터" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="메타데이터"
+                    <a href="./meta-data.md" title="Preflight 메타데이터 기회" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/metadata/hero.png" alt="Preflight 메타데이터 기회"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,22 +112,22 @@ AEM Sites Optimizer [Preflight 기회](../documentation/preflight/overview.md)�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" title="메타데이터">메타데이터</a>
+                        <a href="./meta-data.md" target="_blank" rel="referrer" title="Preflight 메타데이터 기회">Preflight 메타데이터 기회</a>
                     </p>
                     <p class="is-size-6">Sites Optimizer의 Preflight 메타데이터 기회에 대해 알아봅니다.</p>
                 </div>
-                <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Readability">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Readability Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/readability.md" title="가독성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-people.png" alt="가독성"
+                    <a href="./readability.md" title="Preflight 가독성 기회" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/readability/hero.png" alt="Preflight 가독성 기회"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,11 +135,11 @@ AEM Sites Optimizer [Preflight 기회](../documentation/preflight/overview.md)�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" title="가독성">가독성</a>
+                        <a href="./readability.md" target="_blank" rel="referrer" title="Preflight 가독성 기회">Preflight 읽기 가능 기회</a>
                     </p>
                     <p class="is-size-6">Sites Optimizer의 Preflight 가독성 기회에 대해 알아봅니다.</p>
                 </div>
-                <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
