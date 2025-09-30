@@ -3,16 +3,16 @@ title: 높은 트래픽 페이지의 CTR이 낮은 기회 설명서
 description: 높은 트래픽 페이지의 CTR이 낮은 기회와 이를 활용하여 웹 사이트의 참여도를 높이는 방법에 대해 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
 source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '266'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 
-# 높은 트래픽 페이지에 낮은 CTR 기회가 있음
+# 높은 트래픽 페이지의 CTR이 낮은 기회
 
-![높은 트래픽 페이지에 낮은 CTR 기회가 있습니다](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
+![높은 트래픽 페이지의 CTR이 낮은 기회](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
 
 높은 트래픽 페이지의 CTR이 낮은 기회는 웹 사이트에서 상당한 양의 트래픽을 받지만 클릭스루 비율(CTR)이 낮은 페이지를 식별합니다. 이러한 페이지를 분석하여 사용자 참여를 방해할 수 있는 잠재적 문제를 찾아내고 성능을 개선하기 위한 조치를 취할 수 있습니다. 이 기회는 웹 사이트의 콘텐츠 및 레이아웃을 최적화하여 궁극적으로 더 높은 전환율과 더 나은 사용자 경험을 제공하는 데 필수적입니다.
 
@@ -20,7 +20,7 @@ ht-degree: 86%
 
 ![자동 식별 높은 트래픽 페이지의 CTR이 낮은 문제](./assets/high-traffic-page-has-low-ctr/auto-identify.png){align="center"}
 
-**높은 트래픽 페이지에 낮은 CTR 기회가 있습니다**&#x200B;은(는) 웹 사이트에서 낮은 CTR을 가진 높은 트래픽 페이지를 식별하고 다음을 포함합니다.
+**높은 트래픽 페이지의 CTR이 낮은 기회**&#x200B;는 웹 사이트에서 CTR이 낮은 높은 트래픽 페이지를 식별하며 다음 사항을 포함합니다.
 
 * **권장 사항** - 페이지의 CTR을 개선하기 위한 조치를 제안합니다.
 * **인사이트** - 페이지의 CTR이 낮은 이유에 대한 설명입니다.
