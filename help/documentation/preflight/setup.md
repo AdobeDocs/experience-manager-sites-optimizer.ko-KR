@@ -1,10 +1,10 @@
 ---
 title: Preflight 설정
 description: AEM Sites Optimizer용 Preflight 확장을 설정하는 방법을 알아봅니다.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
 workflow-type: tm+mt
 source-wordcount: '424'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ Preflight 확장 기능을 사용하려면 사용자가 [Adobe Admin Console](ht
 
 범용 편집기에서 Preflight 기능을 설정하려면 다음과 같은 단계를 따릅니다.
 
-1. 다음 위치에서 **Extension Manager**&#x200B;를 엽니다.
+1. 다음 위치에서 **Extension Manager**를 엽니다.
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer Preflight 확장 기능**&#x200B;의 위치를 확인하고 활성화를 위한 요청을 제출합니다.
 1. **Adobe AEM 팀**&#x200B;이 조직에 대한 확장 기능을 검토하고 활성화합니다.
-1. 확장 기능 활성화 후 **범용 편집기**&#x200B;에서 페이지를 하나 엽니다. 예:
+1. 확장 기능 활성화 후 **범용 편집기**에서 페이지를 하나 엽니다. 예:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 확장 기능**&#x200B;이 **사이드 레일**&#x200B;에 나타납니다.
 1. 사이드 레일에서 **Preflight 확장 기능**&#x200B;을 선택하여 현재 페이지의 **Preflight 감사**&#x200B;를 시작합니다.
@@ -124,14 +124,14 @@ AEM Sites 페이지 편집기에서 Preflight를 사용하기 위해 웹 브라�
 
    * **Ctrl+Shift+B**(Windows) 또는 **Cmd+Shift+B**(Mac)를 누릅니다.
 
-!. 다음과 같이 브라우저에 새 북마크를 만듭니다.
+1. 다음과 같이 브라우저에 새 북마크를 만듭니다.
 
-* 북마크 바를 마우스 오른쪽 버튼으로 클릭하고 **새 페이지** 또는 **북마크 추가**&#x200B;를 선택합니다.
-* **주소(URL)** 필드에 다음 코드를 붙여 넣습니다.
+   * 북마크 바를 마우스 오른쪽 버튼으로 클릭하고 **새 페이지** 또는 **북마크 추가**&#x200B;를 선택합니다.
+   * **주소(URL)** 필드에 다음 코드를 붙여 넣습니다.
 
-```javascript
-javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
-```
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
+   ```
 
 1. 북마크의 이름을 **Preflight**(또는 원하는 이름)로 지정합니다.
 1. **AEM Sites 페이지 편집기**&#x200B;에서 감사하려는 페이지의 미리보기 URL(`*.aem.page`)을 엽니다.
