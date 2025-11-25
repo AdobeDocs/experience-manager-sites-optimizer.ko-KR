@@ -1,10 +1,10 @@
 ---
 title: AEM Sites Optimizer를 통한 Preflight 최적화
 description: AEM Sites Optimizer를 통한 Preflight 기회에 대해 알아봅니다.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 61%
+source-wordcount: '190'
+ht-degree: 79%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 61%
 
 ![Preflight 기회](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer [Preflight 기회](../documentation/preflight/overview.md)를 통해 웹 페이지가 라이브로 전환되기 전에 성능, SEO 및 사용자 경험에 맞게 최적화되도록 할 수 있습니다. 끊어진 링크, 누락된 메타 태그, 접근성 문제 등 잠재적 문제를 식별함으로써 콘텐츠 작성자와 마케터가 Preflight 검사로 게시 프로세스 초기에 해당 문제를 해결할 수 있습니다. 이러한 사전 예방적 접근 방식은 최적화되지 않은 콘텐츠 게시 위험을 최소화하고, 사이트 품질을 개선하며, 전반적인 디지털 존재감을 강화합니다. Preflight 기회를 활용하면 더 원활한 워크플로를 보장하고, 게시 후 수정 작업이 감소하며, 검색 엔진 순위와 사용자 만족도가 개선됩니다.
+AEM Sites Optimizer [preflight 기회](../documentation/preflight/overview.md)는 웹 페이지 공개 전에 웹 페이지의 성능, SEO 및 사용자 경험이 최적화되었는지 확인할 수 있도록 도와줍니다. 끊어진 링크, 누락된 메타 태그, 접근성 문제 등 잠재적 문제를 식별함으로써 콘텐츠 작성자와 마케터가 Preflight 검사로 게시 프로세스 초기에 해당 문제를 해결할 수 있습니다. 이 사전 예방적 접근 방식은 하위 최적 콘텐츠 게시의 위험을 최소화하고 사이트 품질을 향상시키며 전반적인 디지털 존재감을 향상시킵니다. Preflight 기회를 사용하면 더 원활한 워크플로를 지원하고, 게시 후 수정 사항을 줄이고, 검색 엔진 순위와 사용자 만족도를 높이는 데 기여합니다.
 
 ## 기회
 

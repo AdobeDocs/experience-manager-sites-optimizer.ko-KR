@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 기회 설명서
 description: 사용 가능한 모든 Site Optimizer 기회와 이를 사용하여 사이트 성과를 개선하는 방법에 대해 알아봅니다.
-source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
-workflow-type: ht
-source-wordcount: '885'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '883'
+ht-degree: 96%
 
 ---
 
@@ -366,7 +366,7 @@ Sites Optimizer에서 사용 가능한 모든 기회를 탐색합니다.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="Forms 낮은 탐색">Forms 낮은 탐색</a>
                     </p>
-                    <p class="is-size-6">낮은 탐색 기회 양식에 대해 알아보고 이를 사용하여 웹 사이트에서 참여도를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">탐색 기회가 적고 이를 사용하여 웹 사이트의 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -389,7 +389,7 @@ Sites Optimizer에서 사용 가능한 모든 기회를 탐색합니다.
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms 접근성 문제">Forms 접근성 문제</a>
                     </p>
-                    <p class="is-size-6">접근성 문제 기회 양식과 이를 사용하여 웹 사이트의 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Forms 접근성 문제와 이를 사용하여 웹 사이트에서의 참여를 향상시키는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

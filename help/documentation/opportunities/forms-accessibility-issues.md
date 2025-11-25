@@ -4,21 +4,21 @@ description: 양식 접근성 문제 해결 기회에 대해 알아보고, 이�
 badgeFormOptimization: label="Forms 최적화" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms 최적화"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 100%
+source-wordcount: '287'
+ht-degree: 63%
 
 ---
 
 
 # Forms 접근성 문제 기회
 
-<span class="preview"> Forms 최적화 기능은 얼리 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
+<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
 
 ![Forms 접근성 문제 기회](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-양식 접근성 문제 기회는 양식이 장애를 가진 사용자의 필요에 얼마나 잘 부합하는지와 [웹 콘텐츠 접근성 가이드라인(WCAG)](https://www.w3.org/TR/WCAG21/)을 따르는지 여부를 식별합니다. 양식이 WCAG에 얼마나 잘 준수하는지 평가함으로써 시각, 청각, 인지, 운동 장애가 있는 사람들이 양식을 탐색하고 상호작용하며 성공적으로 완성할 수 있는 포용적인 양식 경험을 만드는 데 도움이 됩니다. 이는 윤리적인 이유로 필수적인 기능일 뿐만 아니라 법적 요구 사항 준수를 촉진하고, 완료율을 개선하며, 대상자 도달 범위를 늘려 사용자 경험과 비즈니스 성과를 향상하는 데에도 중요합니다.
+양식 접근성 문제 기회는 양식이 장애를 가진 사용자의 필요에 얼마나 잘 부합하는지와 [웹 콘텐츠 접근성 가이드라인(WCAG)](https://www.w3.org/TR/WCAG21/)을 따르는지 여부를 식별합니다. 양식이 WCAG를 얼마나 잘 준수하는지 평가함으로써 포괄적인 양식 경험을 만드는 데 도움이 됩니다. 이렇게 하면 시각, 청각, 인지 및 운동 장애가 있는 개인이 양식을 탐색하고 상호 작용하며 성공적으로 완료할 수 있습니다. 윤리적 이유로 필수적일 뿐만 아니라 법적 요건의 준수를 조장하고 있다. 또한 양식 완료율을 향상시키고, 대상자 도달 범위를 늘려 사용자 경험과 비즈니스 성과를 모두 향상시킬 수 있습니다.
 
 ## 자동 식별
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 ![양식 접근성 문제 자동 제안](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
 
-자동 제안은 **제안** 필드에 양식 접근성 문제를 해결하기 위해 수행해야 할 작업에 대한 구체적인 지침이 포함된 AI 생성 권장 사항을 제공합니다.
+자동 제안은 **제안** 필드에 AI가 생성한 권장 사항을 제공합니다. 이 필드에서는 양식 액세스 가능성 문제를 해결하기 위해 수행할 작업에 대한 규범적인 지침을 제공합니다.
 
 <!-- 
 
