@@ -1,9 +1,9 @@
 ---
 title: Preflight 기본 사항
 description: Preflight의 기본 사항과 해당 인터페이스를 사용하는 방법에 대해 알아봅니다.
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d669706909eeed61c6d0803e2b37df81ece987e1
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,8 @@ Preflight를 실행하려면:
 ## 감사 결과
 
 감사가 완료되면 Preflight가 발견한 기회를 표시합니다. 각 영업 기회는 유형별로 구성되며 문제 해결 방법에 대한 세부 정보가 포함됩니다.
+
+AEM Preflight 대화 상자 맨 위에는 전체 감사 결과를 반영하는 사용자 진행률 표시줄이 있습니다. 이 시각화는 문제 없이 전달된 기회의 백분율과 모든 기회에서 발견된 총 문제 수를 보여줍니다. 사용자 진행률 표시줄을 통해 작성자는 전체 페이지 상태를 한 눈에 파악할 수 있습니다.
 
 ## 프리플라이트 기회 정보
 
