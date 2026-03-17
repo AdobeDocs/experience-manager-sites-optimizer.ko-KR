@@ -1,8 +1,8 @@
 ---
 title: Sites Optimizer로 트래픽 확보 최적화
 description: Sites Optimizer로 트래픽 확보를 늘리는 방법을 알아봅니다.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -17,7 +17,9 @@ ht-degree: 100%
 
 ## 기회
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/broken-backlinks.md
   {title=Broken backlinks}
@@ -32,7 +34,7 @@ ht-degree: 100%
   {title=Sitemap issues}
   {image=../assets/common/card-relationship.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken backlinks">

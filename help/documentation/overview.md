@@ -1,8 +1,8 @@
 ---
 title: Sites Optimizer 설명서
 description: Experience Manager Sites Optimizer 설명서.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -19,7 +19,8 @@ Sites Optimizer 설명서를 시작합니다. 여기에서는 Sites Optimizer를
 
 AEM Sites Optimizer 설명서를 탐색하여 홈 대시보드, 설정 구성 및 최적화 인사이트를 위한 기회 목록 등 핵심 UI 구성 요소에 대해 알아봅니다.
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./basics.md
   {title = Basics}

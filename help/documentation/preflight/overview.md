@@ -1,7 +1,7 @@
 ---
 title: Preflight 기회
 description: Sites Optimizer의 Preflight Opportunity에 대한 설명서입니다.
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 81%
@@ -21,7 +21,9 @@ Sites Optimizer Preflight Opportunities는 웹 페이지를 게시하기 전에 
 
 ## Preflight 기회
 
-<!-- CARDS
+<!--
+CARDS
+
 * ./accessibility.md
 * ./h1-count.md
 * ./links.md

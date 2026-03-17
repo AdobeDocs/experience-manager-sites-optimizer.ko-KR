@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer로 참여 최적화
 description: Sites Optimizer를 사용하여 참여도를 개선하는 방법을 알아봅니다.
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
-workflow-type: ht
-source-wordcount: '285'
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
+source-wordcount: '286'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,9 @@ AEM Sites Optimizer의 참여 기회는 사용자가 웹 페이지와 상호 작
 
 ## 기회
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/opportunities/accessibility-issues.md
   {title=Accessibility issues}
