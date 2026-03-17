@@ -86,13 +86,13 @@ CARDS
 
 <!--
 CARDS 
-* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/kr/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
     {target=_blank}
     {cta=Learn more}
-* https://business.adobe.com/products/experience-manager/sites/optimizer.html
+* https://business.adobe.com/kr/products/experience-manager/sites/optimizer.html
     {title=Explore the capabilities of AEM Sites Optimizer}
     {description=Learn what AEM Site Optimizer can do for your company.}
     {image=./assets/home/business-adobe-com.png}
@@ -128,7 +128,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" title="AEM Sites Optimizer의 기능 살펴보기" target="_blank" rel="referrer">
+                    <a href="https://business.adobe.com/kr/products/experience-manager/sites/optimizer.html" title="AEM Sites Optimizer의 기능 살펴보기" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="./assets/home/business-adobe-com.png" alt="AEM Sites Optimizer의 기능 살펴보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -137,11 +137,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" title="AEM Sites Optimizer의 기능 살펴보기">AEM Sites Optimizer의 기능 살펴보기</a>
+                        <a href="https://business.adobe.com/kr/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" title="AEM Sites Optimizer의 기능 살펴보기">AEM Sites Optimizer의 기능 살펴보기</a>
                     </p>
                     <p class="is-size-6">AEM Site Optimizer가 회사에 어떻게 도움이 되는지 알아봅니다.</p>
                 </div>
-                <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://business.adobe.com/kr/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
