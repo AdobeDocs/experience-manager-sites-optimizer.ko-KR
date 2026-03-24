@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 98%
+source-wordcount: '123'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,6 @@ ht-degree: 98%
    + [보안 태세](/help/opportunity-types/security-posture.md)
    + [Forms 최적화](/help/opportunity-types/form-optimization.md)
    + [Forms 접근성](/help/opportunity-types/form-accesibility.md)
-   + [Preflight](/help/opportunity-types/preflight.md)
 + 설명서{#documentation}
    + [개요](/help/documentation/overview.md)
    + [기본 사항](/help/documentation/basics.md)
@@ -47,13 +46,16 @@ ht-degree: 98%
       + [사이트맵 문제](/help/documentation/opportunities/sitemap-issues.md)
       + [웹 사이트 권한](/help/documentation/opportunities/website-permissions.md)
       + [웹 사이트 취약점](/help/documentation/opportunities/website-vulnerabilities.md)
-   + Preflight 기회{#preflight-opportunities}
+   + Preflight{#preflight}
       + [개요](/help/documentation/preflight/overview.md)
-      + [기본 사항](/help/documentation/preflight/basics.md)
       + [설정](/help/documentation/preflight/setup.md)
-      + [접근성](/help/documentation/preflight/accessibility.md)
-      + [H1 수](/help/documentation/preflight/h1-count.md)
-      + [링크](/help/documentation/preflight/links.md)
-      + [메타데이터](/help/documentation/preflight/meta-data.md)
-      + [가독성](/help/documentation/preflight/readability.md)
+      + [Preflight 액세스](/help/documentation/preflight/access-preflight.md)
+      + [감사](/help/documentation/preflight/audits.md)
+      + [감사 결과](/help/documentation/preflight/audit-results.md)
+      + 기회{#preflight-opportunities}
+         + [접근성](/help/documentation/preflight/opportunities/accessibility.md)
+         + [H1 수](/help/documentation/preflight/opportunities/h1-count.md)
+         + [링크](/help/documentation/preflight/opportunities/links.md)
+         + [메타데이터](/help/documentation/preflight/opportunities/meta-data.md)
+         + [가독성](/help/documentation/preflight/opportunities/readability.md)
    + [설정](/help/documentation/settings.md)
