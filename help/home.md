@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer
 description: Sites Optimizer로 웹 사이트의 성능을 높여 보십시오. 속도를 개선하고, 비용을 절감하고, 안정성을 높여 더 나은 참여를 이끌어 내십시오.
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 84%
@@ -17,7 +17,8 @@ Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트�
 
 ## Sites Optimizer 시작하기
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./opportunity-types/overview.md
     * {title=Opportunity types}
