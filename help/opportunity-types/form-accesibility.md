@@ -2,11 +2,10 @@
 title: Sites Optimizer를 사용한 Forms 최적화
 description: Sites Optimizer를 활용한 Forms 최적화에 대해 알아봅니다.
 hide: true
-hidefromtoc: true
-source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 60%
+ht-degree: 59%
 
 ---
 

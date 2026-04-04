@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 94%
+ht-degree: 91%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 94%
    + [참여](/help/opportunity-types/engagement.md)
    + [사이트 상태](/help/opportunity-types/site-health.md)
    + [보안 태세](/help/opportunity-types/security-posture.md)
-   + [Forms 최적화](/help/opportunity-types/form-optimization.md)
-   + [Forms 접근성](/help/opportunity-types/form-accesibility.md)
+   + {hide-from-toc}[Forms 최적화](/help/opportunity-types/form-optimization.md)
+   + {hide-from-toc}[Forms 접근성](/help/opportunity-types/form-accesibility.md)
 + 설명서{#documentation}
    + [개요](/help/documentation/overview.md)
    + [기본 사항](/help/documentation/basics.md)
@@ -39,10 +39,10 @@ ht-degree: 94%
       + [잘못되었거나 누락된 메타데이터](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [누락되거나 잘못된 구조화된 데이터](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [누락된 대체 텍스트](/help/documentation/opportunities/missing-alt-text.md)
-      + [Forms 낮은 전환율](/help/documentation/opportunities/low-conversions.md)
-      + [Forms 낮은 조회수](/help/documentation/opportunities/low-views.md)
-      + [Forms 낮은 탐색](/help/documentation/opportunities/low-navigation.md)
-      + [Forms 접근성 문제](/help/documentation/opportunities/forms-accessibility-issues.md)
+      + {hide-from-toc}[Forms 낮은 전환율](/help/documentation/opportunities/low-conversions.md)
+      + {hide-from-toc}[Forms 낮은 조회수](/help/documentation/opportunities/low-views.md)
+      + {hide-from-toc}[Forms 낮은 탐색](/help/documentation/opportunities/low-navigation.md)
+      + {hide-from-toc}[Forms 접근성 문제](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [사이트맵 문제](/help/documentation/opportunities/sitemap-issues.md)
       + [웹 사이트 권한](/help/documentation/opportunities/website-permissions.md)
       + [웹 사이트 취약점](/help/documentation/opportunities/website-vulnerabilities.md)

@@ -3,10 +3,9 @@ title: 낮은 탐색 기회 설명서
 description: 낮은 탐색 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여도를 개선하는 방법을 알아봅니다.
 badgeFormOptimization: label="Forms 최적화" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms 최적화"
 hide: true
-hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '333'
 ht-degree: 90%
 
 ---
