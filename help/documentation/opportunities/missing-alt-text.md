@@ -2,10 +2,10 @@
 title: 누락된 대체 텍스트 설명서
 description: 누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 36%
+source-wordcount: '694'
+ht-degree: 37%
 
 ---
 
@@ -67,8 +67,20 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 
 지원되는 경우 업데이트의 버전이 지정되므로 가시성 및 롤백 용량이 제공됩니다. 이렇게 하면 대체 텍스트 업데이트가 정확하게 적용되고 기존 구현에 맞게 조정되며 거버넌스 및 접근성 표준과 일관되게 제공됩니다.
 
-AEM Sites Optimizer은 설정에 따라 대체 텍스트 업데이트를 자동으로 적용합니다.
+AEM Sites Optimizer은 다음과 같이 설정에 따라 대체 텍스트 업데이트를 자동으로 적용합니다.
 
-* **Edge Delivery Services** - 소스 문서(예: Google Docs 또는 SharePoint)를 업데이트합니다.
-* **AEM as a Cloud Service** - 버전 관리 및 대체 지원을 통해 콘텐츠 API를 통해 직접 업데이트를 기록합니다.
-* **디지털 자산 관리(선택 사항)** - 해당되는 경우 자산 수준 대체 텍스트를 업데이트합니다.
+>[!BEGINTABS]
+
+>[!TAB Edge Delivery Services]
+
+소스 문서(예: Google Docs 또는 SharePoint)를 업데이트합니다.
+
+>[!TAB AEM as a Cloud Service]
+
+버전 관리 및 대체 지원을 통해 콘텐츠 API를 통해 직접 업데이트를 기록합니다.
+
+>[!TAB 디지털 자산 관리(선택 사항)]
+
+해당되는 경우 에셋 수준 대체 텍스트를 업데이트합니다.
+
+>[!ENDTABS]
