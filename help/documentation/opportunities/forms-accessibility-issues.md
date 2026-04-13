@@ -3,7 +3,7 @@ title: Forms 접근성 문제 기회 설명서
 description: 양식 접근성 문제 해결 기회에 대해 알아보고, 이를 활용하여 웹 사이트에서 양식 접근성과 사용자 경험을 개선하는 방법을 알아봅니다.
 badgeFormOptimization: label="Forms 최적화" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms 최적화"
 hide: true
-source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
+source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 65%
