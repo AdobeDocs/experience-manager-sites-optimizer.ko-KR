@@ -2,9 +2,9 @@
 title: 누락된 대체 텍스트 설명서
 description: 누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
+source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '689'
 ht-degree: 37%
 
 ---
@@ -55,7 +55,7 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![누락된 대체 텍스트 자동 최적화](./assets/missing-alt-text/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483271/?captions=kor&learn=on&enablevpops)
 
 제안을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. 그런 다음 AEM Sites Optimizer은 구현 내에서 대체 텍스트를 관리하는 방법에 따라 수정 사항을 작성 환경에 적용합니다. 그런 다음 AEM 작성자는 콘텐츠 관리 시스템(CMS)에서 변경 사항을 게시할 수 있습니다.
 

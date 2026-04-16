@@ -1,5 +1,5 @@
 ---
-source-git-commit: 26f63911540206e1704a9989267d9981fa10a22f
+source-git-commit: 5a3b06748915066f567d5aa6672a412d4db66e0f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 4%
@@ -14,4 +14,3 @@ ht-degree: 4%
 * [contributing.md](contributing.md) 문서에 기여하는 방법에 대한 개요입니다.
 * [guidelines.md](guidelines.md) 기여에서 기대하는 내용과 설명서 기여 작성 방법에 대한 개요입니다.
 * [code-of-conduct.md](code-of-conduct.md) 이 설명서 프로젝트에 기여할 때 Adobe에서 기대하는 동작 표준에 대한 개요입니다.
-

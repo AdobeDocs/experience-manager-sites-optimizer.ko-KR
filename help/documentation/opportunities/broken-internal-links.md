@@ -2,10 +2,10 @@
 title: 끊어진 내부 링크 기회 설명서
 description: 끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '447'
-ht-degree: 100%
+source-git-commit: 71c33f306db7c3aadb4e3884a840f45cf495ff48
+workflow-type: tm+mt
+source-wordcount: '478'
+ht-degree: 98%
 
 ---
 
@@ -63,7 +63,7 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 
 ## 자동 최적화
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"} [!BADGE Ultimate]{type=Positive tooltip="Sites Optimizer 체험판"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 

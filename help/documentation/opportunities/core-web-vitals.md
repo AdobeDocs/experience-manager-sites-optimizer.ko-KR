@@ -2,10 +2,10 @@
 title: 핵심 웹 바이탈 기회 설명서
 description: 핵심 웹 바이탈 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeSiteHealth: label="사이트 상태" type="Caution" url="../../opportunity-types/site-health.md" tooltip="사이트 상태"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 10%
+source-wordcount: '550'
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ AEM Sites Optimizer은 모든 현재 문제 목록을 모바일 및 데스크톱
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![핵심 웹 바이탈 기회 자동 최적화](./assets/core-web-vitals/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483378/?captions=kor&learn=on&enablevpops)
 
 권장 사항을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. AEM Sites Optimizer은 식별된 문제를 기반으로 코드 패치를 생성하고 버전 제어 프로세스를 통해 사용할 수 있도록 합니다. 최적화 프로세스에는 다음 단계가 포함됩니다.
 
