@@ -20,7 +20,7 @@ ht-degree: 33%
 
 ![끊어진 백링크 자동 식별](./assets/broken-backlinks/auto-identify.png){align="center"}
 
-AEM Sites Optimizer은 지속적으로 외부 데이터 소스를 스캔하여 사이트에 존재하지 않는 404페이지를 가리키는 백링크를 감지합니다. Google 검색 콘솔, [운영 원격 분석](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) 및 서드파티 SEO 플랫폼을 포함하여 여러 소스에서 데이터를 집계합니다. 자동 식별 기회는 손상된 URL에 연결된 외부 도메인을 식별하고 도메인 권한, 예상 트래픽 및 링크 지분 손실을 포함한 영향을 기준으로 우선 순위를 지정합니다.
+AEM Sites Optimizer은 지속적으로 외부 데이터 소스를 스캔하여 사이트에 존재하지 않는 404페이지를 가리키는 백링크를 감지합니다. Google 검색 콘솔, [운영 원격 분석](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) 및 서드파티 SEO 플랫폼을 포함하여 여러 소스에서 데이터를 집계합니다. 자동 식별 기회는 손상된 URL에 연결된 외부 도메인을 식별하고 도메인 권한, 예상 트래픽 및 링크 지분 손실을 포함한 영향을 기준으로 우선 순위를 지정합니다.
 
 이 영업 기회에는 다음 세부 정보를 포함하여 식별된 모든 문제가 나열됩니다.
 

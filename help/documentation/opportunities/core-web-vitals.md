@@ -22,7 +22,7 @@ AEM Sites Optimizer은 이러한 문제의 영향을 받는 페이지를 감지�
 
 ![핵심 웹 바이탈 자동 식별](./assets/core-web-vitals/auto-identify.png){align="center"}
 
-AEM Sites Optimizer은 [작동 원격 분석](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)을 사용하여 LCP(최대 콘텐츠 페인트), CLS(누적 레이아웃 이동) 및 INP(다음 페인트로 상호 작용)와 같은 Core Web Vitals 지표에서 회귀를 감지하여 사이트 성능을 지속적으로 모니터링합니다. 실제 사용자 데이터를 사용하여 성능 회귀를 식별하고 사용자 경험에 미치는 영향에 따라 문제를 우선 지정합니다.
+AEM Sites Optimizer은 [작동 원격 분석](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)을 사용하여 LCP(최대 콘텐츠 페인트), CLS(누적 레이아웃 이동) 및 INP(다음 페인트로 상호 작용)와 같은 Core Web Vitals 지표에서 회귀를 감지하여 사이트 성능을 지속적으로 모니터링합니다. 실제 사용자 데이터를 사용하여 성능 회귀를 식별하고 사용자 경험에 미치는 영향에 따라 문제를 우선 지정합니다.
 
 AEM Sites Optimizer은 모든 현재 문제 목록을 모바일 및 데스크톱별로 자세히 표시합니다. **페이지** 열은 영향을 받는 페이지 항목을 나타내며 문제는 LCP, INP 및 CLS로 분류됩니다.
 
