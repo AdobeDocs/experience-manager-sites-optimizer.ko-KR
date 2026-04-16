@@ -66,7 +66,7 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483260/?captions=kor&learn=on&enablevpops)
 
 제안을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. 그런 다음 AEM Sites Optimizer은 구현 내에서 리디렉션이 관리되는 방식에 따라 수정 사항을 작성 환경에 적용합니다. 그런 다음 AEM 작성자는 콘텐츠 관리 시스템(CMS)에서 변경 사항을 게시할 수 있습니다.
 

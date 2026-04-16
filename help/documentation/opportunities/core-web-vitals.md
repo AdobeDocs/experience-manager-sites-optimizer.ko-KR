@@ -38,7 +38,7 @@ AEM Sites Optimizer은 모든 현재 문제 목록을 모바일 및 데스크톱
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483378/?captions=kor&learn=on&enablevpops)
 
 권장 사항을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. AEM Sites Optimizer은 식별된 문제를 기반으로 코드 패치를 생성하고 버전 제어 프로세스를 통해 사용할 수 있도록 합니다. 최적화 프로세스에는 다음 단계가 포함됩니다.
 
