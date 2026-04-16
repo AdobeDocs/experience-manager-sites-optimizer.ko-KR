@@ -2,7 +2,7 @@
 title: 끊어진 백링크 기회 설명서
 description: 끊어진 백링크 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 643a639a233417b3295b7b66c1a6a12ef37abab0
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 33%
@@ -20,7 +20,7 @@ ht-degree: 33%
 
 ![끊어진 백링크 자동 식별](./assets/broken-backlinks/auto-identify.png){align="center"}
 
-AEM Sites Optimizer은 지속적으로 외부 데이터 소스를 스캔하여 사이트에 존재하지 않는 404페이지를 가리키는 백링크를 감지합니다. Google 검색 콘솔, [운영 원격 분석](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) 및 서드파티 SEO 플랫폼을 포함하여 여러 소스에서 데이터를 집계합니다. 자동 식별 기회는 손상된 URL에 연결된 외부 도메인을 식별하고 도메인 권한, 예상 트래픽 및 링크 지분 손실을 포함한 영향을 기준으로 우선 순위를 지정합니다.
+AEM Sites Optimizer은 지속적으로 외부 데이터 소스를 스캔하여 사이트에 존재하지 않는 404페이지를 가리키는 백링크를 감지합니다. Google 검색 콘솔, [운영 원격 분석](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) 및 서드파티 SEO 플랫폼을 포함하여 여러 소스에서 데이터를 집계합니다. 자동 식별 기회는 손상된 URL에 연결된 외부 도메인을 식별하고 도메인 권한, 예상 트래픽 및 링크 지분 손실을 포함한 영향을 기준으로 우선 순위를 지정합니다.
 
 이 영업 기회에는 다음 세부 정보를 포함하여 식별된 모든 문제가 나열됩니다.
 
@@ -65,6 +65,8 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 ## 자동 최적화
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
 
 제안을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. 그런 다음 AEM Sites Optimizer은 구현 내에서 리디렉션이 관리되는 방식에 따라 수정 사항을 작성 환경에 적용합니다. 그런 다음 AEM 작성자는 콘텐츠 관리 시스템(CMS)에서 변경 사항을 게시할 수 있습니다.
 

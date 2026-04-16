@@ -2,10 +2,10 @@
 title: 핵심 웹 바이탈 기회 설명서
 description: 핵심 웹 바이탈 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeSiteHealth: label="사이트 상태" type="Caution" url="../../opportunity-types/site-health.md" tooltip="사이트 상태"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 10%
+source-wordcount: '550'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ AEM Sites Optimizer은 이러한 문제의 영향을 받는 페이지를 감지�
 
 ![핵심 웹 바이탈 자동 식별](./assets/core-web-vitals/auto-identify.png){align="center"}
 
-AEM Sites Optimizer은 [작동 원격 분석](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)을 사용하여 LCP(최대 콘텐츠 페인트), CLS(누적 레이아웃 이동) 및 INP(다음 페인트로 상호 작용)와 같은 Core Web Vitals 지표에서 회귀를 감지하여 사이트 성능을 지속적으로 모니터링합니다. 실제 사용자 데이터를 사용하여 성능 회귀를 식별하고 사용자 경험에 미치는 영향에 따라 문제를 우선 지정합니다.
+AEM Sites Optimizer은 [작동 원격 분석](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)을 사용하여 LCP(최대 콘텐츠 페인트), CLS(누적 레이아웃 이동) 및 INP(다음 페인트로 상호 작용)와 같은 Core Web Vitals 지표에서 회귀를 감지하여 사이트 성능을 지속적으로 모니터링합니다. 실제 사용자 데이터를 사용하여 성능 회귀를 식별하고 사용자 경험에 미치는 영향에 따라 문제를 우선 지정합니다.
 
 AEM Sites Optimizer은 모든 현재 문제 목록을 모바일 및 데스크톱별로 자세히 표시합니다. **페이지** 열은 영향을 받는 페이지 항목을 나타내며 문제는 LCP, INP 및 CLS로 분류됩니다.
 
@@ -38,7 +38,7 @@ AEM Sites Optimizer은 모든 현재 문제 목록을 모바일 및 데스크톱
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![핵심 웹 바이탈 기회 자동 최적화](./assets/core-web-vitals/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
 
 권장 사항을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. AEM Sites Optimizer은 식별된 문제를 기반으로 코드 패치를 생성하고 버전 제어 프로세스를 통해 사용할 수 있도록 합니다. 최적화 프로세스에는 다음 단계가 포함됩니다.
 
