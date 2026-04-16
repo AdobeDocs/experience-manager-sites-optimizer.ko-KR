@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 평가판
 description: 기존 AEM Sites 고객을 위한 AEM Sites Optimizer 평가판을 시작합니다.
-source-git-commit: 0c9acea024f436166c467d55a3d3697f3eaf08b6
+source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 15%
@@ -23,7 +23,7 @@ ht-degree: 15%
 
 다음 단계에 따라 체험판을 시작하십시오.
 
-1. AEM Sites IMS 조직 ID를 사용하여 [www.sitesoptimizer.now](https://www.sitesoptimizer.now)에 로그인합니다.
+1. AEM Sites IMS 조직 ID를 사용하여 [www.sitesoptimizer.live](http://www.sitesoptimizer.live/)에 로그인합니다.
 2. 페이지 보기 수, 로드 시간 및 참여 비율과 같은 주요 지표와 함께 영향별로 우선 순위가 지정된 최고의 최적화 기회를 봅니다.
 3. 사용 가능한 세 가지 영업 기회 유형([끊어진 백링크](./opportunities/broken-backlinks.md), [Core Web Vitals](./opportunities/core-web-vitals.md) 및 [대체 텍스트 누락](./opportunities/missing-alt-text.md))을 살펴보십시오.
 4. 각 영업 기회에 대해 식별된 문제를 최대 3개까지 검토하십시오. AI에서 생성한 제안을 사용하고 준비가 되면 최적화를 AEM 환경에 직접 배포할 수 있습니다.
@@ -56,7 +56,7 @@ AEM Sites Optimizer 평가판에 대한 FAQ에 대한 답변은 다음을 참조
 +++
 +++평가판에 액세스하려면 어떻게 합니까?
 
-[www.sitesoptimizer.now](https://www.sitesoptimizer.now)&#x200B;(으)로 이동한 다음 AEM Sites IMS 조직 ID를 사용하여 로그인합니다.
+[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)&#x200B;(으)로 이동한 다음 AEM Sites IMS 조직 ID를 사용하여 로그인합니다.
 
 +++
 +++그 재판은 비용이 좀 드나요?
