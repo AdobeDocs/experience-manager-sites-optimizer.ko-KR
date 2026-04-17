@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 설정
 description: Sites Optimizer 설정을 구성하고 다른 도구와 통합하는 방법을 알아봅니다.
-source-git-commit: 93f802beee074f4de2f2438c85c2880def5aad69
+source-git-commit: b71d5510162864ee76931cf754164ea637cadd92
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 11%
+source-wordcount: '749'
+ht-degree: 12%
 
 ---
 
@@ -41,8 +41,6 @@ AEM Sites Optimizer에서 **설정 → AEM Sites 연결**(으)로 이동하여 �
 
 - **컨텐츠 Source URL** - EDS 사이트를 지원하는 SharePoint 폴더 또는 Google 드라이브 폴더의 URL(예: )
   `https://drive.google.com/drive/folders/...` 또는 `https://myorg.sharepoint.com/...`
-
-이 URL은 EDS 사이트의 `fstab.yaml`에 구성된 것과 일치해야 합니다.
 
 컨텐츠 Source URL을 입력하면 AEM Sites Optimizer에서 컨텐츠 소스 유형을 감지하고 아래에 관련 액세스 지침을 표시합니다.
 
