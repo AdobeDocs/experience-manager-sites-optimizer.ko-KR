@@ -2,23 +2,25 @@
 title: 누락된 대체 텍스트 설명서
 description: 누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
+source-git-commit: fd992e5f4508ccd4236757167a16c744d98cc6ae
 workflow-type: tm+mt
-source-wordcount: '689'
-ht-degree: 37%
+source-wordcount: '669'
+ht-degree: 35%
 
 ---
 
 
 # 누락된 대체 텍스트 기회
 
-![누락된 대체 텍스트 기회](./assets/missing-alt-text/hero.png){align="center"}
+<!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483271/?captions=kor&learn=on&enablevpops)
 
 대체 텍스트 영업 기회가 누락되면 웹 사이트에서 설명 대체 텍스트가 없는 이미지가 식별됩니다. 대체 텍스트가 없으면 화면 판독기에 의존하는 사용자가 시각적 콘텐츠를 해석할 수 없어 접근성 장벽을 만듭니다. 또한 검색 엔진이 이미지를 이해하고 인덱싱하는 방식을 제한하여 콘텐츠 검색 기능과 검색 성능을 저하할 수 있습니다. AEM Sites Optimizer은 누락된 대체 텍스트 문제를 식별하고 특정 AI 권장 사항을 제공하며, 클릭 한 번으로 배포하여 이를 모두 중앙 집중식으로 해결할 수 있습니다.
 
 ## 자동 식별
 
-![누락된 대체 텍스트 자동 식별](./assets/missing-alt-text/auto-identify.png){align="center"}
+<!--![Auto-identify missing alt text](./assets/missing-alt-text/auto-identify.png){align="center"}-->
 
 AEM Sites Optimizer은 사이트 AI, 실제 사용자 트래픽 데이터 및 AI 분석을 결합하는 다단계 감사를 사용하여 대체 텍스트가 필요하지만 정의되지 않은 이미지를 식별하여 웹 사이트를 스캔합니다. 또한 페이지의 이미지를 평가하여 WCAG(Web Content Accessibility Guidelines)에 따라 장식 이미지나 정보가 아닌 이미지를 제외하고 대체 텍스트가 필요한지 여부를 결정합니다. 이미지는 접근성 및 SEO에 가장 큰 영향을 미치는 수정 사항의 우선 순위를 지정하여 페이지 내에서 해당 역할과 관련성을 기반으로 분석됩니다.
 
@@ -29,7 +31,7 @@ AEM Sites Optimizer은 사이트 AI, 실제 사용자 트래픽 데이터 및 AI
 
 ## 자동 제안
 
-![누락된 대체 텍스트 자동 제안](./assets/missing-alt-text/auto-suggest.png){align="center"}
+<!--![Auto-suggest missing alt text](./assets/missing-alt-text/auto-suggest.png){align="center"}-->
 
 식별된 각 문제에 대해 AEM Sites Optimizer은 이미지에 대한 수사적 대체 텍스트를 제안합니다. AI 비전 모델을 사용하여 이미지를 분석하고 페이지 내 콘텐츠와 역할을 반영하는 설명을 생성합니다. 권장 사항은 간결하고 관련성이 있으며 액세서빌러티 모범 사례에 맞게 조정됩니다. 각 제안은 적용되기 전에 검토 및 편집할 수 있습니다.
 
@@ -37,7 +39,7 @@ AEM Sites Optimizer은 사이트 AI, 실제 사용자 트래픽 데이터 및 AI
 
 >[!TAB 누락된 대체 텍스트 편집]
 
-![누락된 대체 텍스트 편집](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}
+<!--![Edit missing alt text](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}-->
 
 AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 선택하여 제안된 대체 텍스트를 편집할 수 있습니다. 이 기능을 사용하면 이미지에 가장 적합하다고 생각되는 텍스트를 수동으로 조정할 수 있습니다. 편집 창에는 다음이 포함되어 있습니다.
 
@@ -53,9 +55,7 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 
 ## 자동 최적화
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
->[!VIDEO](https://video.tv.adobe.com/v/3483271/?captions=kor&learn=on&enablevpops)
+<!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
 제안을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. 그런 다음 AEM Sites Optimizer은 구현 내에서 대체 텍스트를 관리하는 방법에 따라 수정 사항을 작성 환경에 적용합니다. 그런 다음 AEM 작성자는 콘텐츠 관리 시스템(CMS)에서 변경 사항을 게시할 수 있습니다.
 

@@ -2,23 +2,25 @@
 title: 끊어진 백링크 기회 설명서
 description: 끊어진 백링크 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
-source-git-commit: 643a639a233417b3295b7b66c1a6a12ef37abab0
+source-git-commit: 97e61d3061fb68225eece98ba0f94affb08be9e3
 workflow-type: tm+mt
-source-wordcount: '684'
-ht-degree: 33%
+source-wordcount: '655'
+ht-degree: 30%
 
 ---
 
 
 # 끊어진 백링크 기회
 
-![끊어진 백링크 기회](./assets/broken-backlinks/hero.png){align="center"}
+<!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483260/?captions=kor&learn=on&enablevpops)
 
 끊어진 백링크 기회는 사이트에 존재하지 않는(404) 페이지를 가리키는 외부 링크를 식별합니다. 검색 엔진은 관련성과 권한을 평가하기 위해 백링크를 사용하기 때문에 이러한 링크는 참조 트래픽을 손실하고 SEO 값을 줄입니다. 이러한 문제는 URL이 변경되거나, 콘텐츠가 제거되거나, 적절한 리디렉션이 없으면 페이지를 더 이상 사용할 수 없을 때 발생합니다. AEM Sites Optimizer은 끊어진 모든 백링크를 식별하고 특정 AI 추천을 제공하며 클릭 한 번으로 배포하여 이를 모두 중앙 집중식 단일 보기에서 해결할 수 있습니다.
 
 ## 자동 식별
 
-![끊어진 백링크 자동 식별](./assets/broken-backlinks/auto-identify.png){align="center"}
+<!--![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}-->
 
 AEM Sites Optimizer은 지속적으로 외부 데이터 소스를 스캔하여 사이트에 존재하지 않는 404페이지를 가리키는 백링크를 감지합니다. Google 검색 콘솔, [운영 원격 분석](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) 및 서드파티 SEO 플랫폼을 포함하여 여러 소스에서 데이터를 집계합니다. 자동 식별 기회는 손상된 URL에 연결된 외부 도메인을 식별하고 도메인 권한, 예상 트래픽 및 링크 지분 손실을 포함한 영향을 기준으로 우선 순위를 지정합니다.
 
@@ -30,7 +32,7 @@ AEM Sites Optimizer은 지속적으로 외부 데이터 소스를 스캔하여 �
 
 ## 자동 제안
 
-![끊어진 백링크 자동 제안](./assets/broken-backlinks/auto-suggest.png){align="center"}
+<!--![Auto-suggest broken backlinks](./assets/broken-backlinks/auto-suggest.png){align="center"}-->
 
 식별된 각 끊어진 백링크에 대해 AEM Sites Optimizer은 트래픽 및 SEO 값을 복원하기에 가장 적합한 대상을 권장합니다. 다음을 분석하여 백링크의 의도를 파악합니다.
 
@@ -44,19 +46,19 @@ AEM Sites Optimizer은 지속적으로 외부 데이터 소스를 스캔하여 �
 
 >[!TAB AI 이론적 근거]
 
-![끊어진 백링크의 자동 제안에 대한 AI 이론적 근거](./assets/broken-backlinks/auto-suggest-ai-rationale.png){align="center"}
+<!--![AI rationale on autosuggestion of broken backlinks](./assets/broken-backlinks/auto-suggest-ai-rationale.png){align="center"}-->
 
 **정보** 아이콘을 선택하면 제안된 URL에 대한 AI 이론적 근거를 확인할 수 있습니다. 이론적 근거는 AI가 제안된 URL이 끊어진 링크에 가장 적합하다고 판단한 이유를 설명합니다. 이를 통해 AI의 의사 결정 과정을 이해하고 제안을 수락할지 거부할지에 대한 정보에 입각한 결정을 내리는 데 도움이 될 수 있습니다.
 
 >[!TAB 대상 URL 편집]
 
-![끊어진 백링크의 제안된 URL 편집](./assets/broken-backlinks/edit-target-url.png){align="center"}
+<!--![Edit suggested URL of broken backlinks](./assets/broken-backlinks/edit-target-url.png){align="center"}-->
 
 AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 선택하여 제안된 URL을 편집할 수 있습니다. 편집하면 끊어진 링크에 가장 적합하다고 생각되는 URL을 수동으로 입력할 수 있습니다. Sites Optimizer는 사이트에서 끊어진 링크에 적합할 것으로 판단되는 다른 URL도 나열합니다.
 
 >[!TAB 항목 무시]
 
-![끊어진 백링크 무시](./assets/broken-backlinks/ignore.png){align="center"}
+<!--![Ignore broken backlinks](./assets/broken-backlinks/ignore.png){align="center"}-->
 
 타기팅된 끊어진 URL이 포함된 항목을 무시하도록 선택할 수 있습니다. ![삭제 아이콘 또는 무시 아이콘](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg)을 선택하면 기회 목록에서 끊어진 백링크가 제거됩니다. 무시된 끊어진 백링크는 기회 페이지 상단의 **무시됨** 탭에서 다시 활성화할 수 있습니다.
 
@@ -64,9 +66,7 @@ AI 생성 제안에 동의하지 않는 경우 **편집 아이콘**&#x200B;을 �
 
 ## 자동 최적화
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
->[!VIDEO](https://video.tv.adobe.com/v/3483260/?captions=kor&learn=on&enablevpops)
+<!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
 제안을 검토하고 승인하면 **최적화 배포**&#x200B;를 클릭할 수 있습니다. 그런 다음 AEM Sites Optimizer은 구현 내에서 리디렉션이 관리되는 방식에 따라 수정 사항을 작성 환경에 적용합니다. 그런 다음 AEM 작성자는 콘텐츠 관리 시스템(CMS)에서 변경 사항을 게시할 수 있습니다.
 
