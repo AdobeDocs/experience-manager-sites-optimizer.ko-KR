@@ -14,7 +14,7 @@ ht-degree: 35%
 
 <!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483271/?captions=kor&learn=on&enablevpops)
 
 대체 텍스트 영업 기회가 누락되면 웹 사이트에서 설명 대체 텍스트가 없는 이미지가 식별됩니다. 대체 텍스트가 없으면 화면 판독기에 의존하는 사용자가 시각적 콘텐츠를 해석할 수 없어 접근성 장벽을 만듭니다. 또한 검색 엔진이 이미지를 이해하고 인덱싱하는 방식을 제한하여 콘텐츠 검색 기능과 검색 성능을 저하할 수 있습니다. AEM Sites Optimizer은 누락된 대체 텍스트 문제를 식별하고 특정 AI 권장 사항을 제공하며, 클릭 한 번으로 배포하여 이를 모두 중앙 집중식으로 해결할 수 있습니다.
 

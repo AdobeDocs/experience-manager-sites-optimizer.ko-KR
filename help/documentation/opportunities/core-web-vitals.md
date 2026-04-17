@@ -14,7 +14,7 @@ ht-degree: 6%
 
 <!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483378/?captions=kor&learn=on&enablevpops)
 
 Core Web Vitals 영업 기회는 사용자 경험과 유기 검색 성능에 영향을 미치는 웹 사이트의 페이지를 식별합니다. 이러한 문제는 사용자 지정 글꼴, 최적화되지 않은 JavaScript 종속성 및 서드파티 스크립트와 같은 요소에서 발생할 수 있습니다. Core Web Vitals은 컨텐츠 로드 속도, 페이지 레이아웃의 안정성 및 사용자 상호 작용에 대한 페이지의 반응성을 측정합니다.
 
