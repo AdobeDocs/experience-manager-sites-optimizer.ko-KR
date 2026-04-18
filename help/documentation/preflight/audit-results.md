@@ -30,7 +30,7 @@ AEM Preflight 대화 상자의 맨 위에는 전체 감사 결과를 반영하�
 
 감사가 완료된 후 페이지에서 직접 강조하여 기회를 빠르게 찾고 이해할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483412/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483419/?captions=kor&learn=on&enablevpops)
 
 Preflight는 컨텍스트에서 각 기회를 강조 표시하여 패널의 결과를 콘텐츠의 정확한 위치에 연결합니다. 이렇게 하면 페이지를 수동으로 검색하지 않고도 기회를 보다 쉽게 검토하고 해결할 수 있습니다.
 
