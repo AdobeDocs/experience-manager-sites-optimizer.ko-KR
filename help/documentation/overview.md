@@ -2,9 +2,9 @@
 title: Sites Optimizer 설명서
 description: Experience Manager Sites Optimizer 설명서.
 source-git-commit: 7784534e1d3628ca18da45c1e95fcce613adc7c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -118,9 +118,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./trial.md" target="_blank" rel="referrer" title="체험판">평가판</a>
+                        <a href="./trial.md" target="_blank" rel="referrer" title="체험판">체험판</a>
                     </p>
-                    <p class="is-size-6">기존 AEM Sites 고객을 위한 단계, 제한 및 FAQ를 포함하여 Sites Optimizer 평가판을 시작합니다.</p>
+                    <p class="is-size-6">기존 AEM Sites 고객을 위한 단계, 제한 사항, FAQ를 포함하여 Sites Optimizer 체험판을 시작합니다.</p>
                 </div>
                 <a href="./trial.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

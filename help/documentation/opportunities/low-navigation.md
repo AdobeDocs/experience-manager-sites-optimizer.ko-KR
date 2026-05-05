@@ -4,20 +4,20 @@ description: 낮은 탐색 기회에 대해 알아보고 이를 사용하여 웹
 badgeFormOptimization: label="Forms 최적화" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms 최적화"
 hide: true
 source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '333'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 
 # Forms 낮은 탐색 기회
 
-<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
+<span class="preview"> Forms 최적화 기능은 초기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 초기 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
 
 ![낮은 탐색 기회](./assets/low-navigation/hero.png){align="center"}
 
-낮은 탐색 기회는 웹 사이트에서 낮은 탐색률을 보이는 양식을 식별합니다. 이 영업 기회 유형은 사용자가 검색 또는 액세스하지 않는 양식을 식별하고 검색 기능을 개선하는 방법을 제안합니다.
+낮은 탐색 기회는 웹 사이트에서 낮은 탐색률을 보이는 양식을 식별합니다. 이 기회 유형은 사용자가 검색하거나 액세스하지 않는 양식을 식별하고 검색 기능을 향상하는 방법을 제안합니다.
 
 
 ## 자동 식별

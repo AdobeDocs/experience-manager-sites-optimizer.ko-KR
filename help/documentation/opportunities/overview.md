@@ -2,9 +2,9 @@
 title: Sites Optimizer 기회 설명서
 description: 사용 가능한 모든 Site Optimizer 기회와 이를 사용하여 사이트 성과를 개선하는 방법에 대해 알아봅니다.
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '891'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -182,7 +182,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="끊어진 내부 링크">끊어진 내부 링크</a>
                     </p>
-                    <p class="is-size-6">끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여도를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="./broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -217,8 +217,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./core-web-vitals.md" title="핵심 웹 바이탈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="핵심 웹 바이탈"
+                    <a href="./core-web-vitals.md" title="Core Web Vitals" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="Core Web Vitals"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -226,9 +226,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="핵심 웹 바이탈">핵심 웹 바이탈</a>
+                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Core Web Vitals">Core Web Vitals</a>
                     </p>
-                    <p class="is-size-6">핵심 웹 바이탈 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">Core Web Vitals 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="./core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -366,7 +366,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="Forms 낮은 탐색">Forms 낮은 탐색</a>
                     </p>
-                    <p class="is-size-6">탐색 기회가 적고 이를 사용하여 웹 사이트의 양식 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">낮은 탐색 기회에 대해 알아보고 이를 사용하여 웹 사이트에서 양식 참여도를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -389,7 +389,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms 접근성 문제">Forms 접근성 문제</a>
                     </p>
-                    <p class="is-size-6">Forms 접근성 문제와 이를 사용하여 웹 사이트에서의 참여를 향상시키는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Forms 접근성 문제와 이를 사용하여 웹 사이트의 참여를 향상시키는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -412,7 +412,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="누락된 대체 텍스트">누락된 대체 텍스트</a>
                     </p>
-                    <p class="is-size-6">누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여도를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="./missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

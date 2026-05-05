@@ -2,16 +2,16 @@
 title: AEM Sites Optimizer
 description: Sites Optimizer로 웹 사이트의 성능을 높여 보십시오. 속도를 개선하고, 비용을 절감하고, 안정성을 높여 더 나은 참여를 이끌어 내십시오.
 source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455092/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
 Adobe Experience Manager(AEM) Sites Optimizer는 AEM에 빌드된 웹 사이트의 성능을 분석하고 개선하는 클라우드 기반 서비스입니다. Sites Optimizer는 페이지 로딩, 구성 요소 사용, 콘텐츠 게재 측면에서 개선해야 할 영역을 파악합니다. 이 기능은 유지관리 및 업데이트 비용을 줄이는 동시에 웹 사이트 성능을 향상하는 데 도움이 됩니다. Sites Optimizer를 사용하면 참여와 전환을 유지하는 데 중요한 요소인 원활하고 안정적인 온라인 경험을 보장할 수 있습니다.
 
@@ -71,7 +71,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="Preflight 설명서">Preflight 설명서</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizer의 Preflight와 웹 페이지를 게시하기 전에 최적화하는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Sites Optimizer의 Preflight에 대해 알아보고 웹 페이지를 게시하기 전에 웹 페이지를 최적화하는 방법을 확인합니다.</p>
                 </div>
                 <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -109,13 +109,13 @@ CARDS
 
 <!--
 CARDS 
-* https://helpx.adobe.com/kr/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
     {target=_blank}
     {cta=Learn more}
-* https://business.adobe.com/kr/products/experience-manager/sites/optimizer.html
+* https://business.adobe.com/products/experience-manager/sites/optimizer.html
     {title=Explore the capabilities of AEM Sites Optimizer}
     {description=Learn what AEM Site Optimizer can do for your company.}
     {image=./assets/home/business-adobe-com.png}

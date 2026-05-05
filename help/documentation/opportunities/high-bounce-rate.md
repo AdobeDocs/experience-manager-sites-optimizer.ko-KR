@@ -4,7 +4,7 @@ description: 낮은 조회수 기회에 대해 알아보고 이를 사용하여 
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: ht
-source-wordcount: '350'
+source-wordcount: '359'
 ht-degree: 100%
 
 ---

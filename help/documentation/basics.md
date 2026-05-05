@@ -3,7 +3,7 @@ title: Sites Optimizer 기본 사항
 description: Sites Optimizer의 기본 사항과 탐색 방법을 알아봅니다.
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: ht
-source-wordcount: '511'
+source-wordcount: '532'
 ht-degree: 100%
 
 ---

@@ -4,7 +4,7 @@ description: 높은 트래픽 페이지의 CTR이 낮은 기회와 이를 활용
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
 source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
 workflow-type: ht
-source-wordcount: '266'
+source-wordcount: '274'
 ht-degree: 100%
 
 ---

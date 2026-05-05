@@ -3,22 +3,22 @@ title: Sites Optimizer를 사용한 Forms 최적화
 description: Sites Optimizer를 활용한 Forms 최적화에 대해 알아봅니다.
 hide: true
 source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 
 # Forms 최적화 기회
 
-<span class="preview"> Forms 최적화 기능은 조기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 얼리 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
+<span class="preview"> Forms 최적화 기능은 초기 액세스 프로그램에서 사용할 수 있습니다. 공식 이메일 ID를 사용하여 aem-forms-ea@adobe.com으로 이메일을 보내 초기 액세스 프로그램에 참여하고 기능에 대한 액세스 권한을 요청할 수 있습니다. </span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![Forms 최적화 기회](./assets/form-optimization/hero.png){align="center"}
 
-Forms 최적화 기회를 통해 조직은 사용자 상호 작용을 체계적으로 개선하고 양식 전환을 늘릴 수 있습니다. 팀은 낮은 보기, 낮은 전환 수, 낮은 탐색 속도와 같은 문제를 감지함으로써 데이터 중심의 조정을 통해 양식 디자인, 배치 및 콘텐츠를 조정할 수 있습니다. 이러한 최적화는 사용자 경험을 간소화하고 방문자가 더 쉽게 양식을 작성하고 원하는 결과를 얻을 수 있도록 도와줍니다. Forms 최적화를 통한 통찰력을 사용하면 성능 차이를 지속적으로 식별하고 해결할 수 있으므로 보다 효과적인 양식과 개선된 비즈니스 결과를 얻을 수 있습니다.
+Forms 최적화 기회를 통해 조직은 사용자 상호 작용을 체계적으로 개선하고 양식 전환율을 높일 수 있습니다. 낮은 조회수, 낮은 전환율, 낮은 탐색률 등의 문제를 감지함으로써 팀은 데이터 기반으로 양식 디자인, 배치 및 콘텐츠를 조정할 수 있습니다. 이러한 최적화는 사용자 경험을 간소화하고 방문자가 더 쉽게 양식을 작성하고 원하는 결과를 얻을 수 있도록 도와줍니다. Forms 최적화의 인사이트를 활용하면 성과 격차를 지속적으로 식별하고 해결할 수 있으며, 이를 통해 더욱 효과적인 양식과 개선된 비즈니스 성과를 얻을 수 있습니다.
 
 ## 기회
 

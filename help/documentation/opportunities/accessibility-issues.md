@@ -4,7 +4,7 @@ description: 접근성 문제 기회와 이를 사용하여 웹 사이트 보안
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: ht
-source-wordcount: '263'
+source-wordcount: '278'
 ht-degree: 100%
 
 ---

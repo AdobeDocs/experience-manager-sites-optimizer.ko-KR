@@ -4,7 +4,7 @@ description: 사이트맵 문제 기회에 대해 알아보고 이를 사용하�
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: ht
-source-wordcount: '490'
+source-wordcount: '497'
 ht-degree: 100%
 
 ---

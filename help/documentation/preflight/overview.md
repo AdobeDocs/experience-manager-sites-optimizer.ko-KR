@@ -1,10 +1,10 @@
 ---
 title: AEM Sites Optimizer Preflight
-description: 게시 전에 평가하는 Preflight 및 영업 기회 유형에 대해 알아봅니다.
+description: Preflight와 페이지를 게시하기 전에 Preflight가 평가하는 기회 유형에 대해 알아봅니다.
 source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
@@ -13,18 +13,18 @@ ht-degree: 40%
 
 ![Preflight 기회](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer의 Preflight를 사용하면 콘텐츠 및 구조를 분석하고 실행 가능한 권장 사항으로 문제를 플래그 지정하여 페이지가 활성화되기 전에 유효성을 검사하고 최적화할 수 있습니다. 이 안내서는 재작업을 줄이면서 페이지의 고품질, 성능 및 게시 준비를 보장하려는 작성자, 마케터 및 개발자를 위해 설계되었습니다.
+AEM Sites Optimizer Preflight를 사용하면 콘텐츠와 구조를 분석하여 문제에 플래그 지정하고 실행 가능한 권장 사항을 제공하여 페이지가 공개되기 전에 페이지의 유효성을 검사하고 페이지를 최적화할 수 있습니다. 이 기능은 페이지가 고품질이고 성능이 뛰어나며 바로 게시해도 될 만큼 준비된 상태인지 확인하면서 재작업을 줄이려는 작성자, 마케터, 개발자를 위해 설계되었습니다.
 
-Preflight의 핵심은 기회이며, 게시 전에 페이지의 주요 측면을 평가하는 일련의 감사를 통해 식별됩니다. 이러한 감사는 잠재적인 문제를 노출하며 전반적인 품질과 성능을 개선하기 위해 명확하고 실행 가능한 권장 사항을 제공합니다.
+Preflight의 핵심은 기회이며 이 기회는 페이지를 게시하기 전에 페이지의 주요 측면을 평가하는 일련의 감사를 통해 식별됩니다. 이러한 감사는 잠재적인 문제를 보여 주고 전반적인 품질과 성능을 향상할 수 있도록 명확하고 실행 가능한 권장 사항을 제공합니다.
 
-## Preflight 시작
+## Preflight 시작하기
 
-Preflight를 시작하는 것은 쉽습니다. Preflight를 설정하여 작성 환경에서 열고 페이지에서 감사를 실행하면 나머지는 Preflight가 수행합니다.
+Preflight는 쉽게 시작할 수 있습니다. Preflight를 설정하고 작성 환경에서 열어서 페이지에 대한 감사를 실행하기만 하면 나머지 작업은 Preflight가 수행합니다.
 
-1. [Preflight 설정](./setup.md) - AEM 인스턴스에 대한 Preflight를 설정하는 방법에 대해 알아봅니다.
-1. [Preflight 액세스](./access-preflight.md) - 작성 환경에서 Preflight가 표시되는 위치를 알아봅니다.
-1. [감사 실행](./audits.md) - Preflight 감사를 시작하는 방법 알아보기
-1. [감사 결과 및 기회](./audit-results.md) - 감사 결과를 해석하는 방법을 알아봅니다.
+1. [Preflight 설정](./setup.md) – AEM 인스턴스에서 Preflight를 설정하는 방법 알아보기
+1. [Preflight 액세스](./access-preflight.md) – 작성 환경에서 Preflight가 표시되는 위치 알아보기
+1. [감사 실행](./audits.md) – Preflight 감사를 시작하는 방법 알아보기
+1. [감사 결과 및 기회](./audit-results.md) – 감사 결과를 해석하는 방법 알아보기
 
 ## Preflight 기회
 
