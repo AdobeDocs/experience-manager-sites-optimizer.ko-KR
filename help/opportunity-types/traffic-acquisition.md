@@ -2,7 +2,7 @@
 title: Sites Optimizer로 트래픽 확보 최적화
 description: Sites Optimizer로 트래픽 확보를 늘리는 방법을 알아봅니다.
 source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
 ht-degree: 100%
 

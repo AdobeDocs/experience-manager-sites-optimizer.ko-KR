@@ -2,9 +2,9 @@
 title: AEM Sites Optimizer
 description: Sites Optimizer로 웹 사이트의 성능을 높여 보십시오. 속도를 개선하고, 비용을 절감하고, 안정성을 높여 더 나은 참여를 이끌어 내십시오.
 source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -71,7 +71,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="Preflight 설명서">Preflight 설명서</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizer의 Preflight와 웹 페이지를 게시하기 전에 최적화하는 방법에 대해 알아봅니다.</p>
+                    <p class="is-size-6">Sites Optimizer의 Preflight에 대해 알아보고 웹 페이지를 게시하기 전에 웹 페이지를 최적화하는 방법을 확인합니다.</p>
                 </div>
                 <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

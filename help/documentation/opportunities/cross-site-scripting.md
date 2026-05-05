@@ -4,7 +4,7 @@ description: 크로스 사이트 스크립팅 기회에 대해 알아보고 사�
 badgeSecurityPosture: label="보안 태세" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="보안 태세"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: ht
-source-wordcount: '132'
+source-wordcount: '144'
 ht-degree: 100%
 
 ---

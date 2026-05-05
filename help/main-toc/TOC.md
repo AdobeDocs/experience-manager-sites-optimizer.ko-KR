@@ -3,9 +3,9 @@ user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
 source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 91%
    + [기본 사항](/help/documentation/basics.md)
    + [체험판](/help/documentation/trial.md)
    + 설정{#set-up}
-      + [온보드 사용자](/help/documentation/setup/onboard-users.md)
+      + [사용자 온보딩](/help/documentation/setup/onboard-users.md)
    + 기회{#opportunities}
       + [개요](/help/documentation/opportunities/overview.md)
       + [접근성 문제](/help/documentation/opportunities/accessibility-issues.md)
       + [끊어진 내부 링크](/help/documentation/opportunities/broken-internal-links.md)
       + [끊어진 백링크](/help/documentation/opportunities/broken-backlinks.md)
-      + [핵심 웹 바이탈](/help/documentation/opportunities/core-web-vitals.md)
+      + [Core Web Vitals](/help/documentation/opportunities/core-web-vitals.md)
       + [CORS 구성](/help/documentation/opportunities/cors-configuration.md)
       + [크로스 사이트 스크립팅](/help/documentation/opportunities/cross-site-scripting.md)
       + [높은 바운스 비율](/help/documentation/opportunities/high-bounce-rate.md)

@@ -2,7 +2,7 @@
 title: Preflight 링크 기회
 description: Sites Optimizer의 Preflight 링크 기회에 대해 알아봅니다.
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
 ht-degree: 100%
 

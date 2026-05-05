@@ -2,7 +2,7 @@
 title: Sites Optimizer로 보안 태세 최적화
 description: Sites Optimizer로 사이트의 보안을 개선하는 방법을 알아봅니다.
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
 ht-degree: 100%
 

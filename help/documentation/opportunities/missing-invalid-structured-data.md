@@ -4,7 +4,7 @@ description: 누락되거나 잘못된 구조화된 데이터 기회에 대해 �
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: ht
-source-wordcount: '360'
+source-wordcount: '371'
 ht-degree: 100%
 
 ---

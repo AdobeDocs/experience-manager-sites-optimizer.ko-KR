@@ -2,7 +2,7 @@
 title: Sites Optimizer로 참여 최적화
 description: Sites Optimizer를 사용하여 참여도를 개선하는 방법을 알아봅니다.
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
 ht-degree: 100%
 
@@ -78,7 +78,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" title="끊어진 내부 링크">끊어진 내부 링크</a>
                     </p>
-                    <p class="is-size-6">끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여도를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">끊어진 링크 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -147,7 +147,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="누락된 대체 텍스트">누락된 대체 텍스트</a>
                     </p>
-                    <p class="is-size-6">누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여도를 개선하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">누락된 대체 텍스트 기회에 대해 알아보고 이를 사용하여 웹 사이트 참여를 개선하는 방법을 알아봅니다.</p>
                 </div>
                 <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

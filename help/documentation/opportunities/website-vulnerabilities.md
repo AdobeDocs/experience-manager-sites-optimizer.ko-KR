@@ -4,7 +4,7 @@ description: 웹 사이트 취약점 기회와 이를 사용하여 웹 사이트
 badgeSecurityPosture: label="보안 태세" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="보안 태세"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: ht
-source-wordcount: '366'
+source-wordcount: '384'
 ht-degree: 100%
 
 ---

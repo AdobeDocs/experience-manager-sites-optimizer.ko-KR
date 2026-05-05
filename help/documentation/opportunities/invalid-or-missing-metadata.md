@@ -4,7 +4,7 @@ description: 잘못되었거나 누락된 메타데이터 기회에 대해 알�
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: ht
-source-wordcount: '521'
+source-wordcount: '550'
 ht-degree: 100%
 
 ---

@@ -2,9 +2,9 @@
 title: Preflight 가독성 기회
 description: Sites Optimizer의 Preflight 가독성 기회에 대해 알아봅니다.
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Preflight 가독성 기회는 다음과 같은 여러 언어로 제공됩니다.
 * 독일어
 * 네덜란드어
 
-이를 통해 팀은 다양한 대상자에서 콘텐츠 가독성을 평가하고 최적화할 수 있습니다.
+이를 통해 팀은 대상자 전반에서 콘텐츠 가독성을 평가하고 최적화할 수 있습니다.
