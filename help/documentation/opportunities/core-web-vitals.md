@@ -3,12 +3,10 @@ title: Core Web Vitals 기회 설명서
 description: 핵심 웹 바이탈 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeSiteHealth: label="사이트 상태" type="Caution" url="../../opportunity-types/site-health.md" tooltip="사이트 상태"
 TQID: https://experienceleague.adobe.com/3h-Xas767zUk-Sod7JEr9Lh767r5S3LKpbwJZFZU2kg
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 533
 ht-degree: 100%
 
@@ -18,7 +16,7 @@ ht-degree: 100%
 
 <!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483378/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
 
 Core Web Vitals 기회는 성능이 저하되어 사용자 경험과 유기 검색 성능에 영향을 미치는 웹 사이트 페이지를 식별합니다. 이러한 문제는 사용자 정의 글꼴, 최적화되지 않은 JavaScript 종속성, 서드파티 스크립트와 같은 요인으로 인해 발생할 수 있습니다. Core Web Vitals는 콘텐츠 로드 속도, 페이지 레이아웃의 안정성, 사용자 상호 작용에 대한 페이지 반응성을 측정합니다.
 
