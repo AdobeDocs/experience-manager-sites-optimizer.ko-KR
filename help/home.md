@@ -1,13 +1,15 @@
 ---
 title: AEM Sites Optimizer
 description: Sites Optimizer로 웹 사이트의 성능을 높여 보십시오. 속도를 개선하고, 비용을 절감하고, 안정성을 높여 더 나은 참여를 이끌어 내십시오.
-source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
-workflow-type: ht
-source-wordcount: '182'
+TQID: https://experienceleague.adobe.com/tep2UnSJ4BsorZ9caKACfbOFyI1qvM2ZCxhjHd3vcSc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 182
 ht-degree: 100%
 
 ---
-
 
 # AEM Sites Optimizer
 

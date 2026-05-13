@@ -2,13 +2,17 @@
 title: 사이트맵 문제 기회 설명서
 description: 사이트맵 문제 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.
 badgeTrafficAcquisition: label="트래픽 확보" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="트래픽 확보"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '497'
+TQID: https://experienceleague.adobe.com/fWfIWxwZ0SQpY4l0rjYrNZaNNhXqmh2t-etEwotYUfQ
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 497
 ht-degree: 100%
 
 ---
-
 
 # 사이트맵 문제 기회
 

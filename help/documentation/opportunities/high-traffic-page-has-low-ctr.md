@@ -2,13 +2,18 @@
 title: 높은 트래픽 페이지의 CTR이 낮은 기회 설명서
 description: 높은 트래픽 페이지의 CTR이 낮은 기회와 이를 활용하여 웹 사이트의 참여도를 높이는 방법에 대해 알아봅니다.
 badgeEngagement: label="참여" type="Caution" url="../../opportunity-types/engagement.md" tooltip="참여"
-source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
-workflow-type: ht
-source-wordcount: '274'
+TQID: https://experienceleague.adobe.com/pnOZaaoYn5nIWwc2Qt3Xs-wyCygoRgMEHsD8P0Rq-6U
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 274
 ht-degree: 100%
 
 ---
-
 
 # 높은 트래픽 페이지의 CTR이 낮은 기회
 

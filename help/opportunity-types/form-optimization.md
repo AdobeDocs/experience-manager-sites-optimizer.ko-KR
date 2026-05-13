@@ -1,14 +1,20 @@
 ---
 title: Sites Optimizer를 사용한 Forms 최적화
 description: Sites Optimizer를 활용한 Forms 최적화에 대해 알아봅니다.
+TQID: https://experienceleague.adobe.com/6YARKCyeKXDlXPs36QQK97WthDcUBdR3FtAqFFGWofQ
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hide: true
-source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: ht
-source-wordcount: '219'
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+workflow-type: tm+mt
+source-wordcount: 219
 ht-degree: 100%
 
 ---
-
 
 # Forms 최적화 기회
 
