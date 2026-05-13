@@ -18,7 +18,7 @@ ht-degree: 100%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483260/?captions=kor&learn=on&enablevpops)
 
 끊어진 백링크 기회는 사이트에 존재하지 않는(404) 페이지를 가리키는 외부 링크를 식별합니다. 이러한 링크가 있으면 참조 트래픽이 손실되고 검색 엔진이 백링크를 사용하여 관련성과 권한을 평가하기 때문에 SEO 값 또한 줄어듭니다. 이러한 문제는 URL이 변경되거나, 콘텐츠가 제거되거나, 적절한 리디렉션 없이 페이지를 더 이상 사용할 수 없을 때 발생합니다. AEM Sites Optimizer는 끊어진 모든 백링크를 식별하고 구체적인 AI 권장 사항을 제공하며 클릭 한 번으로 배포하여 끊어진 백링크를 수정할 수 있는 기능을 지원합니다. 이 모든 작업은 단일 중앙 집중식 보기에서 이루어집니다.
 
