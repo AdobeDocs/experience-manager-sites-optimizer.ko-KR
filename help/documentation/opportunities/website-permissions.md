@@ -2,13 +2,15 @@
 title: 웹 사이트 권한 기회 설명서
 description: 웹 사이트 권한 기회와 이를 사용하여 웹 사이트 보안을 강화하는 방법을 알아봅니다.
 badgeSecurityPosture: label="보안 태세" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="보안 태세"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '227'
+TQID: https://experienceleague.adobe.com/9nGa4iRd0cBuWSUZxLvbXXo1Rx84ZqMLnD8lF8XkayU
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 227
 ht-degree: 100%
 
 ---
-
 
 # 웹 사이트 권한 기회
 

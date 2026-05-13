@@ -1,13 +1,15 @@
 ---
 title: Sites Optimizer로 사이트 상태 최적화
 description: Sites Optimizer로 사이트의 상태를 개선하는 방법을 알아봅니다.
-source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: ht
-source-wordcount: '130'
+TQID: https://experienceleague.adobe.com/-zDE6-ycqW-IkPEQA9J024GAHb8SOdfdwR4DCEd0Oyc
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 130
 ht-degree: 100%
 
 ---
-
 
 # 사이트 상태 기회
 
@@ -33,7 +35,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/core-web-vitals.md" title="Core Web Vitals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-performance.png" alt="Core Web Vitals"
+                        <img class="is-bordered-r-small" src="../assets/common/card-performance.png" alt="핵심 웹 바이탈"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
