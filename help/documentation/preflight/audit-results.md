@@ -2,7 +2,7 @@
 title: Preflight 감사 결과
 description: Preflight 감사 결과와 사용자 진행률 표시줄을 해석하고 미리 보기의 문제로 이동하는 방법을 알아봅니다.
 source-git-commit: 30060044e558774ab1e17684945f29d3e76dc3a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 100%
 
