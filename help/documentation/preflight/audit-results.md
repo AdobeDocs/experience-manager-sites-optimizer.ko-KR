@@ -2,7 +2,7 @@
 title: Preflight 감사 결과
 description: Preflight 감사 결과와 사용자 진행률 표시줄을 해석하고 미리 보기의 문제로 이동하는 방법을 알아봅니다.
 source-git-commit: 30060044e558774ab1e17684945f29d3e76dc3a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ AEM Preflight 대화 상자의 맨 위에는 전체 감사 결과를 반영하�
 
 감사가 완료된 후 페이지에서 기회를 직접 강조 표시하여 기회를 빠르게 찾고 이해할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483419/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483412/?learn=on&enablevpops)
 
 Preflight는 각 기회를 컨텍스트에서 강조 표시하여 패널에 표시된 결과를 콘텐츠의 정확한 위치에 연결합니다. 그러면 페이지를 수동으로 검색하지 않고도 기회를 훨씬 더 쉽게 검토하고 해결할 수 있습니다.
 
