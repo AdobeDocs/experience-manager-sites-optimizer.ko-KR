@@ -1,28 +1,27 @@
 ---
 title: Preflight 설정
-description: AEM Sites Optimizer용 Preflight 확장을 설정하는 방법을 알아봅니다.
+description: AEM Sites Optimizer용 Preflight를 설정하는 방법을 알아봅니다.
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
-workflow-type: ht
-source-wordcount: 587
-ht-degree: 100%
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+workflow-type: tm+mt
+source-wordcount: 577
+ht-degree: 72%
 
 ---
 
 # Preflight 설정
 
-AEM Sites Optimizer Preflight 기회 식별을 사용하려면 Preflight 확장 기능을 설정해야 합니다. 범용 편집기, 문서 기반 미리 보기 또는 AEM Cloud Service에서 해당 기능을 설정할 수 있으므로 페이지를 게시하기 전에 페이지에서 Preflight 감사를 실행할 수 있습니다.
+Preflight를 실행하려면 작성 환경에서 설정해야 합니다. 범용 편집기, 문서 기반 작성, AEM Sites 페이지 편집기 또는 Adobe Managed Services용 Preflight를 설정할 수 있으므로 페이지가 게시되기 전에 페이지에서 Preflight 감사를 실행할 수 있습니다.
 
 ## 사용자 액세스 활성화
 
-Preflight 확장 기능을 사용하려면 사용자가 [Adobe Admin Console](https://adminconsole.adobe.com)에서 다음과 같은 AEM Sites Optimizer 제품 프로필 중 하나 이상에 할당되어 있는지 확인하십시오.
+Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://adminconsole.adobe.com)에서 다음 AEM Sites Optimizer 제품 프로필 중 하나 이상에 할당되었는지 확인하십시오.
 
 * AEM Sites Optimizer - 사용자 자동 제안
 * AEM Sites Optimizer - 사용자 자동 최적화
 
-## Preflight 확장 기능 활성화
+## Preflight 활성화
 
 >[!BEGINTABS]
 
@@ -37,7 +36,7 @@ Preflight 확장 기능을 사용하려면 사용자가 [Adobe Admin Console](ht
 1. 확장 기능 활성화 후 **범용 편집기**에서 페이지를 하나 엽니다. 예:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 확장 기능**&#x200B;이 **사이드 레일**&#x200B;에 나타납니다.
-1. 사이드 레일에서 **Preflight 확장 기능**&#x200B;을 선택하여 현재 페이지의 **Preflight 감사**&#x200B;를 시작합니다.
+1. 측면 레일에서 **Preflight 확장**&#x200B;을 선택하여 현재 페이지의 Preflight를 엽니다.
 
 >[!TAB 문서 기반 작성]
 
@@ -116,7 +115,7 @@ Preflight 확장 기능을 사용하려면 사용자가 [Adobe Admin Console](ht
    ```
 
 1. 감사하려는 페이지의 미리 보기 URL(`*.aem.page`)을 엽니다.
-1. **Sidekick**&#x200B;에서 **Peflight** 버튼을 클릭하여 현재 페이지에 대한 감사를 시작합니다.
+1. **Sidekick**&#x200B;에서 **Preflight** 단추를 클릭하여 현재 페이지의 Preflight를 엽니다.
 
 >[!TAB AEM Sites 페이지 편집기]
 
@@ -137,7 +136,7 @@ AEM Sites 페이지 편집기에서 Preflight를 사용하기 위해 웹 브라�
 
 1. 북마크의 이름을 **Preflight**(또는 원하는 이름)로 지정합니다.
 1. **AEM Sites 페이지 편집기**&#x200B;에서 감사하려는 페이지의 미리 보기 URL(`*.aem.page`)을 엽니다.
-1. 북마크 바에서 **Preflight** 북마크를 클릭해 현재 페이지에 대한 감사를 시작합니다.
+1. 책갈피 막대에서 **Preflight** 책갈피를 클릭하여 현재 페이지의 Preflight를 엽니다.
 
 >[!TAB Adobe Managed Services]
 
@@ -145,7 +144,7 @@ AEM Sites 페이지 편집기에서 Preflight를 사용하기 위해 웹 브라�
 >
 >AEM 작성자 인증에 Adobe ID 공급자(IMS)를 사용하는 Adobe Managed Services(AMS) 환경만 지원됩니다. 조직에서 AMS 인증에 다른 ID 공급자를 사용하는 경우 Preflight가 작동하지 않습니다.
 
-AMS 환경에서 실행되는 AEM Sites 페이지 편집기에서 Preflight를 사용하려면 다음 단계에 따라 웹 브라우저에서 북마클릿을 만드십시오.
+AMS 환경에서 AEM Sites 페이지 편집기에서 Preflight를 사용하려면 다음 단계에 따라 웹 브라우저에서 북마클릿을 만드십시오.
 
 1. 다음과 같이 웹 브라우저에 **북마크 바**&#x200B;를 표시합니다.
 
@@ -162,7 +161,7 @@ AMS 환경에서 실행되는 AEM Sites 페이지 편집기에서 Preflight를 �
 
 1. 북마크의 이름을 **Preflight**(또는 원하는 이름)로 지정합니다.
 1. **AEM Sites 페이지 편집기**&#x200B;에서 감사할 페이지를 엽니다.
-1. 북마크 바에서 **Preflight** 북마크를 클릭해 현재 페이지에 대한 감사를 시작합니다.
+1. 책갈피 막대에서 **Preflight** 책갈피를 클릭하여 현재 페이지의 Preflight를 엽니다.
 
 >[!ENDTABS]
 

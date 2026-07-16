@@ -1,16 +1,17 @@
 ---
-title: Preflight 접근성 기회
-description: Sites Optimizer의 Preflight 접근성 기회에 대해 알아봅니다.
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+title: Preflight 접근성 감사
+description: Preflight가 AEM Sites Optimizer 페이지에서 실행하는 접근성 감사에 대해 알아봅니다.
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
 
 ---
 
+# 접근성 감사
 
-# Preflight 접근성 기회
+![Preflight 준비 대시보드의 접근성 감사](./assets/accessibility/hero.png){align="center"}
 
-![Preflight 접근성 기회](./assets/accessibility/hero.png){align="center"}
+Preflight의 **접근성** 감사는 WCAG(Web Content Accessibility Guidelines)를 기준으로 페이지를 평가하여 장애가 있는 사용자를 포함한 모든 사용자가 페이지를 사용할 수 있도록 합니다. Preflight 감사를 실행하면 이러한 접근성 표준에 대해 페이지를 평가하고 발견된 문제를 게시 전에 검토하고 해결할 수 있는 기회로 그룹화합니다.
 
-Sites Optimizer의 Preflight 접근성 기회는 웹 사이트에서 접근성 문제를 식별하고 해결하여 장애를 가진 사람을 포함한 모든 개인이 사용할 수 있도록 합니다. 이 기회는 사이트의 접근성 표준 준수에 대한 평가를 중점적으로 다루고 개선을 위해 실행 가능한 권장 사항을 제공합니다.
+준비 대시보드에서 **접근성** 범주를 확장하여 감사가 통과되었는지 여부와 발견한 기회 수를 확인합니다. 감사를 선택하여 세부 정보 페이지를 열고 기회를 통해 작업합니다. 각 기회는 페이지의 영향을 받는 요소와 함께 접근성 문제, 심각도, 관련 WCAG 규칙 및 적합성 수준에 대해 설명합니다. 결과를 해석하고 기회를 해결하는 방법에 대해 알아보려면 [Preflight에서 결과 감사](../audit-results.md)를 참조하십시오.
