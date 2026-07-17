@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 96%
 
 ---
 
@@ -53,11 +53,17 @@ ht-degree: 100%
       + [Preflight 액세스](/help/documentation/preflight/access-preflight.md)
       + [감사](/help/documentation/preflight/audits.md)
       + [감사 결과](/help/documentation/preflight/audit-results.md)
-      + 기회{#preflight-opportunities}
+      + 카테고리 감사{#preflight-opportunities}
          + [접근성](/help/documentation/preflight/opportunities/accessibility.md)
-         + [H1 수](/help/documentation/preflight/opportunities/h1-count.md)
-         + [링크](/help/documentation/preflight/opportunities/links.md)
-         + [메타데이터](/help/documentation/preflight/opportunities/meta-data.md)
-         + [가독성](/help/documentation/preflight/opportunities/readability.md)
+         + SEO{#preflight-seo}
+            + [개요](/help/documentation/preflight/opportunities/seo.md)
+            + [메타태그](/help/documentation/preflight/opportunities/seo/metatags.md)
+            + [제목](/help/documentation/preflight/opportunities/seo/headings.md)
+            + [H1 수](/help/documentation/preflight/opportunities/seo/h1-count.md)
+            + [링크](/help/documentation/preflight/opportunities/seo/links.md)
+            + [가독성](/help/documentation/preflight/opportunities/seo/readability.md)
+            + [표준](/help/documentation/preflight/opportunities/seo/canonical.md)
+            + [본문 크기](/help/documentation/preflight/opportunities/seo/body-size.md)
+            + [로렘 입숨](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
    + [설정](/help/documentation/settings.md)
    + [릴리스 정보](/help/documentation/release-notes.md)
