@@ -17,7 +17,7 @@ ht-degree: 92%
 >
 >AEM Sites Optimizer 평가판은 현재 headless 웹 사이트를 지원하지 않습니다. 체험판을 사용하려면 AEM Sites 프론트엔드 게재를 사용하는 웹 사이트에 온보딩하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483294/?captions=kor&learn=on&enablevpops)
 
 >[!TIP]
 >
