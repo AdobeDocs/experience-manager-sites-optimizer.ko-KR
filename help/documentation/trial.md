@@ -1,19 +1,23 @@
 ---
 title: Sites Optimizer 체험판
 description: 기존 AEM Sites 고객을 위한 AEM Sites Optimizer 체험판을 시작합니다.
-source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
+source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 100%
+source-wordcount: '558'
+ht-degree: 92%
 
 ---
 
 
 # Sites Optimizer 체험판
 
-기존 AEM Sites 고객(Edge Delivery Services, Cloud Services, Managed Services)을 위해 마련된 이 체험판을 사용하여 Sites Optimizer를 시작합니다. 도메인 데이터가 이미 사전 온보딩되었으므로 바로 최적화를 시작할 수 있습니다. 아래 비디오는 체험판 환경을 안내하고 시작하는 방법을 보여 줍니다.
+기존 **Sites Optimizer 고객(Edge Delivery Services, Cloud Services 및 Managed Services)에 대해 이 평가판을 사용하여 AEM Sites을 시작하십시오**. 도메인 데이터가 이미 사전 온보딩되었으므로 바로 최적화를 시작할 수 있습니다. 아래 비디오는 체험판 환경을 안내하고 시작하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483294/?captions=kor&learn=on&enablevpops)
+>[!NOTE]
+>
+>AEM Sites Optimizer 평가판은 현재 headless 웹 사이트를 지원하지 않습니다. 체험판을 사용하려면 AEM Sites 프론트엔드 게재를 사용하는 웹 사이트에 온보딩하십시오.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -36,9 +40,9 @@ ht-degree: 100%
 * 세 가지 기회 유형: [끊어진 백링크](./opportunities/broken-backlinks.md), [Core Web Vitals](./opportunities/core-web-vitals.md), [누락된 대체 텍스트](./opportunities/missing-alt-text.md)
 * 매월 기회당 최대 3개의 문제 식별
 * 문제당 전체 워크플로: 자동 식별, 자동 제안, 자동 최적화
-   * **자동 식별** — 여러 데이터 소스를 사용하여 사이트 전체의 문제를 감지합니다.
-   * **자동 제안** — 각 문제에 대해 규범적인 AI 생성 권장 사항을 제공합니다.
-   * **자동 최적화** — 승인 후 수정 사항을 작성 환경에 직접 배포합니다. 업데이트는 기존 워크플로를 따르므로 팀이 AEM을 통해 검토하고 게시할 수 있습니다.
+  * **자동 식별** — 여러 데이터 소스를 사용하여 사이트 전체의 문제를 감지합니다.
+  * **자동 제안** — 각 문제에 대해 규범적인 AI 생성 권장 사항을 제공합니다.
+  * **자동 최적화** — 승인 후 수정 사항을 작성 환경에 직접 배포합니다. 업데이트는 기존 워크플로를 따르므로 팀이 AEM을 통해 검토하고 게시할 수 있습니다.
 
 ## 자주 묻는 질문
 
