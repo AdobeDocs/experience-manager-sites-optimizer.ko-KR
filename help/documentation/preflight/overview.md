@@ -2,21 +2,22 @@
 title: AEM Sites Optimizer Preflight
 description: 게시 전에 페이지를 평가하기 위해 실행되는 Preflight 및 감사에 대해 알아봅니다.
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 351
-ht-degree: 49%
+source-wordcount: 300
+ht-degree: 28%
 
 ---
 
 # AEM Sites Optimizer Preflight
 
 ![Preflight 준비 대시보드](./assets/overview/hero.png){align="center"}
+
+>[!NOTE]
+>
+>[AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)부터 Preflight가 AEM Sites 페이지 편집기 도구 모음에 내장되어 있습니다. 자세한 내용은 [Preflight 설정](./setup.md)을 참조하세요.
 
 AEM Sites Optimizer의 Preflight를 사용하면 실행 가능한 권장 사항을 통해 콘텐츠 및 구조를 분석하고 기회를 표시하여 페이지를 활성화하기 전에 유효성을 검사하고 최적화할 수 있습니다. 이 기능은 페이지가 고품질이고 성능이 뛰어나며 바로 게시해도 될 만큼 준비된 상태인지 확인하면서 재작업을 줄이려는 작성자, 마케터, 개발자를 위해 설계되었습니다.
 
