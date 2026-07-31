@@ -25,7 +25,7 @@ Preflight는 페이지를 감사하여 게시하기 전에 콘텐츠를 향상�
 
 ## 통합된 Preflight 버튼 사용
 
-작성자 환경에서 [AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) 이상을 실행하는 경우 Preflight가 AEM Sites 페이지 편집기 도구 모음에 빌드됩니다. **Preflight** 아이콘(재생 단추)을 선택하여 현재 페이지에 대한 패널을 연 다음 **페이지 분석**&#x200B;을 선택하여 감사를 실행합니다.
+작성자 환경에서 [AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) 이상을 실행하는 경우 Preflight가 AEM Sites 페이지 편집기 도구 모음에 빌드됩니다. **Preflight** 아이콘(재생 단추)을 선택하여 현재 페이지에 대한 패널을 연 다음 **페이지 분석**&#x200B;을 선택하여 감사를 실행합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 

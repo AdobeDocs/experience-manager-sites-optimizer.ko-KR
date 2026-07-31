@@ -20,7 +20,7 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->[AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)부터 Preflight가 AEM Sites 페이지 편집기 도구 모음에 내장되어 있습니다. 자세한 내용은 [Preflight 설정](./setup.md)을 참조하세요.
+>[AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)부터 Preflight가 AEM Sites 페이지 편집기 도구 모음에 내장되어 있습니다. 자세한 내용은 [Preflight 설정](./setup.md)을 참조하세요.
 
 AEM Sites Optimizer의 Preflight를 사용하면 실행 가능한 권장 사항을 통해 콘텐츠 및 구조를 분석하고 기회를 표시하여 페이지를 활성화하기 전에 유효성을 검사하고 최적화할 수 있습니다. 이 기능은 페이지가 고품질이고 성능이 뛰어나며 바로 게시해도 될 만큼 준비된 상태인지 확인하면서 재작업을 줄이려는 작성자, 마케터, 개발자를 위해 설계되었습니다.
 
