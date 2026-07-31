@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ## 개요
 
-Experience League 비디오는 이 리포지토리에서 호스팅되지 않습니다. 로컬 `.mp4`이(가) 별도의 제출 양식을 통해 업로드됩니다. 이 양식은 `>[!VIDEO](...)`과(와) 함께 임베드된 `video.tv.adobe.com` URL을 반환합니다([[experience-league-markdown] 참조). 이 기술은 파일을 첨부하고 제출할 때까지 브라우저 자동화를 통해 해당 양식을 작성합니다.
+Experience League 비디오는 이 리포지토리에서 호스팅되지 않습니다. 로컬 `.mp4`이(가) 별도의 제출 양식을 통해 업로드됩니다. 이 양식은 `>[!VIDEO](...)`과(와) 함께 임베드된 `video.tv.adobe.com` URL을 반환합니다(&lbrack;[experience-league-markdown] 참조). 이 기술은 파일을 첨부하고 제출할 때까지 브라우저 자동화를 통해 해당 양식을 작성합니다.
 
 양식: https://81368-exlmpcvideoupload.adobeio-static.net/#/
 
@@ -41,6 +41,7 @@ Experience League 비디오는 이 리포지토리에서 호스팅되지 않습�
      }
    }
    ```
+
 2. `.gitignore`에 `.mcp.json`을(를) 추가합니다(개인 도구, 공유되지 않음).
 3. `.claude/settings.local.json`에서 `"enableAllProjectMcpServers": true` 및 `"enabledMcpjsonServers": ["chrome-devtools"]`을(를) 추가합니다.
 4. 사용자에게 클라우드 코드를 다시 시작하도록 알립니다(또는 `/mcp` 실행). MCP 서버는 시작 시에만 로드되며, 세션 중간에 이 작업을 수행할 수 없습니다.

@@ -37,7 +37,7 @@ Source of truth: https://experienceleague.adobe.com/en/docs/authoring-guide/usin
 | 글머리 기호 목록 | `* item`(`*`/`-`/`+` 중 하나 선택, 일관성 유지) | 목록 앞/뒤에 빈 줄, 혼합 마커 = 유효성 검사 오류 |
 | 번호 매기기 목록 | `1. item`(줄마다 `1.` 반복) | GitHub에서 실수 렌더링 |
 | 코드(인라인) | `` `code` `` | 파일 이름, 명령, 값, 검증되지 않은 샘플 URL의 경우 |
-| 코드(펜싱) | ` ```language ` ... ` ``` ` | 항상 언어 지정, 앞/뒤에 빈 줄 지정, `{line-numbers="true" start-line="n" highlight="n-m"}` 선택 사항 |
+| 코드(펜싱) | ` `&#x200B;``language ` ... ` ``&#x200B;` ` | 항상 언어 지정, 앞/뒤에 빈 줄 지정, `{line-numbers="true" start-line="n" highlight="n-m"}` 선택 사항 |
 | 배지(인라인) | `[!BADGE Beta]{type=Informative url="..." tooltip="..."}` | `type`: 정보/양수/음수/중립/주의 |
 | 접기 가능 | `+++Summary` ... `+++` | 중첩된 축소 가능 항목 없음, 내부 목록/코드 주위에 빈 줄 표시 |
 | 빈 줄 해킹 | `<br>&nbsp;`(줄 바꿈) | 렌더러에서 일반 추가 빈 줄을 축소/무시합니다 |

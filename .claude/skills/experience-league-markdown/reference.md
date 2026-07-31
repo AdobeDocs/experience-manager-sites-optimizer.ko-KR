@@ -156,17 +156,19 @@ badgePremium: label="Premium" type="Positive" url="https://www.premium-product.c
 
 펜싱된:
 
-````markdown
+&grave;&grave;&grave;&grave;markdown
+
 ```javascript
 var x = 1;
 ```
-````
+
+&grave;&grave;&grave;&grave;
 
 - 항상 구문 강조 표시 언어 + 복사 버튼을 지정합니다.
 - 펜싱된 블록 위와 아래에 빈 줄이 필요합니다.
-- 줄 번호: `` ```html {line-numbers="true"} ``
-- 다른 곳에서 번호 매기기 시작: `` ```html {line-numbers="true" start-line="7"} ``
-- 강조 표시 줄: `` ```html {line-numbers="true" start-line="7" highlight="11-13, 16"} ``
+- 줄 번호: `` ``&#x200B;`html {line-numbers="true"} `&#x200B;&grave;
+- 다른 곳에서 번호 매기기 시작: `` ``&#x200B;`html {line-numbers="true" start-line="7"} `&#x200B;&grave;
+- 강조 표시 줄: `` ``&#x200B;`html {line-numbers="true" start-line="7" highlight="11-13, 16"} `&#x200B;&grave;
 - 코드 블록 콘텐츠는 현지화되지 않습니다(게시 시 제거되는 `!UICONTROL`/`!DNL` 태그를 제외).
 - Markdown/HTML 서식(예: `<i>`)은 코드 블록 내에서 작동하지 않습니다. 자리 표시자에는 꺾쇠 괄호 또는 일반 텍스트를 사용하십시오.
 
