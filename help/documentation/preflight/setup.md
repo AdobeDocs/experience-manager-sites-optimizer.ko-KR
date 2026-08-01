@@ -4,10 +4,10 @@ description: AEM Sites Optimizer용 Preflight를 설정하는 방법을 알아�
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 577
-ht-degree: 72%
+source-wordcount: 785
+ht-degree: 52%
 
 ---
 
@@ -120,7 +120,23 @@ Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://admincon
 
 >[!TAB AEM Sites 페이지 편집기]
 
-AEM Sites 페이지 편집기에서 Preflight를 사용하기 위해 웹 브라우저 내에 북마클릿을 만들 수 있습니다. 다음 단계를 수행하십시오.
+작성자 환경에서 [AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) 이상을 실행하는 경우 Preflight가 AEM Sites 페이지 편집기에 기본 제공되며 북마클릿이 필요하지 않습니다. 다음 단계를 수행하십시오.
+
+1. **AEM Sites 페이지 편집기**&#x200B;에서 감사할 페이지를 엽니다.
+1. 편집기 도구 모음에서 **Preflight** 아이콘(아래에 강조 표시된 재생 단추)을 선택하여 현재 페이지의 [Preflight] 패널을 엽니다.
+
+   ![AEM Sites 페이지 편집기 도구 모음의 Preflight 아이콘](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>도구 모음에 **Preflight** 아이콘이 없습니까? 다음을 확인하십시오.
+>
+>* **지원되는 릴리스** — 통합된 단추에는 AEM 2026.7.0(릴리스 27083) 이상이 필요합니다. 이전 릴리스에서는 아래 북마클릿 방법을 사용하십시오.
+>* **롤아웃** — 통합 단추가 단계적으로 조직에 활성화되어 있으므로 지원되는 릴리스에서도 아직 조직에 도달하지 않았을 수 있습니다. 그럴 때까지 아래 북마클릿 방법을 사용하거나 Adobe 또는 관리자에게 문의하십시오.
+>* **페이지 액세스** — 페이지에 대한 편집 액세스 권한이 있는 경우에만 단추가 표시됩니다.
+>* **사용자 액세스** — 사용자에게 **AEM Sites Optimizer - 자동 제안 사용자** 또는 **AEM Sites Optimizer - 자동 최적화 사용자** 프로필이 할당되었는지 확인합니다. [사용자 액세스 사용](#enable-user-access)을 참조하세요.
+
+이전 AEM 릴리스에서 AEM Sites 페이지 편집기에서 Preflight를 사용하려면 웹 브라우저에서 북마클릿을 만들 수 있습니다. 다음 단계를 수행하십시오.
 
 1. 다음과 같이 웹 브라우저에 **북마크 바**&#x200B;를 표시합니다.
 
