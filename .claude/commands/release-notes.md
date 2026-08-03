@@ -1,8 +1,8 @@
 ---
 description: 내부 ASO 스프린트 릴리스 노트를 고객 대면 Experience League 형식으로 변환하고 릴리스 노트 페이지에 추가합니다.
-source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+source-git-commit: 5f400c37283d1a3d8285b4d2ac5246761a7275e6
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,8 @@ Slack `#aem-sites-optimizer-announcements` 채널 또는 `.cursor/commands/relea
 
 5. **정확한 범위** 고객이 제품 UI에서 보게 되거나 워크플로우에서 경험하게 되는 변경 사항만 포함합니다. 인프라, 도구 및 개발자 경험 변경 사항은 제외됩니다.
 
+6. **조기 액세스 기능에 플래그를 지정합니다.** 기능이 기본적으로 꺼져 있는 기능 플래그 뒤에 제공되는 경우(예: LaunchDarkly `FeatureGate`/`isEnabledByDefault={false}`을(를) 통해 조직/사이트당 옵트인) 굵은 기능 이름에 `(Early Access)`을(를) 추가하십시오. 이 경우 눈금 기능에 사용되는 기존 `(General Availability)` 규칙을 미러링합니다. 확실하지 않은 경우 모든 고객에 대해 기능이 기본적으로 켜져 있는지 확인하고 그렇지 않은 경우 조기 액세스입니다. 코드에서 기능 플래그가 기본적으로 지정되어 있는지 확인합니다. — 추측하지 마십시오.
+
 ### 페이지 구조 템플릿
 
 각 릴리스 항목은 다음 구조를 따릅니다.
@@ -54,7 +56,7 @@ Slack `#aem-sites-optimizer-announcements` 채널 또는 `.cursor/commands/relea
 
 ### New Features
 
-- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.]
+- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.] (append `(Early Access)` or `(General Availability)` to the feature name when the feature's availability status is notable)
 
 ### Enhancements
 
