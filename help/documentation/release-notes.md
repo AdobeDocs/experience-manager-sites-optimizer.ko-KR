@@ -1,8 +1,10 @@
 ---
 title: 릴리스 정보
 description: Adobe Experience Manager Sites Optimizer의 최신 새로운 기능, 개선 사항 및 버그 수정에 대해 알아봅니다.
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 9af59e18de7ce016778f25d4add450b50e0b1fde
 workflow-type: tm+mt
 source-wordcount: 1805
