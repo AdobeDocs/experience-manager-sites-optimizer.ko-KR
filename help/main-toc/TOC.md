@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: a86d83ee226055e6401b13fd421b40d449b96fa8
+source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 95%
 
 ---
@@ -53,19 +53,20 @@ ht-degree: 95%
     + [개요](/help/documentation/preflight/overview.md)
     + [설정](/help/documentation/preflight/setup.md)
     + [Preflight 액세스](/help/documentation/preflight/access-preflight.md)
-    + [감사](/help/documentation/preflight/audits.md)
-    + [감사 결과](/help/documentation/preflight/audit-results.md)
-    + 카테고리 감사{#preflight-opportunities}
-      + [접근성](/help/documentation/preflight/opportunities/accessibility.md)
-      + SEO{#preflight-seo}
-        + [개요](/help/documentation/preflight/opportunities/seo.md)
-        + [메타태그](/help/documentation/preflight/opportunities/seo/metatags.md)
-        + [제목](/help/documentation/preflight/opportunities/seo/headings.md)
-        + [H1 수](/help/documentation/preflight/opportunities/seo/h1-count.md)
-        + [링크](/help/documentation/preflight/opportunities/seo/links.md)
-        + [가독성](/help/documentation/preflight/opportunities/seo/readability.md)
-        + [표준](/help/documentation/preflight/opportunities/seo/canonical.md)
-        + [본문 크기](/help/documentation/preflight/opportunities/seo/body-size.md)
-        + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
+    + 감사{#preflight-audits}
+      + [개요](/help/documentation/preflight/audits.md)
+      + [감사 결과](/help/documentation/preflight/audit-results.md)
+      + 카테고리 감사{#preflight-opportunities}
+        + [접근성](/help/documentation/preflight/opportunities/accessibility.md)
+        + SEO{#preflight-seo}
+          + [개요](/help/documentation/preflight/opportunities/seo.md)
+          + [메타태그](/help/documentation/preflight/opportunities/seo/metatags.md)
+          + [제목](/help/documentation/preflight/opportunities/seo/headings.md)
+          + [H1 수](/help/documentation/preflight/opportunities/seo/h1-count.md)
+          + [링크](/help/documentation/preflight/opportunities/seo/links.md)
+          + [가독성](/help/documentation/preflight/opportunities/seo/readability.md)
+          + [표준](/help/documentation/preflight/opportunities/seo/canonical.md)
+          + [본문 크기](/help/documentation/preflight/opportunities/seo/body-size.md)
+          + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
   + [설정](/help/documentation/settings.md)
   + [릴리스 정보](/help/documentation/release-notes.md)
