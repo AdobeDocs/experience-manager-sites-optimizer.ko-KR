@@ -2,12 +2,11 @@
 title: Preflight 설정
 description: AEM Sites Optimizer용 Preflight를 설정하는 방법을 알아봅니다.
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
 workflow-type: tm+mt
-source-wordcount: 785
-ht-degree: 52%
+source-wordcount: 896
+ht-degree: 47%
 
 ---
 
@@ -30,11 +29,11 @@ Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://admincon
 
 범용 편집기에서 Preflight 기능을 설정하려면 다음과 같은 단계를 따릅니다.
 
-1. 다음 위치에서 **Extension Manager**&#x200B;를 엽니다.
+1. 다음 위치에서 **Extension Manager**를 엽니다.
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer Preflight** 확장 기능의 위치를 확인합니다.
 1. 조직의 시스템 관리자가 이 확장 기능을 활성화해야 합니다.
-1. 확장 기능 활성화 후 **범용 편집기**&#x200B;에서 페이지를 하나 엽니다. 예:
+1. 확장 기능 활성화 후 **범용 편집기**에서 페이지를 하나 엽니다. 예:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 확장 기능**&#x200B;이 **사이드 레일**&#x200B;에 나타납니다.
 1. 측면 레일에서 **Preflight 확장**&#x200B;을 선택하여 현재 페이지의 Preflight를 엽니다.
@@ -120,7 +119,7 @@ Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://admincon
 
 >[!TAB AEM Sites 페이지 편집기]
 
-작성자 환경에서 [AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) 이상을 실행하는 경우 Preflight가 AEM Sites 페이지 편집기에 기본 제공되며 북마클릿이 필요하지 않습니다. 다음 단계를 수행하십시오.
+작성자 환경에서 [AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) 이상을 실행하는 경우 Preflight가 AEM Sites 페이지 편집기에 기본 제공되며 북마클릿이 필요하지 않습니다. 다음 단계를 수행하십시오.
 
 1. **AEM Sites 페이지 편집기**&#x200B;에서 감사할 페이지를 엽니다.
 1. 편집기 도구 모음에서 **Preflight** 아이콘(아래에 강조 표시된 재생 단추)을 선택하여 현재 페이지의 [Preflight] 패널을 엽니다.
@@ -161,7 +160,18 @@ Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://admincon
 >
 >AEM 작성자 인증에 Adobe ID 공급자(IMS)를 사용하는 Adobe Managed Services(AMS) 환경만 지원됩니다. 조직에서 AMS 인증에 다른 ID 공급자를 사용하는 경우 Preflight가 작동하지 않습니다.
 
-AMS 환경에서 AEM Sites 페이지 편집기에서 Preflight를 사용하려면 다음 단계에 따라 웹 브라우저에서 북마클릿을 만드십시오.
+Preflight가 AEM Sites 페이지 편집기 도구 모음에 빌드되면 북마클릿이 필요하지 않습니다. Adobe에 문의하여 조직에 맞게 설치하십시오. 설치 후 다음 단계를 수행합니다.
+
+1. **AEM Sites 페이지 편집기**&#x200B;에서 감사할 페이지를 엽니다.
+1. 편집기 도구 모음에서 **Preflight** 아이콘(아래에 강조 표시된 재생 단추)을 선택하여 현재 페이지의 [Preflight] 패널을 엽니다.
+
+   ![AEM Sites 페이지 편집기 도구 모음의 Preflight 아이콘](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>도구 모음에 **Preflight** 아이콘이 없습니까? 조직에 통합 버튼을 아직 설치하지 않았을 수 있습니다. Adobe에 문의하여 설치하거나 아래 북마클릿 방법을 사용하십시오.
+
+도구 모음 아이콘 없이 AMS 환경에서 AEM Sites 페이지 편집기에서 Preflight를 사용하려면 다음 단계에 따라 웹 브라우저에서 북마클릿을 만드십시오.
 
 1. 다음과 같이 웹 브라우저에 **북마크 바**&#x200B;를 표시합니다.
 
