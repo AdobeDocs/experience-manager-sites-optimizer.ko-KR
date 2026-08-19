@@ -120,7 +120,7 @@ Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://admincon
 
 >[!TAB AEM Sites 페이지 편집기]
 
-작성자 환경에서 [AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) 이상을 실행하는 경우 Preflight가 AEM Sites 페이지 편집기에 기본 제공되며 북마클릿이 필요하지 않습니다. 다음 단계를 수행하십시오.
+작성자 환경에서 [AEM 2026.7.0(릴리스 27083)](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) 이상을 실행하는 경우 Preflight가 AEM Sites 페이지 편집기에 기본 제공되며 북마클릿이 필요하지 않습니다. 다음 단계를 수행하십시오.
 
 1. **AEM Sites 페이지 편집기**&#x200B;에서 감사할 페이지를 엽니다.
 1. 편집기 도구 모음에서 **Preflight** 아이콘(아래에 강조 표시된 재생 단추)을 선택하여 현재 페이지의 [Preflight] 패널을 엽니다.
