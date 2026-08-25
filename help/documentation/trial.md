@@ -22,7 +22,7 @@ ht-degree: 89%
 >* 공개적으로 액세스할 수 있으며 로그인 뒤에는 액세스할 수 없습니다.
 >* AEM Sites 프론트엔드 게재를 사용합니다. Headless 게재는 현재 지원되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483294/?captions=kor&learn=on&enablevpops)
 
 >[!TIP]
 >
