@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 체험판
 description: 기존 AEM Sites 고객을 위한 AEM Sites Optimizer 체험판을 시작합니다.
-source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
+source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 92%
+source-wordcount: '728'
+ht-degree: 89%
 
 ---
 
@@ -13,11 +13,16 @@ ht-degree: 92%
 
 기존 **Sites Optimizer 고객(Edge Delivery Services, Cloud Services 및 Managed Services)에 대해 이 평가판을 사용하여 AEM Sites을 시작하십시오**. 도메인 데이터가 이미 사전 온보딩되었으므로 바로 최적화를 시작할 수 있습니다. 아래 비디오는 체험판 환경을 안내하고 시작하는 방법을 보여 줍니다.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->AEM Sites Optimizer 평가판은 현재 headless 웹 사이트를 지원하지 않습니다. 체험판을 사용하려면 AEM Sites 프론트엔드 게재를 사용하는 웹 사이트에 온보딩하십시오.
+>시작하기 전에 사이트가 다음 요구 사항을 충족하는지 확인하십시오.
+>
+>* AEM Sites(Edge Delivery Services, Cloud Service 또는 Managed Services)을 기반으로 구축됩니다.
+>* 개발, QA, 스테이징, 작성자 또는 미리보기 환경이 아닌 프로덕션 사이트입니다.
+>* 공개적으로 액세스할 수 있으며 로그인 뒤에는 액세스할 수 없습니다.
+>* AEM Sites 프론트엔드 게재를 사용합니다. Headless 게재는 현재 지원되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483294/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -111,7 +116,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="핵심 웹 바이탈">핵심 웹 바이탈</a>
+                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core Web Vitals">핵심 웹 바이탈</a>
                     </p>
                     <p class="is-size-6">핵심 웹 바이탈 기회에 대해 알아보고 이를 사용하여 트래픽 확보를 개선하는 방법을 알아봅니다.</p>
                 </div>
