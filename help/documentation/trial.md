@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 체험판
 description: 기존 AEM Sites 고객을 위한 AEM Sites Optimizer 체험판을 시작합니다.
-source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
+source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 89%
+source-wordcount: '1102'
+ht-degree: 59%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 89%
 >* 공개적으로 액세스할 수 있으며 로그인 뒤에는 액세스할 수 없습니다.
 >* AEM Sites 프론트엔드 게재를 사용합니다. Headless 게재는 현재 지원되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483294/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -48,6 +48,40 @@ ht-degree: 89%
   * **자동 식별** — 여러 데이터 소스를 사용하여 사이트 전체의 문제를 감지합니다.
   * **자동 제안** — 각 문제에 대해 규범적인 AI 생성 권장 사항을 제공합니다.
   * **자동 최적화** — 승인 후 수정 사항을 작성 환경에 직접 배포합니다. 업데이트는 기존 워크플로를 따르므로 팀이 AEM을 통해 검토하고 게시할 수 있습니다.
+
+## Edge Delivery 평가판 사이트에 자동 수정 사용
+
+체험판 고객이 Google 드라이브 또는 SharePoint에서 작성된 Edge Delivery Services(EDS) 사이트에서 자동 수정 제안을 위해 **작성자에게 배포** 작업을 활성화하는 방법을 알아봅니다.
+
+>[!NOTE]
+>
+>이 요구 사항은 사이트가 Google 드라이브 또는 SharePoint에서 작성된 체험판 조직에만 적용됩니다. 유료 고객, 횡단보도나 어두운 골목에서 작성된 사이트는 영향을 받지 않습니다.
+
+평가판 고객은 **ASO-EDS-Autofix-Users** IMS 그룹의 일부여야 합니다. 그룹이 없는 경우 조직의 관리자가 그룹을 만들고 사용자를 추가할 수 있습니다.
+
+1. [Adobe Admin Console](https://adminconsole.adobe.com/)에 로그인합니다.
+1. **사용자** > **사용자 그룹**&#x200B;을 선택합니다.
+1. **사용자 그룹 추가**&#x200B;를 선택합니다.
+1. **사용자 그룹 이름**&#x200B;에 대해 정확히 입력하십시오.
+
+   ```
+   ASO-EDS-Autofix-Users
+   ```
+
+   >[!IMPORTANT]
+   >
+   > 그룹 이름은 대소문자를 포함하여 정확히 일치해야 합니다. 대/소문자를 구분하기 때문에 다른 맞춤법이나 대/소문자(예: `ASO-EDS-Autofix-users`)가 작동하지 않습니다. 그룹을 만든 후에는 이름을 바꾸지 마십시오.
+
+1. **저장**&#x200B;을 선택합니다.
+
+   ![사용자 그룹 이름 필드를 ASO-EDS-Autofix-Users로 설정하여 Adobe Admin Console에서 새 사용자 그룹 대화 상자를 만듭니다](./assets/trial/create-user-group.png){align="center"}
+
+1. 새 그룹을 열고 **사용자 추가**&#x200B;를 선택합니다.
+1. 자동 수정 기능을 배포할 수 있는 각 사용자의 전자 메일 주소 또는 사용자 이름을 입력한 다음 **저장**&#x200B;을 선택합니다.
+
+   ![Adobe Admin Console에서 이 사용자 그룹 대화 상자에 사용자 추가](./assets/trial/add-users-to-group.png){align="center"}
+
+그룹의 구성원인 경우 **작성자에게 배포** 단추를 사용할 수 있습니다. 아직 회원이 아닌 경우, 그룹에 사용자를 추가하도록 관리자에게 문의하라는 도구 설명이 있는 상태에서 **작성자에게 배포**&#x200B;를 사용할 수 없습니다. 관리자가 귀하를 그룹에 추가한 후 로그아웃했다가 Sites Optimizer에 다시 로그인하면 세션에서 새 그룹 멤버십을 선택합니다.
 
 ## 자주 묻는 질문
 
@@ -85,6 +119,16 @@ Sites Optimizer는 성능에 영향을 주는 문제를 지속적으로 식별�
 +++더 많은 기회에 접근하려면 어떻게 해야 합니까?
 
 업그레이드를 사용하거나 제품 경험을 통해 이용할 수 있는 판매 CTA에 문의하거나 [siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)으로 이메일을 보내 주십시오.
+
++++
++++ASO-EDS-Autofix-Users 그룹에 있지만 작성자에게 배포는 여전히 비활성화되어 있습니다. 무엇을 확인해야 합니까?
+
+로그아웃한 후 다시 로그인합니다. 로그인하면 그룹 멤버십이 읽힙니다. 또한 그룹 이름의 철자가 정확하게 `ASO-EDS-Autofix-Users`이고 대문자화된 경우 사이트가 속한 동일한 조직에서 만들어졌는지 확인하십시오.
+
++++
++++ASO-EDS-Autofix-Users 그룹 요구 사항이 모든 Edge Delivery Services 사이트에 적용됩니까?
+
+아니요. **Google 드라이브** 또는 **SharePoint**&#x200B;에서 작성된 체험판 사이트에만 적용됩니다. **횡단보도** 또는 **어두운 골목**&#x200B;에서 작성된 사이트와 모든 **유료** 사이트는 영향을 받지 않습니다.
 
 +++
 
