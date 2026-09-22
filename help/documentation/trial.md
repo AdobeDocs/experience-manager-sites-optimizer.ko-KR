@@ -1,13 +1,11 @@
 ---
 title: Sites Optimizer 체험판
 description: 기존 AEM Sites 고객을 위한 AEM Sites Optimizer 체험판을 시작합니다.
-source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
+source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 59%
-
+source-wordcount: '1481'
+ht-degree: 45%
 ---
-
 
 # Sites Optimizer 체험판
 
@@ -22,7 +20,7 @@ ht-degree: 59%
 >* 공개적으로 액세스할 수 있으며 로그인 뒤에는 액세스할 수 없습니다.
 >* AEM Sites 프론트엔드 게재를 사용합니다. Headless 게재는 현재 지원되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483294/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -48,6 +46,25 @@ ht-degree: 59%
   * **자동 식별** — 여러 데이터 소스를 사용하여 사이트 전체의 문제를 감지합니다.
   * **자동 제안** — 각 문제에 대해 규범적인 AI 생성 권장 사항을 제공합니다.
   * **자동 최적화** — 승인 후 수정 사항을 작성 환경에 직접 배포합니다. 업데이트는 기존 워크플로를 따르므로 팀이 AEM을 통해 검토하고 게시할 수 있습니다.
+
+## Sites Optimizer의 사이트 액세스 허용
+
+Sites Optimizer은 사이트를 스캔하여 최적화 기회를 식별합니다. 사이트가 방화벽, CDN(콘텐츠 전송 네트워크) 또는 인식되지 않은 클라이언트를 차단하는 기타 보안 구성 뒤에 있는 경우 스캐너가 페이지에 연결할 수 없습니다. 이 경우 온보딩에 Sites Optimizer이 웹 사이트에 액세스할 수 없다는 **작업 필요** 메시지가 표시되며 액세스를 허용할 때까지 검색이 일시 중지됩니다.
+
+![Sites Optimizer에서 웹 사이트에 액세스할 수 없음을 알리는 보딩 대화 상자에 각각 복사 단추와 새로 고침 단추를 사용하여 사용자 에이전트 및 스캐너 IP 주소를 허용 목록에 추가하다에 나열하는 내용](./assets/trial/ip-allowlist-action-required.png){align="center"}
+
+스캐너가 방화벽, 호스팅 공급자 또는 보안 구성을 통해 다음 두 가지 사항을 모두 검색할 수 있도록 합니다. AEM Cloud Service 사이트의 경우 스캐너에 대한 허용 규칙을 Cloud Manager의 [CDN 트래픽 필터 규칙](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)에 추가하십시오. 이 규칙은 사용자 에이전트와 IP 주소 모두에서 일치할 수 있습니다. [Cloud Manager IP 허용 목록](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)을 사용하여 액세스를 제한하는 경우 스캐너의 IP 주소도 적용된 허용 목록에 추가하십시오.
+
+* **사용자 에이전트** - 스캐너가 토큰 `Spacecat/1.0`을(를) 포함하는 사용자 에이전트로 식별됩니다. 이 토큰은 이상적으로는 &quot;포함&quot; 일치하므로 전체 사용자 에이전트 문자열이 변경되더라도 계속 작동합니다.
+* **스캐너 IP 주소** — 스캐너의 아웃바운드 IP 주소를 검색합니다.
+
+온보딩 화면에는 정확한 사용자 에이전트와 IP 주소 및 허용 목록에 추가하다가 각각 **복사** 버튼을 사용하여 표시되므로 현재 값을 구성에 직접 복사할 수 있습니다.
+
+스캐너에서 새로 고친 후 **새로 고침**&#x200B;을 선택하십시오. 액세스 권한이 부여되면 검색이 자동으로 다시 시작되어 최적화 기회가 사라집니다.
+
+>[!NOTE]
+>
+>이러한 IP 주소는 사이트를 분석하는 데만 사용됩니다. 허용 목록에 추가 시 다른 액세스 권한은 부여되지 않습니다.
 
 ## Edge Delivery 평가판 사이트에 자동 수정 사용
 
@@ -129,6 +146,11 @@ Sites Optimizer는 성능에 영향을 주는 문제를 지속적으로 식별�
 +++ASO-EDS-Autofix-Users 그룹 요구 사항이 모든 Edge Delivery Services 사이트에 적용됩니까?
 
 아니요. **Google 드라이브** 또는 **SharePoint**&#x200B;에서 작성된 체험판 사이트에만 적용됩니다. **횡단보도** 또는 **어두운 골목**&#x200B;에서 작성된 사이트와 모든 **유료** 사이트는 영향을 받지 않습니다.
+
++++
++++Sites Optimizer에서 내 사이트에 액세스할 수 없다고 합니다. 어떻게 해야 합니까?
+
+사이트가 스캐너를 차단하는 방화벽, CDN 또는 보안 구성 뒤에 있을 수 있습니다. 스캐너의 사용자 에이전트(`Spacecat/1.0` 토큰)와 보안 구성 또는 Cloud Manager CDN 허용 목록의 AEM Cloud Service 사이트에 대한 IP 주소 허용 목록. **새로 고침**&#x200B;을 선택하십시오. [Sites Optimizer의 사이트 액세스 허용](#allow-sites-optimizer-to-access-your-site)을 참조하십시오.
 
 +++
 
