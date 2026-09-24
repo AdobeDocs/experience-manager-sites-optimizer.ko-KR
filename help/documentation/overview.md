@@ -4,21 +4,22 @@ description: Experience Manager Sites Optimizer 설명서.
 TQID: https://experienceleague.adobe.com/Thzxo0-DNTCjk9C0MX7OR2yObUKxbUQDQFV3BtD7kmg
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+    internal-label: Insights
+source-git-commit: 192371b0c731dc7b27b6296d9ef0fcc753b059fe
 workflow-type: tm+mt
-source-wordcount: 137
-ht-degree: 100%
-
+source-wordcount: '307'
+ht-degree: 94%
 ---
-
 # Sites Optimizer 설명서
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-Sites Optimizer 설명서를 시작합니다. 여기에서는 Sites Optimizer를 사용하여 AEM 사이트를 최적화하는 방법에 대한 정보를 확인할 수 있습니다.
+Sites Optimizer 설명서에 오신 것을 환영합니다. 여기에서 Sites Optimizer을 사용하여 AEM 사이트를 최적화하는 방법에 대한 정보를 찾을 수 있습니다.
 
 ## Site Optimizer 기본 사항
 
