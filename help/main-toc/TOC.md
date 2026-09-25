@@ -1,16 +1,14 @@
 ---
-user-guide-title: Experience Manager Sites Optimizer
+user-guide-title: Adobe Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
+source-git-commit: c372679073253df686a77daccb6cb548622181f5
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 95%
-
+source-wordcount: '143'
+ht-degree: 94%
 ---
 
-
-# Experience Manager Sites Optimizer {#content}
+# Adobe Experience Manager Sites Optimizer {#content}
 
 + [Sites Optimizer](/help/home.md)
 + 기회 유형{#opportunity-types}
@@ -27,6 +25,7 @@ ht-degree: 95%
   + [체험판](/help/documentation/trial.md)
   + 설정{#set-up}
     + [사용자 온보딩](/help/documentation/setup/onboard-users.md)
+    + [권한 관리](/help/documentation/manage-permissions.md)
   + 기회{#opportunities}
     + [개요](/help/documentation/opportunities/overview.md)
     + [작성자에게 배포](/help/documentation/opportunities/deploying-to-author.md)
