@@ -1,13 +1,11 @@
 ---
 title: Preflight SEO 감사
 description: Preflight가 AEM Sites Optimizer의 페이지에서 실행하는 SEO 감사에 대해 알아봅니다.
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: d87b607248efdeecf1ba29ede03bf1628d1dff30
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # SEO 감사
 
 ![Preflight 준비 대시보드의 SEO 감사](./assets/seo/hero.png){align="center"}
@@ -21,7 +19,7 @@ SEO 카테고리에는 다음 감사가 포함됩니다.
 * [메타데이터](./seo/metatags.md) - 페이지 제목과 메타 설명 태그를 검토합니다.
 * [제목](./seo/headings.md) - 페이지의 제목 구조 및 순서를 검토합니다.
 * [H1 count](./seo/h1-count.md) - 페이지의 H1 제목 수를 검토합니다.
-* [링크](./seo/links.md) - 페이지의 링크를 검토합니다.
+* [내부 링크](./seo/internal-links.md) - 내 사이트를 다시 가리키는 페이지의 링크를 검토합니다.
 * [가독성](./seo/readability.md) - 페이지 콘텐츠를 읽기 쉽도록 검토합니다.
 * [표준](./seo/canonical.md) - 페이지의 표준 링크를 검토합니다.
 * [본문 크기](./seo/body-size.md) - 페이지의 본문 내용을 검토합니다.
