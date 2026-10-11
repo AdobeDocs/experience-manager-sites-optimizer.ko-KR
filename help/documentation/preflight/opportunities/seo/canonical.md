@@ -1,13 +1,14 @@
 ---
 title: 프리플라이트 표준 감사
 description: AEM Sites Optimizer용 Preflight의 표준 감사에 대해 알아봅니다.
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
-
 ---
-
 # 표준 감사
 
 **표준** 감사에서 페이지의 표준 링크를 검토합니다. 올바른 표준 링크는 중복 콘텐츠 문제를 방지하는 데 도움이 되는 페이지의 신뢰할 수 있는 버전인 URL을 검색 엔진에 알려 줍니다. 감사는 누락되거나 잘못된 표준 링크에 플래그를 지정합니다.

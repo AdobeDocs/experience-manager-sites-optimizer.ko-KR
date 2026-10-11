@@ -1,13 +1,14 @@
 ---
 title: Preflight 접근성 감사
 description: Preflight가 AEM Sites Optimizer 페이지에서 실행하는 접근성 감사에 대해 알아봅니다.
-source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
-
 ---
-
 # 접근성 감사
 
 ![Preflight 준비 대시보드의 접근성 감사](./assets/accessibility/hero.png){align="center"}

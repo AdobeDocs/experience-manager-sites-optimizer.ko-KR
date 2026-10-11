@@ -1,13 +1,14 @@
 ---
 title: 프리플라이트 가독성 감사
 description: AEM Sites Optimizer용 Preflight의 가독성 감사에 대해 알아봅니다.
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 6%
-
 ---
-
 # 가독성 감사
 
 **가독성** 감사에서는 페이지 콘텐츠를 얼마나 쉽게 읽을 수 있는지 검토합니다. 명확하고 구조가 잘 짜인 콘텐츠는 독자의 참여를 유도하며 더 많은 대상자가 메시지를 이해하는 데 도움이 됩니다. 감사는 콘텐츠를 평가하고 개선을 위해 실행 가능한 권장 사항을 제공합니다.
