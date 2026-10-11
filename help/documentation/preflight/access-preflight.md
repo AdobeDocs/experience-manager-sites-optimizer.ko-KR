@@ -1,13 +1,14 @@
 ---
 title: Preflight 액세스
 description: 작성 환경에서 Preflight가 표시되는 위치를 알아봅니다.
-source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 18%
-
 ---
-
 
 # Preflight 액세스
 

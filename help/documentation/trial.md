@@ -1,7 +1,10 @@
 ---
 title: Sites Optimizer 체험판
 description: 기존 AEM Sites 고객을 위한 AEM Sites Optimizer 체험판을 시작합니다.
-source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1481'
 ht-degree: 45%
@@ -20,7 +23,7 @@ ht-degree: 45%
 >* 공개적으로 액세스할 수 있으며 로그인 뒤에는 액세스할 수 없습니다.
 >* AEM Sites 프론트엔드 게재를 사용합니다. Headless 게재는 현재 지원되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483294/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -53,7 +56,7 @@ Sites Optimizer은 사이트를 스캔하여 최적화 기회를 식별합니다
 
 ![Sites Optimizer에서 웹 사이트에 액세스할 수 없음을 알리는 보딩 대화 상자에 각각 복사 단추와 새로 고침 단추를 사용하여 사용자 에이전트 및 스캐너 IP 주소를 허용 목록에 추가하다에 나열하는 내용](./assets/trial/ip-allowlist-action-required.png){align="center"}
 
-스캐너가 방화벽, 호스팅 공급자 또는 보안 구성을 통해 다음 두 가지 사항을 모두 검색할 수 있도록 합니다. AEM Cloud Service 사이트의 경우 스캐너에 대한 허용 규칙을 Cloud Manager의 [CDN 트래픽 필터 규칙](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)에 추가하십시오. 이 규칙은 사용자 에이전트와 IP 주소 모두에서 일치할 수 있습니다. [Cloud Manager IP 허용 목록](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)을 사용하여 액세스를 제한하는 경우 스캐너의 IP 주소도 적용된 허용 목록에 추가하십시오.
+스캐너가 방화벽, 호스팅 공급자 또는 보안 구성을 통해 다음 두 가지 사항을 모두 검색할 수 있도록 합니다. AEM Cloud Service 사이트의 경우 스캐너에 대한 허용 규칙을 Cloud Manager의 [CDN 트래픽 필터 규칙](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)에 추가하십시오. 이 규칙은 사용자 에이전트와 IP 주소 모두에서 일치할 수 있습니다. [Cloud Manager IP 허용 목록](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)을 사용하여 액세스를 제한하는 경우 스캐너의 IP 주소도 적용된 허용 목록에 추가하십시오.
 
 * **사용자 에이전트** - 스캐너가 토큰 `Spacecat/1.0`을(를) 포함하는 사용자 에이전트로 식별됩니다. 이 토큰은 이상적으로는 &quot;포함&quot; 일치하므로 전체 사용자 에이전트 문자열이 변경되더라도 계속 작동합니다.
 * **스캐너 IP 주소** — 스캐너의 아웃바운드 IP 주소를 검색합니다.

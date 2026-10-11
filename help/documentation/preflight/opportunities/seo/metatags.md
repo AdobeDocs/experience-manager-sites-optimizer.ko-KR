@@ -1,13 +1,14 @@
 ---
 title: 프리플라이트 메타태그 감사
 description: AEM Sites Optimizer용 Preflight의 메타태그 감사에 대해 알아봅니다.
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
-
 ---
-
 # 메타태그 감사
 
 **메타데이터** 감사는 페이지 제목 및 메타 설명과 같은 페이지의 메타데이터 태그를 검토합니다. 메타데이터 형식이 잘 만들어지면 검색 엔진이 콘텐츠를 이해하고 페이지가 검색 결과에 표시되는 방식이 개선됩니다. 감사는 누락되거나, 중복되거나, 권장 길이를 벗어나는 태그에 플래그를 지정합니다.
