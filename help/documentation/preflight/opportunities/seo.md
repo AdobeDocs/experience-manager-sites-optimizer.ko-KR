@@ -4,9 +4,9 @@ description: Preflight가 AEM Sites Optimizer의 페이지에서 실행하는 SE
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO 감사
@@ -19,7 +19,7 @@ Preflight의 **SEO** 범주는 페이지가 검색 엔진에 얼마나 잘 최�
 
 SEO 카테고리에는 다음 감사가 포함됩니다.
 
-* [메타데이터](./seo/metatags.md) - 페이지 제목과 메타 설명 태그를 검토합니다.
+* [메타데이터](./seo/metatags.md) - 페이지 제목, 메타 설명 및 H1 제목을 검토합니다.
 * [제목](./seo/headings.md) - 페이지의 제목 구조 및 순서를 검토합니다.
 * [내부 링크](./seo/internal-links.md) - 내 사이트를 다시 가리키는 페이지의 링크를 검토합니다.
 * [외부 링크](./seo/external-links.md) - 다른 사이트를 가리키는 페이지의 링크를 검토합니다.
