@@ -4,10 +4,10 @@ description: 페이지에서 Preflight 감사를 시작하는 방법을 알아�
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 19%
+source-wordcount: '469'
+ht-degree: 17%
 ---
 
 # Preflight 감사
@@ -20,7 +20,8 @@ Preflight는 페이지를 감사하여 게시하기 전에 콘텐츠를 향상�
 
 1. [작성 환경](./access-preflight.md)(범용 편집기, 문서 기반 작성 또는 AEM Sites 페이지 편집기)에서 감사할 페이지를 엽니다.
 1. [Preflight 패널](./access-preflight.md)을 엽니다. **성능 준비 감사 실행** 랜딩 화면으로 Preflight가 열립니다.
-1. **페이지 분석**&#x200B;을 선택합니다. Preflight는 현재 페이지에서 모든 감사를 실행하고 준비 대시보드를 엽니다. 이 대시보드에는 범주별로 그룹화된 준비 점수와 찾은 기회가 표시됩니다.
+1. 필요한 경우 **설정**(톱니바퀴 아이콘)을 열어 내부 링크 감사에 사이트 탐색 링크를 포함하십시오. 이 설정은 기본적으로 꺼져 있으며 범용 편집기에서 사용할 수 없습니다. 사용자의 환경에 따라 **설정**&#x200B;이 헤더 또는 **추가 작업**(**...**)에 나타납니다. [사이트 탐색 링크 포함](./opportunities/seo/internal-links.md#include-site-navigation-links)을 참조하세요.
+1. **페이지 분석**&#x200B;을 선택합니다. Preflight는 현재 페이지에서 모든 감사를 실행하고 준비 대시보드를 엽니다. 이 대시보드에는 전달된 감사의 비율과 찾은 기회가 범주별로 그룹화되어 표시됩니다.
 
 미리 보기 결과를 이해하고 최적화 기회를 식별하려면 [Preflight의 결과 감사](./audit-results.md)를 참조하십시오.
 
@@ -41,5 +42,4 @@ Preflight는 각 페이지에 대해 가장 최근 실행을 개별적으로 추
 
 이전 실행을 다시 로드하면 헤더에 해당 실행이 수행된 기간이 표시됩니다(예: *2분 전* 또는 *어제*). 따라서 결과의 최신 상태를 한눈에 파악할 수 있습니다. 레이블은 시간이 경과함에 따라 업데이트되며 준비 대시보드와 감사 세부 사항 페이지 간을 이동할 때 표시되는 상태를 유지합니다.
 
-감사가 완료되고 결과가 표시되면 **추가 작업**(**...**)에서 **다시 분석**&#x200B;을 선택합니다. 결과를 무시하고 모든 감사를 다시 실행할 수 있는 도구 모음의 메뉴 [Preflight의 감사 결과](./audit-results.md#toolbar)를 참조하십시오.
-
+감사가 완료되고 결과가 표시되면 도구 모음에서 **다시 분석**&#x200B;을 선택하여 결과를 무시하고 모든 감사를 다시 실행합니다. [Preflight의 감사 결과](./audit-results.md#toolbar)를 참조하십시오.

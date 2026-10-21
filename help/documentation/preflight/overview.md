@@ -4,16 +4,17 @@ description: 게시 전에 페이지를 평가하기 위해 실행되는 Preflig
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+    internal-label: Accessibility
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: 300
-ht-degree: 28%
-
+source-wordcount: '389'
+ht-degree: 48%
 ---
-
 # AEM Sites Optimizer Preflight
 
 ![Preflight 준비 대시보드](./assets/overview/hero.png){align="center"}
@@ -24,7 +25,7 @@ ht-degree: 28%
 
 AEM Sites Optimizer의 Preflight를 사용하면 실행 가능한 권장 사항을 통해 콘텐츠 및 구조를 분석하고 기회를 표시하여 페이지를 활성화하기 전에 유효성을 검사하고 최적화할 수 있습니다. 이 기능은 페이지가 고품질이고 성능이 뛰어나며 바로 게시해도 될 만큼 준비된 상태인지 확인하면서 재작업을 줄이려는 작성자, 마케터, 개발자를 위해 설계되었습니다.
 
-작성 환경에서 Preflight를 시작하고 **페이지 분석**&#x200B;을 선택하여 감사를 실행합니다. 감사는 메타데이터 또는 제목 구조와 같은 페이지의 한 측면을 평가하고 Preflight는 관련 감사를 **SEO** 및 **접근성**&#x200B;과 같은 범주로 그룹화합니다. 그런 다음 Preflight는 실행 가능한 권장 사항과 함께 페이지에 대한 준비 점수를 찾고, 개선할 수 있는 특정 사항을 보고합니다.
+작성 환경에서 Preflight를 시작하고 **페이지 분석**&#x200B;을 선택하여 감사를 실행합니다. 감사는 메타데이터 또는 제목 구조와 같은 페이지의 한 측면을 평가하고 Preflight는 관련 감사를 **SEO** 및 **접근성**&#x200B;과 같은 범주로 그룹화합니다. 그런 다음 Preflight는 각각 실행 가능한 권장 사항을 통해 개선할 수 있는 특정 사항과 함께 페이지에 대해 전달된 감사의 비율을 보고합니다.
 
 ## Preflight 시작하기
 
