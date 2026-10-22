@@ -4,9 +4,9 @@ description: AEM Sites Optimizer용 Preflight의 제목 감사에 대해 알아�
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '649'
 ht-degree: 0%
 ---
 # 머리글 감사
@@ -23,8 +23,6 @@ ht-degree: 0%
 
 * **빈 제목:** 텍스트가 없는 H2, H3, H4, H5 또는 H6 공백만 포함하거나 이미지만 포함하는 머리글은 비어 있는 것으로 계산됩니다.
 * **제목 수준 건너뜀:** 제목 바로 앞의 제목보다 한 수준 이상 깊은 제목. 예를 들어 H2 다음에 H4, H1 다음에 H3이 옵니다. 영업 기회는 더 심층적인 방향으로 보고됩니다.
-
-두 가지 모두 중간 정도의 영향을 미치는 것으로 보고되고 있다.
 
 H1 머리글은 [메타데이터](./metatags.md) 감사에서 검토하며, 메타태그는 누락되었거나, 비어 있거나, 너무 긴 H1과 한 페이지에서 둘 이상의 H1을 확인합니다.
 

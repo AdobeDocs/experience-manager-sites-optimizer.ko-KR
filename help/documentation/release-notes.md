@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '2920'
+source-wordcount: '3026'
 ht-degree: 2%
 ---
 
@@ -18,6 +18,22 @@ ht-degree: 2%
 이 페이지에서는 Adobe Experience Manager Sites Optimizer의 최신 업데이트, 새로운 기능 및 개선 사항을 문서화합니다.
 
 **(조기 액세스)**(으)로 표시된 기능은 요청 시 사용할 수 있습니다. 귀하의 계정 팀이나 고객 성공 엔지니어에게 문의하여 귀사에서 사용할 수 있도록 설정하십시오.
+
+## 2026년 10월 21~22일 {#october-21-22-2026}
+
+### 새로운 기능
+
+- **Preflight 인스턴스 필터** — 내부 링크 및 외부 링크 세부 정보 페이지에서 인스턴스를 **끊김** 또는 **확인이 필요**&#x200B;합니다.
+
+### 개선 사항
+
+- **내부 링크 다시 시도 실행** — 이제 내부 링크 감사가 일시적으로 실패한 링크를 다시 시도하므로 짧은 중단이 끊어진 링크로 보고될 가능성이 줄어듭니다.
+- **프리플라이트 진행률 표시기** — 이제 처리 표시기가 해당 범주가 아니라 아직 실행 중인 감사에만 표시됩니다.
+- **Preflight Opportunity Details** - Opportunity에 더 이상 심각도 배지가 표시되지 않고 CSV 및 PDF 내보내기에 더 이상 심각도가 포함되지 않습니다.
+
+### 버그 수정
+
+- 이제 Preflight 영업 기회 세부 정보의 긴 URL이 카드를 넓히는 대신 줄바꿈됩니다.
 
 ## 2026년 10월 5~20일 {#october-5-20-2026}
 
