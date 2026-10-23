@@ -4,18 +4,18 @@ description: Preflight가 AEM Sites Optimizer의 페이지에서 실행하는 SE
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO 감사
 
-![Preflight 준비 대시보드의 SEO 감사](./assets/seo/hero.png){align="center"}
+![Preflight 결과 대시보드의 SEO 감사](./assets/seo/hero.png){align="center"}
 
 Preflight의 **SEO** 범주는 페이지가 검색 엔진에 얼마나 잘 최적화되었는지 평가하는 감사를 그룹화합니다. 프리플라이트 감사를 실행하면 이러한 감사는 페이지의 메타데이터, 제목 구조, 링크 및 콘텐츠를 평가하고 게시 전에 검토하고 해결할 수 있는 기회를 표시합니다.
 
-준비 대시보드에서 **SEO** 범주를 확장하여 각 감사, 합격 여부 및 찾은 기회 수를 확인합니다. 감사를 선택하여 세부 정보 페이지를 열고 영업 기회를 통해 작업합니다. 결과를 해석하고 기회를 해결하는 방법에 대해 알아보려면 [Preflight에서 결과 감사](../audit-results.md)를 참조하십시오.
+결과 대시보드에서 **SEO** 범주를 확장하여 각 감사, 합격 여부 및 찾은 기회 수를 확인합니다. 감사를 선택하여 세부 정보 페이지를 열고 영업 기회를 통해 작업합니다. 결과를 해석하고 기회를 해결하는 방법에 대해 알아보려면 [Preflight에서 결과 감사](../audit-results.md)를 참조하십시오.
 
 SEO 카테고리에는 다음 감사가 포함됩니다.
 

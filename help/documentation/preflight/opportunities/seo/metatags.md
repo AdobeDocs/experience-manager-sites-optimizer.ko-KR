@@ -4,9 +4,9 @@ description: AEM Sites Optimizer용 Preflight의 메타태그 감사에 대해 �
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '801'
 ht-degree: 1%
 ---
 # 메타태그 감사
@@ -34,12 +34,6 @@ ht-degree: 1%
 | H1 제목 | 최대 70자 | 71~75자 | 75자 초과 |
 
 이러한 범위는 검색 엔진 요구 사항이 아닌 권장 지침입니다. Preflight는 이 필드를 사용하여 기회를 보고할 시기를 결정합니다.
-
-각 영업 기회는 다음 세 가지 영향 수준 중 하나로 보고됩니다.
-
-* **높음:** 태그가 없거나 비어 있습니다.
-* **중재:** 페이지 제목이나 메타 설명이 너무 짧거나, 메타 설명이 너무 길거나, H1이 두 개 이상인 페이지가 있습니다.
-* **낮음:** 60자를 초과하는 페이지 제목을 포함하여 길이가 이상적이지만 너무 길지 않은 값입니다.
 
 ## 값을 읽는 방법
 
