@@ -5,23 +5,18 @@ TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
+source-git-commit: 00dbc1a9033cf327da68df99c9604b50f45b43ee
 workflow-type: tm+mt
-source-wordcount: 896
-ht-degree: 47%
-
+source-wordcount: '877'
+ht-degree: 49%
 ---
-
 # Preflight 설정
 
 Preflight를 실행하려면 작성 환경에서 설정해야 합니다. 범용 편집기, 문서 기반 작성, AEM Sites 페이지 편집기 또는 Adobe Managed Services용 Preflight를 설정할 수 있으므로 페이지가 게시되기 전에 페이지에서 Preflight 감사를 실행할 수 있습니다.
 
 ## 사용자 액세스 활성화
 
-Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://adminconsole.adobe.com)에서 다음 AEM Sites Optimizer 제품 프로필 중 하나 이상에 할당되었는지 확인하십시오.
-
-* AEM Sites Optimizer - 사용자 자동 제안
-* AEM Sites Optimizer - 사용자 자동 최적화
+Preflight를 사용하려면 사용자에게 [Adobe Experience Manager Sites Optimizer](https://adminconsole.adobe.com)의 **Adobe Admin Console** 제품을 할당해야 합니다.
 
 ## Preflight 활성화
 
@@ -31,11 +26,11 @@ Preflight를 사용하려면 사용자가 [Adobe Admin Console](https://admincon
 
 범용 편집기에서 Preflight 기능을 설정하려면 다음과 같은 단계를 따릅니다.
 
-1. 다음 위치에서 **Extension Manager**&#x200B;를 엽니다.
+1. 다음 위치에서 **Extension Manager**를 엽니다.
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer Preflight** 확장 기능의 위치를 확인합니다.
 1. 조직의 시스템 관리자가 이 확장 기능을 활성화해야 합니다.
-1. 확장 기능 활성화 후 **범용 편집기**&#x200B;에서 페이지를 하나 엽니다. 예:
+1. 확장 기능 활성화 후 **범용 편집기**에서 페이지를 하나 엽니다. 예:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 확장 기능**&#x200B;이 **사이드 레일**&#x200B;에 나타납니다.
 1. 측면 레일에서 **Preflight 확장**&#x200B;을 선택하여 현재 페이지의 Preflight를 엽니다.
@@ -196,7 +191,7 @@ Preflight가 AEM Sites 페이지 편집기 도구 모음에 빌드되면 북마�
 
 ## 모범 사례
 
-Preflight 감사를 실행 시 다음과 같은 지침을 염두에 두십시오.
+Preflight 감사를 실행할 때 다음과 같은 지침을 염두에 두십시오.
 
 * 프로덕션에 게시하기 전 항상 **스테이징 페이지 또는 미리보기 페이지**&#x200B;에서 감사를 실행하십시오.
 * 끊어진 링크, 누락된 H1 태그, 안전하지 않은 링크 등 **큰 영향력을 갖는 문제** 해결을 우선시하십시오.
