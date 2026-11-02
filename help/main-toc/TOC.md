@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 랜딩 페이지에 표시될 사용 안내서에 대한 설명입니다.
-source-git-commit: af80dbb47a25b10cdbe55965fb7c4ce496448871
+source-git-commit: 7c362d99632758d1aba0af2bdccaa75c48abd2ec
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 93%
 ---
 
@@ -63,7 +63,6 @@ ht-degree: 93%
           + [제목](/help/documentation/preflight/opportunities/seo/headings.md)
           + [내부 링크](/help/documentation/preflight/opportunities/seo/internal-links.md)
           + [외부 링크](/help/documentation/preflight/opportunities/seo/external-links.md)
-          + [가독성](/help/documentation/preflight/opportunities/seo/readability.md)
           + [표준](/help/documentation/preflight/opportunities/seo/canonical.md)
           + [본문 크기](/help/documentation/preflight/opportunities/seo/body-size.md)
           + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
