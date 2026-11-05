@@ -4,9 +4,9 @@ description: AEM Sites Optimizer용 Preflight의 Lorem ipsum 감사에 대해 �
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 587aec4eb905a2b1ced746590ca25b8ed97b16c1
+source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '370'
 ht-degree: 1%
 ---
 # Lorem ipsum 감사
@@ -37,8 +37,12 @@ ht-degree: 1%
 ## 알려진 제한 사항
 
 * **&quot;lorem ipsum&quot;:** &quot;TBD&quot; 또는 &quot;lorem ipsum&quot;이 없는 다른 라틴어 채우기 단어와 같은 다른 자리 표시자 텍스트만 검색되지 않습니다.
-* **페이지의 강조 표시:**&#x200B;은(는) 페이지에 표시되지 않으므로 페이지 제목이나 메타데이터에 사용할 수 없습니다. 영업 기회에 표시된 텍스트를 사용하여 찾습니다.
+* **페이지의 강조 표시:**&#x200B;은(는) 페이지에 표시되지 않으므로 페이지 제목이나 메타데이터에 사용할 수 없습니다. **Details** 및 **Element** 상자를 사용하여 텍스트를 찾습니다.
 
 ## 해결 방법
 
-감사에서 기회를 찾으면 각 기회는 자리 표시자 텍스트가 표시되는 위치를 식별합니다. 사용할 수 있는 경우 **페이지에서 강조 표시**&#x200B;를 사용하여 콘텐츠의 텍스트로 이동합니다. 자리 표시자를 실제 콘텐츠로 바꾸거나 제거합니다. 대체 텍스트 및 접근성 레이블의 경우 이미지 또는 컨트롤에 대한 설명을 작성합니다. 영업 기회를 검토하고 해결하는 방법은 [Preflight에서 결과 감사](../../audit-results.md)를 참조하세요.
+페이지 제목, 대체 텍스트 또는 머리글과 같은 텍스트 위치는 **세부 정보**&#x200B;를 확인하세요. **권장 사항**&#x200B;에서는 수정 방법을 설명하고 **요소** 상자에 태그 안의 텍스트가 표시됩니다.
+
+가능한 경우 **페이지에서 강조 표시**&#x200B;를 사용하십시오. 숨겨진 요소는 다른 화면 크기나 메뉴 또는 대화 상자에 나타날 수 있습니다.
+
+자리 표시자 텍스트를 바꾸거나 제거합니다. 대체 텍스트 및 액세서빌러티 레이블의 경우 이미지 또는 컨트롤을 설명하십시오. 자세한 내용은 [Preflight의 감사 결과](../../audit-results.md)를 참조하십시오.
