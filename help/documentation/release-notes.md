@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 7a1c63e47cd778635fd18113bc2b08c83447fe35
+source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
 workflow-type: tm+mt
-source-wordcount: '3973'
+source-wordcount: '3999'
 ht-degree: 1%
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 1%
 - **완료할 수 없는 Preflight 감사** — 완료할 수 없는 감사가 이제 전달된 것으로 표시되지 않고 원인을 표시합니다. **% 전달됨** 그림에서 전달되지 않은 것으로 계산되며, CSV 및 PDF 내보내기에는 항상 표시됩니다.
 - **Preflight 대체 텍스트 진행 중** — 이미지에 대한 AI 검사가 계속 실행 중인 동안 대체 텍스트 영업 기회가 **제안 생성** 표시기와 함께 표시됩니다. 또한 Opportunity 세부 정보 보기는 결과가 변경될 때 사용자가 보고 있는 Opportunity에 유지됩니다.
 - **외부 링크 사전 설정 이유** — 이제 외부 링크 감사에서 서버 오류, 리디렉션 루프, 로그인이 필요한 링크, 법적 이유로 사용할 수 없는 링크 등 더 많은 오류 유형을 설명합니다. 시간 초과 또는 자동 확인 차단 링크에 대해 수동으로 확인하라는 메시지가 표시됩니다.
+- **Preflight Lorem Ipsum 세부 정보** — 이제 Lorem Ipsum 검색 결과를 통해 자리 표시자 텍스트가 표시되는 위치를 식별하고, 수정 방법을 설명하고, HTML 태그 내에 텍스트를 표시합니다.
 - **Preflight 페이지 캡처** — 이제 Preflight는 유니버설 편집기 외부에서 페이지를 분석하기 전에 느린 페이지가 로드될 때까지 최대 30초 동안 대기합니다.
 
 ### 버그 수정
