@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
 workflow-type: tm+mt
-source-wordcount: '3999'
+source-wordcount: '4035'
 ht-degree: 1%
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 1%
 이 페이지에서는 Adobe Experience Manager Sites Optimizer의 최신 업데이트, 새로운 기능 및 개선 사항을 문서화합니다.
 
 **(조기 액세스)**(으)로 표시된 기능은 요청 시 사용할 수 있습니다. 귀하의 계정 팀이나 고객 성공 엔지니어에게 문의하여 귀사에서 사용할 수 있도록 설정하십시오.
+
+## 2026년 11월 11일 {#november-11-2026}
+
+### 개선 사항
+
+- **Preflight 요소 패널** — 이제 **Element** 섹션에 가능한 경우 CSS 선택기 대신 이미지 축소판이나 읽을 수 있는 텍스트가 표시되고 요소의 텍스트나 CSS 선택기를 복사할 수 있습니다.
 
 ## 2026년 10월 26일~11월 1일 {#october-26-november-1-2026}
 
