@@ -1,15 +1,16 @@
 ---
 title: 프리플라이트 제목 감사
 description: AEM Sites Optimizer용 Preflight의 제목 감사에 대해 알아봅니다.
+badgePreflightSEO: label="Preflight - SEO" type="Caution" url="../seo.md" tooltip="Preflight - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '654'
 ht-degree: 0%
 ---
-# 머리글 감사
+# Preflight - 제목 감사
 
 **머리글** 감사에서는 페이지의 하위 머리글(H2 ~ H6)을 검토합니다. H2 다음에 H4가 바로 오는 경우처럼 텍스트가 없는 제목과 수준을 건너뛰는 머리글에 플래그를 지정합니다.
 
