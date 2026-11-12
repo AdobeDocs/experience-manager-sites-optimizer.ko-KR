@@ -1,15 +1,16 @@
 ---
 title: Preflight Lorem Ipsum 감사
 description: AEM Sites Optimizer용 Preflight의 Lorem ipsum 감사에 대해 알아봅니다.
+badgePreflightSEO: label="Preflight - SEO" type="Caution" url="../seo.md" tooltip="Preflight - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '375'
 ht-degree: 1%
 ---
-# Lorem ipsum 감사
+# Preflight - Lorem ipsum 감사
 
 **Lorem ipsum** 감사에서 페이지 콘텐츠에 남아 있는 자리 표시자 텍스트를 감지했습니다.
 

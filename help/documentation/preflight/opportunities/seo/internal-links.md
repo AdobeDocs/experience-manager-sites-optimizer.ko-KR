@@ -1,15 +1,16 @@
 ---
 title: Preflight 내부 링크 감사
 description: AEM Sites Optimizer용 Preflight의 내부 링크 감사에 대해 알아봅니다.
+badgePreflightSEO: label="Preflight - SEO" type="Caution" url="../seo.md" tooltip="Preflight - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1043'
 ht-degree: 0%
 ---
-# 내부 링크 감사
+# Preflight - 내부 링크 감사
 
 **내부 링크** 감사에서는 사용자의 사이트로 돌아가는 페이지의 링크를 검토합니다. 감사는 편집 중인 페이지의 각 내부 링크를 검사하고 방문자가 팔로우할 수 없는 곳에서 끊겼거나 안전하지 않거나 지정된 링크에 플래그를 지정합니다.
 

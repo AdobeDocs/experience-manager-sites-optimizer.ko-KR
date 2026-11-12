@@ -1,15 +1,16 @@
 ---
 title: Preflight SEO 감사
 description: Preflight가 AEM Sites Optimizer의 페이지에서 실행하는 SEO 감사에 대해 알아봅니다.
+badgePreflightSEO: label="Preflight - SEO" type="Caution" url="./seo.md" tooltip="Preflight - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 7c362d99632758d1aba0af2bdccaa75c48abd2ec
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '206'
 ht-degree: 0%
 ---
-# SEO 감사
+# Preflight - SEO 감사
 
 ![Preflight 결과 대시보드의 SEO 감사](./assets/seo/hero.png){align="center"}
 

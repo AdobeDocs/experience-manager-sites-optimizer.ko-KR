@@ -1,15 +1,16 @@
 ---
 title: Preflight 본문 크기 감사
 description: AEM Sites Optimizer용 Preflight의 Body 크기 감사에 대해 알아봅니다.
+badgePreflightSEO: label="Preflight - SEO" type="Caution" url="../seo.md" tooltip="Preflight - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '697'
 ht-degree: 0%
 ---
-# 본문 크기 감사
+# Preflight - 본문 크기 감사
 
 **본문 크기** 감사에서는 페이지의 본문 컨텐츠 양을 검토합니다. 콘텐츠가 매우 적은 페이지는 독자에게 유용하지 않을 수 있으며 검색 결과에서 순위가 낮을 수 있습니다. 감사는 텍스트가 너무 적은 것으로 보이는 페이지에 플래그를 지정합니다.
 

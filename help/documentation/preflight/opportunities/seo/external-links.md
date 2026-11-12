@@ -1,15 +1,16 @@
 ---
 title: 프리플라이트 외부 링크 감사
 description: AEM Sites Optimizer용 Preflight의 외부 링크 감사에 대해 알아봅니다.
+badgePreflightSEO: label="Preflight - SEO" type="Caution" url="../seo.md" tooltip="Preflight - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1117'
 ht-degree: 0%
 ---
-# 외부 링크 감사
+# Preflight - 외부 링크 감사
 
 **외부 링크** 감사에서는 다른 사이트를 가리키는 페이지의 링크를 검토합니다. 감사는 편집 중인 페이지에서 각 외부 링크를 확인하고 끊겼거나, 안전하지 않거나, 자동으로 확인할 수 없는 링크에 플래그를 지정합니다.
 

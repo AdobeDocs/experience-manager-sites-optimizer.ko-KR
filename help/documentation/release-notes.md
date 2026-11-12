@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '4035'
+source-wordcount: '4063'
 ht-degree: 1%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 1%
 ### 개선 사항
 
 - **Preflight 요소 패널** — 이제 **Element** 섹션에 가능한 경우 CSS 선택기 대신 이미지 축소판이나 읽을 수 있는 텍스트가 표시되고 요소의 텍스트나 CSS 선택기를 복사할 수 있습니다.
+- **Preflight 표준 HTTPS 확인** — 표준 감사에서 이제 `https://` 대신 `http://`을(를) 사용하는 표준 URL에 플래그를 지정합니다. 이 URL은 프로토콜이 페이지의 프로토콜과 다릅니다.
 
 ## 2026년 10월 26일~11월 1일 {#october-26-november-1-2026}
 

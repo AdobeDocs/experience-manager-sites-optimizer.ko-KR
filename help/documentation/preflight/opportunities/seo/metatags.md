@@ -1,15 +1,16 @@
 ---
 title: 프리플라이트 메타태그 감사
 description: AEM Sites Optimizer용 Preflight의 메타태그 감사에 대해 알아봅니다.
+badgePreflightSEO: label="Preflight - SEO" type="Caution" url="../seo.md" tooltip="Preflight - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '806'
 ht-degree: 1%
 ---
-# 메타태그 감사
+# Preflight - 메타태그 감사
 
 **메타데이터** 감사에서는 페이지 제목, 메타데이터 설명 및 기본(H1) 머리글을 검토합니다. 누락되었거나 비어 있거나 권장 길이를 벗어난 모든 페이지에 플래그를 지정하고 H1 머리글이 두 개 이상인 페이지에 플래그를 지정합니다.
 
